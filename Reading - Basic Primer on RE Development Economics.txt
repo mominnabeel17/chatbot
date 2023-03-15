@@ -1,0 +1,90 @@
+Revised August 2019
+
+A Basic Primer on Real Estate Development Economics
+Jahan Moslehi, GSB ’10 (revised by Paul Hayes GSB ’20)
+Developers create value by constructing a building which is worth more than the ingredients (processing
+of entitlements, steel, wood, concrete, land, labor, cost of capital, etc.).
+Entitlements are the legal rights to construct a building on a property. There are costs associated with
+securing the entitlements (i.e., hiring land-use lawyers or consultants to work with the local jurisdiction to
+receive a government-required permit to build).
+Although detailed financial models are used to project revenues and costs, developers assess value
+creation using simple, back-of-the-envelope calculations. The key calculations are summarized below:
+•
+
+NOI / TDC = ROC
+o NOI: Net Operating Income
+▪ When developers decide if they want to build a building, they analyze the prospective
+economics. The first step is to estimate NOI once the building is stabilized—
+completely constructed and has achieved full occupancy (tenants in place) less an
+assumed vacancy rate (typically a market standard assumption).
+▪ NOI is defined as revenues (rent) less expenses (operating costs, taxes and insurance)
+and is expressed on an annualized basis
+▪ NOI is calculated before accounting for the cost of financial leverage (principal and
+interest payments on a mortgage)
+o TDC: Total Development Cost
+o ROC: Return on Cost (the projected annual return). If this were a bond: annual interest
+payment divided by the par value of the bond.
+o Example:
+▪ If the total projected development cost (TDC) is $10 million and the projected
+stabilized NOI is $1 million, the projected return on cost (ROC) is 10% ($1 million /
+$10 million)
+▪ In real estate terminology, the developer “builds to a 10”
+
+•
+
+Capitalization (Cap) Rate = NOI / Sale Price
+o The cap rate is the buyer’s initial rate of return (annualized) after purchasing a real estate
+investment property
+o Example (continuing from above):
+▪ If a property that generates $1 million in NOI sells for $12.5 million, the cap rate is
+8%
+▪ $1 million / $12.5 million = 8% (buyer’s annual rate of return)
+o Because this is an algebraic equation, any two variables allow you to solve for the third
+variable:
+▪ Example: if a property’s NOI is $1 million and the market determines the appropriate
+cap rate is 8%, then the sale price is $12.5 million
+
+50
+
+▪ $1 million / 8% = $12.5 million
+o How is the cap rate determined?
+▪ Like all financial investments, the market decides based on its assessment of the risk
+of a real estate investment relative to other investment alternatives. For example, if
+an investor can earn a 2% annual rate of return on a 10-year US Treasury Bill, how
+much higher does the annual rate of return need to be to risk adjust for buying a
+building that has a 10-year lease in place? Historically, the required rate of return
+premium for income producing real estate (versus the US 10Y Treasury rate) has
+averaged ~400 basis points. So, if the US10Y Treasury rate is 2%, the market
+determined cap rate for real estate would be 6%. Cap rates may vary significantly
+from building to building based on location, tenant credit worthiness, lease terms, etc.
+•
+
+Development Profit and Mark-up
+o When evaluating the economic merit of developing a project, the developer uses the Total
+Development Cost (TDC) and the projected sale price of the project once stabilized to
+calculate the Development Profit.
+o Development Profit = Projected sale price – TDC
+▪ Example: if a property’s estimated NOI is $1 million and the market cap rate is 8%,
+then the projected sales price is $12.5 million. If the TDC is $10 million, then the
+Development Profit is $2.5 million ($12.5 million - $10 million)
+o The Development Mark-up is the Development Profit / TDC.
+▪ Example: $2.5 million / $10 million = 25%
+▪ Developers generally require a Development Mark-up of at least 20% to justify
+proceeding with a project.
+o Algebra allows you to arrive at the following relationships:
+▪ Development Mark-up = ROC / Cap Rate – 1
+• Example using numbers above: (10% / 8%) - 1 = 25%
+▪ Development Mark-up = Sale Price / Total Cost – 1
+• Example using numbers above: ($12.5 million / $10 million) - 1 = 25%
+▪ Development Mark-up = (Sale Price – Total Cost) / Total Cost
+• Example using numbers above: ($12.5 million - $10 million) / $10 million =
+25%
+▪ Development Mark-up = Development Profit / Total Cost
+• Example using numbers above: $2.5 million / $10 million = 25%
+
+Algebra illustrates that all four formulas are saying the same thing
+In this example, the Development Mark-up is 25%.
+
+51
+
+

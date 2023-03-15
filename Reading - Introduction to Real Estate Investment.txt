@@ -1,0 +1,239 @@
+Required Reading: Class #1
+
+INTRODUCTION TO REAL ESTATE INVESMENT
+GSB GEN306:
+DOUGLAS ABBEY & CHRIS MAHOWALD
+REAL ESTATE INVESTMENT
+WINTER 2023
+__________________________________________________________________
+Why do schools of management study real estate? After all, we don’t study other industries such as
+plastics. Here are some answers:
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+
+It is the largest asset class in the world;
+It is the largest source of personal wealth for many households;
+It is the source of many fortunes in the Forbes 400;
+Changes in real estate wealth are a key driver for the economy (both up and down!);
+Real estate offers diversification potential in a multi-asset portfolio;
+It plays an often-underappreciated role in the success (or failure) of most enterprises; and
+The built environment reflects the values of a society.
+
+More to the point, you will make a series of real estate decisions in your life: where to live, work, shop,
+play, conduct your business and hopefully invest. The class goal is for you to make these decisions with
+increased real estate knowledge and judgment. It is helpful to examine a dozen key product features which
+underlie real estate and differentiate it from other investment classes. These themes recur throughout the
+lectures and case discussions and are fundamental to understanding a real estate investment.
+1) Long Life
+The typical corporation turns inventory eight times a year. If product does not meet the market, feedback
+is rapid and painful (it is called standing inventory). The corporation redesigns, repositions and reprices its
+product to move the merchandise! Real estate has a useful life of 40 plus years or, if you wander down
+streets in Europe, centuries. Real estate product decisions are permanent, and costly, if not impossible to
+fix. How does value hold up over time? How does value compare to the cost of replacing the asset? This
+most important feature drives the remaining points of difference.
+2) Long Term Supply & Demand Forecasts
+By virtue of long life, the successful investor must forecast supply and demand out for decades. How
+accurate are the forecasting tools? Forecasting demand for 2030 is no easy task particularly because
+demand for most real estate is “derived”. For example, unlike cars or sweaters which sell by the unit,
+warehouse space has no intrinsic value; it simply serves as a step in an ever-shifting supply chain.
+What factors lead to changes in demand? In simplest terms, the basic building blocks are demographics
+and employment, which can be projected at the national level but can be quite challenging to forecast for
+an individual city or submarket. Why even does a city exist? What factors will change its ‘raison d’etre’? A
+myriad of currents and crosscurrents will influence demand including changes in macro-economic
+conditions, incomes, purchasing power, technology, global trade, consumer preferences, public policy,
+environmental regulation, regional competitiveness and natural events (earthquakes, rise in sea level).
+Let’s shift to supply. How can we predict who will build what and where and when? It may be easy to
+forecast short-term supply (work in progress and the development pipeline), but how about long-term
+supply? Real estate can range from being a commodity to a virtual monopoly depending on “supply
+constraints”. New supply is governed by the spread of value over cost. Is it easy to predict cost and value
+over 40 years?
+
+3) Capital Intensity
+Developers require significant capital to build a product that will be “consumed” over 40 years (contrast to
+a computer program which can be e-mailed to a user at virtually no marginal cost). By virtue of leases,
+which have a priority in corporate cash flow, commercial real estate can generate steady cash flow and
+therefore support a larger percentage of debt (i.e., 60-70%) than would be typical on a corporate balance
+sheet. How can debt and equity be combined to produce a successful investment? Who bears the risks
+and rewards? How are returns split between “talent” and “money”? How does a lender protect its
+investment? How much leverage is appropriate? Why do publicly traded REITs employ much lower
+leverage (i.e., 30%)?
+4) High Margins and Operating Leverage
+Real estate offers high operating margins to landlords. For real estate where expenses are low (e.g.,
+warehouses) and the tenant pays all expenses (known as triple net leases), margins approach 100%. Gross
+margins for real estate with higher operating intensity (e.g., hotels) are ~30% - still higher than many
+operating businesses. What are the economic implications of this relationship?
+5) Unique/Local Product vs. Global/Institutional Asset Class
+In contrast to most manufactured products, every real estate property is unique; hence the old saw that the
+three keys to real estate are “location, location and location”. Unique location translates into nonstandardized product features, positioning and pricing. The successful investor must be an astute student
+of a building’s position in a competitive environment. These skills are partly analytical, but just as much
+“walking and talking” and “wearing out shoe leather”. Visualization is a critical skill (the ability to conjure
+a building from floor plans and elevations).
+Notwithstanding its local dynamics, the global capital markets have transformed commercial real estate
+into an institutional asset class over the last several decades. The estimated value of commercial real estate
+worldwide is $30+ trillion of which over $16 trillion is in the U.S. Today, pension funds, sovereign wealth
+funds, REITs and other institutional players own well over half of the commercial real estate in the U.S.
+As a heavily debt financed asset class, there is an estimated $8+ trillion of commercial mortgage debt
+secured by U.S. real estate, the majority of which is held by institutional players. What implications do
+institutional ownership and lending have for the way commercial real estate is valued?
+6) Cyclicality
+By virtue of long product life, real estate investment is subject to cycles. Why is real estate more cyclical
+than most industries? Demand for consumer products (ie. cars, video games) may crest and wane but real
+estate is on a regular program of boom and bust. What factors lead to overbuilding? How long does it
+take to return to equilibrium? This leads to another old saw that the three keys to real estate are “timing,
+timing, and timing”. What is the optimal capital structure to “survive winter”?
+7) Role in an Investment Portfolio
+An individual property is illiquid and management intensive with high transaction costs. A property,
+unlike a corporation, doesn’t come with management. The investor inserts its own management team.
+The case for real estate investment in a multi-asset portfolio (and the argument that real estate is an asset
+class) rests on the following:
+▪ Real estate is a hard asset;
+▪ Real estate can be an inflation hedge;
+▪ Real estate can offer stable current income;
+▪ Returns may be less volatile than stocks and are not highly correlated to stocks and bonds; and
+▪ Potential for diversification within a real estate portfolio (geography, product type, lease structure,
+degree of risk).
+
+What causes real estate to behave differently? A lease is similar to a bond -- fixed for some duration
+(several days in the case of a hotel, up to 30 years for a single tenant retail building). Leases may be flat or
+hedged (i.e., indexed to CPI). Once the lease expires, the return is equity-like depending upon future
+supply and demand conditions. Hence, real estate is a hybrid between bonds and equity. The
+combination of fixed income characteristics and cyclicality can produce returns that vary from the broader
+capital markets.
+Diversification can be achieved by investing in the “four quadrants” below. Private real estate is much less
+volatile than public REITs because REITS are priced quarterly by appraisers, not the omniscient
+marketplace! How should an investor move between these four quadrants to seek value?
+
+Debt
+
+Equity
+
+Public
+
+Private
+
+CMBS
+
+Mortgages
+
+REITs
+
+Institutional /
+Doctors & Dentists /
+Friends & Family
+
+Should investment performance differ among the four major property types (office, industrial, retail and
+apartments)? Where else to invest? Homebuilding is a key part of the economy but is often ignored as a
+real estate investment vehicle. Homebuilding is a manufacturing business and returns are highly
+dependent upon land appreciation or depreciation. Hotels are a small part of the investment universe and
+are an operating business rather than a passive investment. Other exotica include land, timber, resorts,
+golf courses, mobile home parks, self-storage, senior living, biotech, data centers and outlet malls.
+8) Appreciation/Depreciation
+Are buildings like other hard assets which depreciate? Tax and accounting models account for
+depreciation but what is the real rate of “economic depreciation”? A “selling” broker’s model shows
+regular increases in rent at the inflation rate and values increasing correspondingly. And of course,
+residential sales brokers predict ever increasing home values! Why should this be the case? What happens
+as buildings age? Do they lose their competitiveness as newer more functional product is built? Does any
+“factor of production” appreciate?
+9) People Intensity
+Real estate transactions are episodic, non-standard, and heavily negotiated. Every transaction is different.
+Real estate organizations are small relative to the size of transactions and outsource heavily for expertise
+(e.g., brokers, engineers, architects, attorneys, environmental consultants, market analysts). Real estate
+loans and partnerships are expected to survive for many years. The human element is key to success.
+While institutions are dominant in real estate (banks, insurance companies, pension funds), “you do
+business with people, not institutions”. How people are paid can influence the outcome of a real estate
+investment. It is important to understand how the various parties to a real estate transaction are motivated
+and compensated.
+Real estate is a local business requiring “boots on the ground” experience, contacts, and knowledge. Local
+entrepreneurs are often undercapitalized to undertake a project and typically seek a capital partner. This
+marriage between local talent and money requires careful thought to align interests. How is the local team
+compensated? Who bears the risk and how are returns split?
+
+10) Tenant Focus
+Many describe real estate as a relationship business. The most important relationship is between the
+landlord and the tenant which drives income and may differentiate one building from another in the eyes
+of a tenant. This translates into higher (or lower!) occupancies, rents, and income which in turn drive
+value, financeability and ultimately – investment returns. Successful real estate developers can take tenant
+relationships on the road to other markets. How does a landlord build and maintain these tenant
+relationships?
+11) Legal Intensity
+When a company sells a box of soap there is no contract. Real estate is a “bundle” of rights to use
+property. Land use is heavily regulated at the local, state and federal levels. When all or a part of the
+“bundle” is leased, sold, or pledged as security, the agreement must stand the test of time. Legal
+documents are complex and often heavily negotiated to protect the rights and mitigate the risk of various
+parties who have significant capital invested for long periods of time. Some people describe the real estate
+business as a long series of negotiations.
+12) The Built Environment Reflects the Values of a Society
+For millennia, cities have been centers of innovation. Great cities attract entrepreneurs and have a
+vibrancy on the street which enlivens residents and attracts talent and visitors worldwide. Concentrated
+economic activity is profitable to owners of real estate, yet some cities are in decline. As a Dutch observer
+asked, “Why do you Americans throw away your cities?”
+How and why do land use patterns evolve? Why is most of America’s suburban office space located in a
+“favored quadrant”? How do we allocate land between buildings and open space? How do land use
+patterns affect global warming? How does land use policy affect income distribution, racial integration
+and school quality? Who benefits from policies designed to foster homeownership? (Hint: Most of the
+benefit of the mortgage deduction goes to the wealthiest households.) Do insiders or outsiders decide
+who gets to live in a community?
+What makes a city vibrant? As Justice Potter Stewart answered in reference to pornography, “I know it
+when I see it.” Surely, we can agree that a neighborhood is lively when there are interesting shops,
+restaurants, and foot traffic. How important is safety to “walkable urbanity”? What conditions create
+urban spaces that “work”? We will explore this topic in the “Hittin’ the Pavement” assignment.
+Megatrends
+Buildings are designed and constructed to last for a generation or more. As societies become more
+innovative, the way we use real estate changes. Consider how the automobile allowed cities to expand
+their geographic boundaries and the way technology has diminished the importance of centralized office
+locations. Megatrends are causing society and the economy to evolve in difficult-to-anticipate ways. In
+the last 10 years, several of these megatrends have had (and are having) dramatic and seemingly
+transformational impacts on real estate:
+ eCommerce
+ Covid
+ Inflationary Forces
+ The sharing economy
+ Autonomous vehicles
+ Mobile technology
+How do real estate developers and investors incorporate the shifting landscape into the built environment?
+Is there a place for the shopping mall or the office building in the future? Will buildings need parking lots?
+
+How do city planners adapt building codes and zoning regulations to account for the way we will use
+buildings?
+Real Estate Web
+These factors set the stage for analyzing a real estate investment. Success in investing then requires
+analyzing a “stack” of factors ranging from the macro economy to what’s happening on the block:
+ Macro & global economy
+ Consumer Preferences
+ Technology
+ Global health
+ Climate Change
+ Incomes
+ Demographics
+ Capital markets
+ Position in cycle
+ Aggregate property demand
+ Local economy
+ Government policy
+ Metro supply/demand
+ Submarket dynamics
+ Subject property features
+ Competitive market position
+A successful real estate investor or developer must take each of these factors into account and evaluate the
+dynamics between them to come up with a “point of view”. Let’s combine the differentiating factors and
+the real estate “stack” to create the real estate “web”.
+
+Surely this is a complex puzzle. And it is just a start. After the real estate risk and opportunity analysis,
+what is the appropriate capital and legal structure? And how about all the people required to negotiate,
+close and execute the strategy? To be a wise real estate investor requires curiosity, intelligence, insight,
+negotiating skills, perseverance and the ability to manage and motivate people. Opportunities exist
+
+because no one has unlocked the right combination. Projects fail because an important factor is neglected.
+At the end of the day, all the effort and analysis is distilled into the most important ingredient: real estate
+judgment which is the critical factor for successful real estate investment.
+
+The questions raised above are faced every day in managing a real estate enterprise. We will attempt to
+answer many of these questions throughout the course. These differentiating features will be useful lenses
+to evaluate the cases and more broadly to understand the essentials of real estate investment.
+
+

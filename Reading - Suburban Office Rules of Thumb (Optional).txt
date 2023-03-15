@@ -1,0 +1,77 @@
+Suburban Office Rules of Thumb
+▪
+
+Landlords and sellers like high load factors. Remember, gross area is the entire floor from outside
+window to window (let’s say 11,700 sf). Net Rentable area excludes all vertical penetrations such as
+stairwells, ducts and elevator shaft (say 11,000 sf). Usable space is where you can “walk” and
+excludes (in addition to vertical penetrations) hallways, bathrooms, elevator lobby (say 10,000 sf for a
+full floor tenant and 9,500 if subdivided). The load factor is the ratio of Net Rentable Area to Usable
+Area (in this case 1.10 or more commonly 10%) for the full floor tenant and 16% for a small tenant
+in a multi-tenant floor.
+
+▪
+
+Landlords like to remeasure buildings to make them bigger. This is notorious in New York where
+owners often include ground floor lobby, loading docks, storage space and the deli in the next door
+building!
+
+▪
+
+Suburban Office should have 3 - 4 spaces per thousand sf.
+
+▪
+
+Typical FAR for suburban 3 - 4 story building is .35 - .4 (floor area ratio or total Net Rentable Area
+divided by land area). Compare to industrial at .50. Three story building is higher intensity of
+building but four times as much parking is required.
+
+▪
+
+Average parking space is 335 sf.
+
+▪
+
+Ideal floor size is a function of use. Small tenant profile (2,500 sf) need 35 – 40 feet depths (core to
+window) equals 12,000 sf floor size. Larger user/open plan depths at 45 feet equals20,000 – 25,000
+sf floor. If floor gets too large, tenants have less access to light and air and it is harder to subdivide.
+In Netherlands tenants by law can’t be more than 8 meters from a window! Therefore, European
+buildings have small floor plates and narrow bay depths which is nice for the tenant but very
+expensive to build and operate.
+
+▪
+
+Perimeter offices are great for executive officers but oppressive for admin staff as they block all
+natural light.
+
+▪
+
+Historical Standard – 1 employee per 300 square feet but moving to a more dense standard of 1/200
+square feet. Impacts parking ratio. Example: Cisco Systems or Google.
+
+▪
+
+F.A.R. near transit – City providing great density given a project’s proximity to light rail, Caltrain, etc.
+Increase of .10 to .65 F.A.R.
+
+▪
+
+Fire/Life Safety had a great impact on buildings 75 feet or higher. Building code triggers additional
+fire alarm requirements, additional smoke evacuation requirements, elevator type, and other codes
+that increase construction costs. 75 feet (6 stories) is the magic number where anything above this
+height is affected by these codes at a premium of $10-15 PSF for the entire building. If the area
+requirement is just slightly above the 6 story availability - one suggestion might be, increase the
+footprint of the building slightly to add additional square footage and remain under the 75 ft level, or
+commit to 120-12 stories to make economical sense. (i.e., If your footprint was 30k SF that would
+yield 180 SF of building (6 x 30). If you need 200K SF you could increase the footprint to 33K
+instead of 30K and that would be 198K SF.)
+
+142
+
+▪
+
+Site Density: Surface parking at 3/1000 SF maxes out at approximately 45% coverage. Structured
+parking is prohibitively expensive for developments under 75% coverage.
+
+143
+
+

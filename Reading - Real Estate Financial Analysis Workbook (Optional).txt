@@ -1,0 +1,271 @@
+Real Estate
+Financial Analysis
+Workbook
+Rev. August 24, 2015
+
+Adjunct Professor John H. Vogel, Jr., Tuck School of Business at Dartmouth
+created this Workbook.
+©2003 Trustees of Dartmouth College. All rights reserved. For permission to reprint, contact the
+author or Tuck School of Business at 603-646-3176
+
+65
+
+The Characteristics of Real Estate
+Real estate investments have a number of unique and critically important characteristics. The six key
+characteristics of real estate are:
+1. Fixed Location
+2. Non-Standard Pricing
+3. Capital Intensive and Often Highly Leveraged
+4. Highly Cyclical
+5. Locally as well as Nationally Regulated
+6. Long Lived and Durable
+Consider the financial implications of each of these characteristics and how they impact the value of a real
+estate investment over the long term.
+Forms of Profit in Real Estate
+There are a variety of forms of profit that result from the development and ownership of real estate
+investments. Listed below are five key forms of profit.
+Cash Flow Before Taxes:
+
+The cash flow generated periodically by the property. Cash flow before
+taxes consists of the excess of revenues over expenses including the
+payment of debt service but before the impact of federal income taxes.
+
+Tax Shelter Benefits:
+
+The potential benefits unique to real estate from depreciation allowances
+and interest deductibility.
+
+Residuals:
+
+The proceeds from the sale or refinancing of a property after all debts and
+other expenses have been paid off.
+
+Equity Build-Up:
+
+The growth in an owner’s equity over time as the principal of a mortgage
+is repaid.
+
+Fees:
+
+The expenses associated with a real estate transaction.
+
+66
+
+The Set-up
+The set-up is a real estate term for the combined income and cash flow statement. The set-up provides
+the basis for analyzing a potential real estate investment. By adjusting the assumptions used in a setup, an
+investor is able to test their impact on the cash flow.
+Gross Revenue
+(Vacancy Allowance)
+Effective Gross Income (Operating
+Expenses) (Property Taxes)
+(Structural Reserve)
+Net Operating Income
+(Debt Service)
+Cash Flow Before Taxes
+Components of the Set-up
+•
+
+Gross Revenue – the analysis begins with the projected rental and other revenues assuming 100%
+occupancy.
+
+•
+
+Vacancy Allowance – The appropriate percentage is a function of market conditions. It also
+includes an amount for bad debt and concessions.
+
+•
+
+Effective Gross Income (EGI) – The Gross Revenue minus the Vacancy Allowance.
+
+•
+
+Operating Expenses – This includes administrative, maintenance, repairs, insurance and utilities.
+
+•
+
+Property Taxes – The current taxes assessed on the subject property. (This line item is
+sometimes included in the operating expense figure.)
+
+•
+
+Structural Reserve – Some amount should be set aside for predictable expenses required to
+maintain the property, like a reserve for roof repairs. Some investors deduct this after net
+operating income.
+
+•
+
+Net Operating Income (NOI) or Cash Flow from Operations (CFO) – The Effective Gross Income less
+operating expense and property taxes. For our purpose it also includes a structural reserve.
+
+•
+
+Debt Service – The annual “constant payment” of principal and interest required to finance the
+property.
+
+•
+
+Cash Flow Before Taxes – The Net Operating Income less Debt Service.
+
+67
+
+Real Estate versus Business Profit & Loss
+It is useful to compare a standard form of profit and loss statement used for business with real estate cash
+flow analysis. An example of each is presented below:
+Real Estate Profit & Loss
+
+Business Profit & Loss
+
+Gross Revenue
+Less (Vacancy Allowance)
+Equals Gross Income
+Less (Operating Expenses)
+Less (Property Taxes)
+Less (Structural Reserve)
+Equals Net Operating Income
+Less (Debt Service)
+Equals Cash Flow Before Taxes
+
+Sales
+Less (Cost of Goods Sold)
+Equals Effective Gross Profit
+Less (Sales, General Admin. Exp.)
+Equals Operating Profit
+Less (Depreciation)
+Less (Interest)
+Less (Rent)
+Less (Officer Compensation)
+Equals Earnings Before Income Taxes
+
+The business profit and loss statement focuses on matching expenses to revenues. In contrast, real estate
+profit and loss is represented by a pure cash flow statement. Business profit and loss recognizes
+depreciation expense while the real estate profit and loss ignores it. The business statement recognizes
+only interest expenses while the real estate statement deducts total debt service including principal as well
+as interest. Finally, in business there is a focus on earnings and profit while in real estate cash flow is the
+primary focus.
+Valuation and Cap Rates
+Each real estate project throws off an income stream. This Net Operating Income (NOI) or Cash Flow
+from Operations (CFO) can be divided among the lenders and owners. Investing in income-producing
+real estate is essentially the purchase and sale of this income stream. Real estate value can be determined
+by capitalizing (dividing) an income stream by the overall market rate of return or capitalization rate. The
+capitalization rate (or cap rate) is the rate demanded by the market in a typical real estate transaction. It
+represents the return an investor can expect the asset to generate the first year. The cap rate is often
+lower than the overall rate of return the investor expects because it does not include appreciation.
+
+Net Operating Income
+Value =
+
+Cap Rate
+
+Where do cap rates come from? The answer is the market-- much the way the stock market decides the
+appropriate price-earnings ratio. Many factors influence cap rates like: projected returns from alternative
+investments, inflation expectations, economic growth forecasts and supply and demand. In justifying the
+cap rate that an appraiser uses for a particular property the following theoretical justifications are often
+presented:
+a) Band of Investment Approach: In this approach, the appraiser looks at the annual rate of return
+required by equity investors and the interest rate on currently available debt. Each of the
+68
+
+rates is weighted by the proportion of total value they represent to determine the
+capitalization rate. The return on equity is adjusted based on expectations of the likely
+appreciation (or depreciation) of the property.
+b) Comparable Sales Approach: Appraisers derive a cap rate by calculating the cap rate on
+comparable properties that have recently been sold. They make an adjustment based on
+how this particular property stacks up against these comparable properties. In general, we
+rely on this approach in this course when selecting the appropriate cap rate.
+Keep in mind the following about cap rates:
+1. They vary by property type (e.g., office, industrial, retail, multifamily)
+
+2. Cap rates for a particular property are influenced by macro factors like what is happening
+in the broader economy and the capital markets as well as local real estate fundamentals
+like supply and demand.
+The graphs on the next page depict historical cap rates and Treasury yields. Typically cap rates are a
+couple of hundred basis points higher than 10-year Treasuries. For example, in 2012, when 10-year
+Treasuries were about 2%, average cap rates for high quality properties in the NCREIF index averaged
+about 5.5% or a 3.5% spread. As you can see in the graph below, this 3.5% spread changes over time and
+is sometimes narrower and sometimes wider. In the early 1980s when 10-year Treasuries were at close to
+15%, the spread turned negative because people were so worried about inflation that they preferred an
+asset like real estate that would benefit from inflation to an asset like a Treasury which does not.
+
+69
+
+NCREIF Cap Rates vs. 10-Year Treasury
+20.0 ...--------------------------------
+
+10.0
+
+5.0
+
+NCREIF transaction cap rate (value weighted)
+Cap Rate – Treasure Spread
+
+2012
+
+2011
+
+2010
+
+2009
+
+2005
+
+2006
+2007
+2008
+
+2003
+2004
+
+2002
+
+2001
+
+2000
+
+1999
+
+1995
+1996
+1997
+1998
+
+1992
+1993
+1994
+
+1989
+1990
+1991
+
+1986
+1987
+1988
+
+1983
+1984
+1985
+
+1982
+
+0.0
+
+10-year Treasury
+
+Discounted Cash Flow Analysis
+In deciding whether to invest in a property, investors often look at the potential cash flow from two
+perspectives. First, they analyze the stabilized cash flow when the building is 90% or 95% occupied. This
+snapshot which has been the subject of most of this workbook allows them to estimate the initial return
+they will earn on their equity as well as the value of the property.
+The second way that investors analyze the cash flows from a property is to build a model that projects
+cash flows into the future and then discount them back to the present. The industry standard is a ten (10)
+th
+year projection with a terminal or sales value based on capitalizing the NOI in the 11 year. For this
+discussion, we will use a five (5) year projection and estimate a sales price based on the NOI in year 6.
+The proceeds from the sale should be added to the cash flow in year 5.
+The discount rate is different and usually higher than the cap rate. A cap rate represents the initial return
+on the project’s cost whereas the discount rate represents the total return, including appreciation that
+investors require. It is sometimes called the ‘hurdle rate’.
+
+70
+
+

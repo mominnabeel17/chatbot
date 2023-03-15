@@ -1,0 +1,70 @@
+November 2019
+A Basic Primer on Residual Land Value
+Doug Abbey and Chris Mahowald, GSB ‘89
+Development begins with the purchase of a vacant piece of land. How much is the land worth? A
+quick method is to evaluate comparable parcels of land nearby. Are they truly comparable? And
+where do the “comps” get their value from?
+The correct technique is to calculate residual land value analysis. Developers back into the
+maximum price to pay for the parcel. To determine land value, developers project the value of the
+completed development, and then subtract all the costs of development (including projected profit
+margin or mark-up).
+To calculate residual land value the following inputs are required:
+• NOI
+• Cap Rate
+• Hard Costs (construction)
+• Soft Costs (interest, legal, financing, due diligence, etc.)
+• Required Profit Margin to undertake the risks of development
+A Residual Land Value Example
+The projected NOI of an office building is $100, and the cap rate is 5%.
+Projected Value then equals $2,000 ($100/5%).
+Total construction cost is $1,000 and soft costs are $300
+Required profit markup is 20%.
+We back into the required profit by division:
+•
+•
+
+$2,000/1.2 = $1,667
+The total development cost (including land) that the project
+could support to allow for a 20% profit mark-up
+$2,000-$1,667 = $333
+The required profit – hence a “factor of production” or
+“cost”
+
+Calculation of Residual Land Value
+Projected Building Value
+Less Construction
+Less Soft Costs
+Less Required Profit
+
+$2,000
+($1,000)
+($300)
+($333)
+
+Equals Residual Land Value $367
+
+The maximum amount the developer can pay for the land and retain the minimum 20% profit
+margin. If the land can be bought at a lower price, the developer’s projected profit would be in
+excess of the 20% hurdle.
+Now let’s reverse the math. If the developer buys the land for $367, here is the pro forma:
+Construction
+Plus Soft Cost
+Plus Land
+Total Development Costs including Land but excluding profit
+Let’s see what the margin is.
+Projected Value
+Less Total Development Cost (Excluding Profit)
+Projected Profit
+Projected Profit Markup (333/1,667)
+
+$2,000
+($1,667)
+$333
+20%
+
+$1,000
+$300
+$367
+$1,667
+
+

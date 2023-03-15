@@ -1,0 +1,502 @@
+January 2018 (Revised September 2019)
+A Basic Primer on Carried Interest (aka Promote) and Other Features in Joint Ventures
+Chris Mahowald, GSB ’89 (revised by Caleb Cragle and Paul Hayes, GSB ’20)
+Basic Terminology
+Typically, in real estate joint ventures, there are two parties: the capital source (the money) and the
+operator or sponsor (the talent). As a rule, the sponsor sources investment opportunities and executes the
+business plan. Sponsors seek equity by partnering with a capital source, who will provide the majority of
+the equity (the sponsor typically arranges debt). As forms of compensation for sourcing the opportunity
+and providing day-to-day management of the joint venture, the sponsor often receives 1) fees and 2) a
+profits interest referred to as a carried interest or promote—terms which are used interchangeably.
+Real Estate Joint Ventures
+Real Estate Joint Ventures or JVs generally take the form of a limited partnership and are governed by a
+limited partnership agreement (‘LPA’). Typically, the operator or sponsor serves as the general or
+controlling partner (GP) within the LPA and capital source serves as a limited or passive partner (LP).
+The JV’s primary objective is to own and operate a profitable real estate project. Each party within the JV
+has its own role and having aligned interests and a clear division of responsibilities within a proper set of
+governance provisions is important the for smooth and successful operation of the real estate. Key items
+within an LPA include:
+•
+
+Capital Contributions: What % of the equity is contributed by each party – 90% LP and 10%
+GP is a common ratio. The GP’s contribution (often referred to as the GP co-investment) needs
+to be significant in the context of its financial capacity so that it has ‘skin in the game’ and both
+parties share in the upside and downside.
+
+•
+
+Control: LPA’s include governance provisions which define how decisions are made within a JV.
+Typically, the LPA references an initial business plan which defines the anticipated operating
+parameters for the property (e.g., leasing parameters, operating expenses, capital expenditure plans,
+etc.). The LPA generally allows the sponsor or GP to execute the business plan within these
+parameters. The LPA typically includes a major decisions provision which defines major asset level
+decisions such as when to sell (and for how much), refinancings, major leasing decisions, major capital
+improvement projects, etc. Generally, the capital provider or LP has approval rights over these
+decisions. Often, the LP has the right to replace the operator or GP if the property fails to achieve the
+business plan for an extended period.
+
+•
+
+Fees: Since the GP provides operating resources and expertise, it often receives fees to
+compensate it for the cost of the resources it provides. Common examples include:
+o An acquisition fee for the costs the GP incurs to find, evaluate and close an investment. An
+acquisition fee may range from 0.5-2.0% of purchase price of the property. Note that third
+party costs are generally capitalized into the JV partnership and thus the acquisition fee is
+incremental and compensates the GP for internal resources it provides.
+o A property management fee for the costs the GP incurs to operate oversee day-to-day property
+operations (e.g., keeping the property clean, systems in working order, etc.). The property
+management fee normally ranges from 3-5% of rental revenue. Onsite personnel at a
+property (e.g., maintenance personnel) are typically expensed to the property and thus the
+property management fee compensates the GP for its oversight of the property.
+
+o An asset management fee for the costs the GP incurs to oversee the JV partnership’s
+ownership interest in the property (e.g., monitor and decide on leasing and capital
+expenditure activity). The asset management fee normally ranges from .5-1% of the equity
+value of the property.
+o A construction management fee for the cost the GP incurs to oversee construction activity. This
+includes development of new buildings as well as capital expenditures for existing buildings
+(e.g., roof replacement or tenant improvement work). Generally, the construction contract
+is outsourced to third party construction companies. The construction management fee
+normally ranges from 3-7% of the cost of the construction work depending upon the size
+and complexity of the construction. GP’s often employ personnel with construction
+expertise to oversee the construction process, monitor periodic payment draws under the
+construction contract, etc.
+o A financing fee for the cost the GP incurs to arrange, negotiate documents and close
+financings. Generally, a JV partnership outsources to a mortgage broker the effort to
+identify the best lender for a project – and the mortgage broker receives a brokerage fee
+which is capitalized into the JV partnership. The broker fee ranges from .5-2% of the loan
+amount depending upon the size and complexity of the financing. All third party costs
+(e.g., appraisals or environment reports) are capitalized into the loan amount. Infrequently,
+the GP may receive an additional financing fee for arranging the loan of up to 1.0% of loan
+amount market rate). As part of its arrangement to receive a promote or carried interest,
+the GP is generally responsible for providing any guarantees required by the lender.
+Carried Interest or Promote
+Promote is a type of incentive, profit sharing-based compensation. It is received in exchange superior
+performance and/or bearing a disproportionate share of the risk. Promote allows for the sponsor to earn
+an outsized portion of the total return in relation to their total investment. Reasons for being awarded
+promote include:
+• Sourcing the investment
+• Providing the skills and operating expertise necessary to execute the business plan (e.g.,
+entitlement, development and construction management, and leasing)
+• Financing guarantees required by lenders (including construction guarantees)
+Note: Promote terminology differs based on the LPA, but generally, the capital source is termed as being promoted. It is
+easiest to think of the sponsor as the one promoting the deal.
+Determining the Promote Amount
+The amount of promote is generally negotiated and may reflect different factors including:
+• Experience and track record of the sponsor
+• Execution difficulty of the business plan
+• Size of the sponsor’s co-investment
+• Fees earned by the sponsor outside of the promote (i.e., the more fees, the less promote)
+Cash flows in a joint venture are distributed to the parties according to a set of rules and priorities
+established in the joint venture agreement. The distribution is known as the waterfall because there are a
+series of tiers, each of which has a different distribution ratio. Once the conditions for that tier have been
+satisfied, all remaining cash flow falls to the next tier … and so on.
+Before the sponsor is entitled to receive its promote, capital sources generally require a return of all
+invested capital plus a return on invested capital known as a preferred return. The preferred return is
+
+intended to ensure that the capital source receives a minimum rate of return before the sponsor receives its
+outsized profits interest. The preferred return generally ranges from 6% to 12% per annum. Note that all
+invested capital is entitled to the preferred return—both the capital source’s as well as the sponsor’s coinvestment. In a typical joint venture, the capital source and the sponsor may invest capital in the ratio of
+90/10. The relevant language in the joint venture agreement which addresses the preferred return may
+read as follows:
+“100% of cash flow is distributed to the Parties pro rata until the parties have received (a) a full return of
+their Initial Equity plus (b) an amount necessary to achieve an Internal Rate of Return of 10% per annum
+on Initial Equity.”
+Once all invested equity and a 10% per annum return on the equity has been distributed, that tier in the
+waterfall has been satisfied and the remaining cash flow falls to the next tier, in which the sponsor would
+receive its promoted share of all remaining cash flow. The language in the joint venture agreement for the
+promote tier in the waterfall may read as follows:
+“Thereafter, 15% of cash flow is distributed to Sponsor as a profits interest (“Sponsor Promoted
+Interest”); and 85% to the Parties pro rata.”
+Example of a Joint Venture Waterfall Calculation
+A sponsor buys a building for $1 million (all equity and no debt) which generates $100,000/year of net
+operating income. Assume the sponsor invests 10% and the capital source invests the remaining 90%.
+The parties agree to pay the sponsor a promote equal to 15% of all cash flow after all capital has been
+returned plus a 10% per annum preferred return. Assume the building is sold for $2 million at the end of
+the third year.
+
+Net Operating Income
+Initial Equity
+Investment
+Net Operating CF
+Net Sales Proceeds
+Net Cash Flow
+IRR
+Equity Multiple
+Profit
+
+Year 0
+
+Year 1
+
+Year 2
+
+Year 3
+
+Total
+
+-
+
+100,000
+
+100,000
+
+100,000
+
+300,000
+
+(1,000,000)
+
+-
+
+-
+
+-
+
+(1,000,000)
+
+(1,000,000)
+
+100,000
+100,000
+
+100,000
+100,000
+
+100,000
+2,000,000
+2,100,000
+
+300,000
+2,000,000
+2,300,000
+
+33.10%
+2.3x
+1,300,000
+
+In the absence of a promote agreement between the parties, all cash flow including the profit is split prorata:
+Sponsor →
+
+10% x $2,300,000 = $230,000
+
+Capital Source →
+
+90% x $2,300,000 = $2,070,000
+
+However, since the partnership includes a promote to be paid to the Sponsor (if earned), the sharing of
+cash flows is different. The preferred return is 10% per annum and thus the preferred return due in year
+one is:
+10% x $1,000,000 = $100,000
+Since the property earns this amount, the $100,000 is distributed to the parties pro rata in each of the three
+years while the partnership owns the property. Note that if the property’s net cash flow was insufficient to
+pay the entire amount of the preferred return in any given year, the unpaid portion would accrue and be
+added to the invested capital for the following year. Similarly, if the property’s cash flow was in excess of
+the preferred return in any given year, the excess would be distributed to the parties in proportion to their
+investment (90/10) and the invested capital amounts would be reduced accordingly. Note also that most
+property requires some amount of capital expenditures each year and this amount reduces the distributable
+cash flow.
+The preferred return schedule over the life of the investment is detailed below:
+Net Cash Flow
+Beginning of Period Preferred
+Return Outstanding
+Preferred Return Due This Period
+Preferred Return Paid
+End of Period Preferred Return
+Outstanding
+
+Year 0
+(1,000,000)
+
+Year 1
+100,000
+
+Year 2
+100,000
+
+Year 3
+Total
+2,100,000 1,300,000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+100,000
+(100,000)
+
+100,000
+(100,000)
+
+100,000
+(100,000)
+
+300,000
+(300,000)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+When the property is sold at the end of year three for $2 million, the first $1 million must be distributed to
+the investors in order to return their invested capital. Once all capital has been returned and the preferred
+return is fully paid, the remaining cash flow ($1 million in this example) flows to the next tier in the
+waterfall in which the sponsor is entitled to its 15% promote:
+Sponsor Promote →
+
+15% x $1,000,000 = $150,000
+
+Remaining Cash Flow →
+
+85% x $1,000,000 = $850,000
+
+In this tier of the waterfall, the remaining cash flow is distributed pro rata to the parties:
+Sponsor →
+
+10% x $850,000 = $85,000
+
+Capital Source →
+
+90% x $850,000 = $765,000
+
+The full return of capital and promote schedule is detailed in the table below:
+Net Cash Flow
+
+Year 0
+(1,000,000)
+
+Year 1
+100,000
+
+Year 2
+100,000
+
+Year 3
+Total
+2,100,000 1,300,000
+
+Beginning of Period Preferred Return
+Outstanding
+Preferred Return Due This Period
+Preferred Return Paid
+End of Period Preferred Return
+Outstanding
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+100,000
+(100,000)
+
+100,000
+(100,000)
+
+100,000
+(100,000)
+
+300,000
+(300,000)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,000,000
+1,000,000
+
+1,000,000
+1,000,000
+
+Net Cash Flow Before Promote
+
+-
+
+-
+
+-
+
+1,000,000
+
+Promote to Sponsor
+
+-
+
+-
+
+-
+
+150,000
+
+Net Cash Flow for Distribution
+
+-
+
+-
+
+-
+
+850,000
+
+Post Promote Cash Flow to Sponsor
+Post Promote Cash Flow to Investor
+
+-
+
+-
+
+-
+
+85,000
+765,000
+
+(100,000)
+(900,000)
+
+10,000
+90,000
+
+10,000
+90,000
+
+Beginning of Period Equity Balance
+Equity Contribution
+Return of Capital
+End of Period Equity Balance
+
+Total CF To Sponsor
+Total CF To Investor
+
+1,000,000 1,000,000
+- (1,000,000)
+1,000,000
+-
+
+345,000
+265,000
+1,755,000 1,035,000
+
+In this example, the sponsor invests $100,000 (or 10% of the investment) and receives a return of its
+investment plus $265,000 comprising $150,000 in Promote and $115,000 of additional cash distributions.
+The sponsor’s total share of profits is 20.4%, an outsized share relative to its 10% investment. Similarly,
+the capital source receives a return of its $1 million investment plus $1,035,000 or 79.6% of total profits,
+an undersized share relative to its 90% investment.
+Additional Considerations
+The example above is a simple illustration of the basic concepts. In practice, promote is more nuanced.
+Listed below are several common variations of promote conventions:
+Multiple-Tiered Waterfalls
+Waterfalls may have more than one promote tier designed to compensate the operating partner for
+extraordinary performance. Using the example above, although the initial hurdle might be a 15% promote
+above (or over) a 10% per annum preferred return, a capital source may offer an additional tier, say a 30%
+promote over a 20% preferred return. In this instance, cash flow is distributed according to the first
+promote tier (15% to the sponsor as promote and 85% to the parties pro rata) until the capital source has
+reached the second tier preferred return (20% in this case) at which point all remaining cash flow is
+distributed according to the second tier promote ratio (30% to the sponsor as promote and 70% to the
+parties pro rata). The language in the joint venture agreement may be worded as follows:
+•
+
+100% of the cash flow is distributed to the Parties pro rata until the parties have received (a) a full
+return of their Initial Equity plus an amount necessary to achieve a 10% Internal Rate of Return on
+Initial Equity;
+
+•
+•
+
+Next, 15% to Sponsor as a profits interest (“Sponsor Promoted Interest”); and 85% to the Parties
+pro rata until the Parties have received an amount necessary to achieve a 20% Internal Rate of
+Return.
+Thereafter, 70% to the Parties pro rata and 30% to Sponsor Promoted Interest
+
+Equity Multiple Hurdles
+Occasionally, investments are sold quickly, producing a relatively high IRR, but a comparatively low equity
+multiple. Similarly, refinancing may return capital and pay off the preferred return causing the sponsor to
+be “in the promote” prematurely.
+To address this possibility, a financial partner may impose a minimum holding period, during which the
+financial partner may block a sale of the asset until a certain amount of time has elapsed. A financial partner
+may also require that in addition to achieving the preferred return, the invested equity must also return a
+minimum multiple before the sponsor is entitle to a promote. For example, in addition to the 10% per
+annum preferred return, the investment must return a minimum 1.5x equity multiple before the sponsor is
+entitled to a promote.
+Types of Waterfalls
+There are two different ways promote may be allocated, referred to as “European” and “American”
+waterfalls. These promote methodologies apply to multiple investments within a fund rather than an
+individual investment.
+The European, or global, waterfall refers to a promote structure calculated at the fund level. In a
+European waterfall, the sponsor is not entitled to promote until the investors have received distributions
+equal to all contributed capital plus the preferred return on all capital has been paid (termed “backweighted”). This structure is friendlier to investors, as it ensures that investors receive a return of all
+invested capital plus a minimum return before the sponsor is entitled to its incentive compensation.
+An American, or deal-by-deal, waterfall refers to a structure in which the sponsor is entitled to promote on
+individual assets regardless of the overall performance of the fund. An American waterfall is more
+favorable to the sponsor who may receive its promote on one or more strong performing assets while one
+or more poorly performing asset may lose money. This has the added benefit (to the sponsor) of
+accelerating promote—the sponsor may begin receiving promote when the first asset in the fund liquidates
+rather than waiting for enough assets to be liquidated to return all capital (plus the preferred return) for the
+entire fund. To protect the investor, joint venture agreements may include a clawback clause. Under the
+clawback clause, investors may require the sponsor to hold back or escrow some portion of the promote
+(e.g., 25%) that investors can “claw back” if subsequent investments fail to return all investor capital or the
+preferred return is unpaid.
+
+Sources of Interest Conflicts in JVs
+•
+
+GP Co-investment/Promote: Promote structures allow GPs to receive a disproportionate share of
+the profit from a real estate investment. Many GPs push for a small co-investment amount which may
+poorly align the interests of the parties.
+o Incentive to Chase Risk: GPs may pursue high risk investments and operate a property with
+a ‘swing for the fences’ mentality because of their ability to receive an outsized share of the
+profits if successful (i.e., pursue a lease with a poor credit tenant that requires high TIs and is
+willing to pay a higher rent);
+or
+o Risk of Low Motivation: If a property underperforms and the prospect for the GP earning
+meaningful promote is unlikely, the GP may lose incentive and not be engaged.
+
+•
+
+Fees: GPs may be incentivized to pursue mediocre investments, especially large investments, which
+have the potential for high fees. Fees allow GPs to financially benefit regardless of the investment
+outcome.
+
+•
+
+Management: Affiliates of the GP are often engaged to asset- or property-manage an investment.
+Because the GP gets paid fees for these services whether or not the property performs well, this can be
+a source of conflict.
+
+•
+
+Sale: When to sell, and at what price, are important decisions that can lead to conflict between the
+parties. If an investment is performing well, LPs may push for longer holding periods for several
+reasons: 1) defer taxes, 2) increase multiple on invested capital, and 3) relieve the burden of deciding
+how to reinvest the capital. GPs may be more motivated to sell earlier as a sale allows them to
+monetize their promote, especially for profitable investments. Conversely, GPs may be pushed to hold
+investments longer to perpetuate the investment’s fee stream.
+
+
