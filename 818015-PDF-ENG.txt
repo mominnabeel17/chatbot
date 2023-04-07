@@ -1,0 +1,1445 @@
+9 -8 1 8 -0 1 5
+REV: NOVEMBER 2, 2017
+
+ROBERT F. WHITE
+RAMANA NANDA
+OLIVIA HULL
+
+Lovepop
+On May 11, 2015, less than three weeks before their graduation from Harvard Business School
+(HBS), Wombi Rose and John Wise sat in a Toyota Tundra pickup truck behind Boston’s South Station,
+where their company, Lovepop, sold three-dimensional (3D) paper art cards at a small retail kiosk.
+After working feverishly for 16 months, bootstrapping operations with their own savings and a few
+loans, the founders had in late April attracted seed funding offers from two different investors. Now
+they faced a decision: which offer to accept? Seated side-by-side in the parked vehicle, the friends and
+business partners debated the merits of the two offers.
+Rose and Wise had founded Lovepop during their first year at HBS after discovering the 3D paper
+art of kirigami on a school trip to Vietnam. Soon after, the team began creating their own pop-up cards a
+using computer design techniques they had learned while earning undergraduate degrees in naval
+architecture. Since founding the company in February 2014, Rose and Wise had worked on the
+company at every available moment, between classes and on weekends. Both entrepreneurs planned
+to work full-time on scaling the company after graduation. Sixteen months since its founding, Lovepop
+had achieved $209,000 in cumulative revenues, but was not yet cash flow-positive, and funds were
+very low. A $40,000 loan, granted by OnDeck Capital, would last them through graduation—just 18
+days away—but with a monthly burn rate of roughly $40,000, they would need much more than that
+to survive.
+Then came the investors’ offers in quick succession. One was from Techstars Boston, a start-up
+accelerator that would provide three months of mentoring, networking, and exposure to prominent
+investors. In return for that support and $18,000 in cash, Techstars wanted 6% equity. In addition,
+Techstars had indicated that Lovepop was also eligible for a $100,000 convertible note and that
+moreover, they would help the founders secure any additional funds they needed prior to an
+institutional round of funding. The second offer was from California incubator Founder.org, which
+had offered a $300,000 convertible note. Both investors wanted an answer by the next day. It was now
+3 p.m.
+
+a The founders referred to the art form Lovepop used to create its product as slicegami™ because it combined sliceform ship
+design techniques with kirigami.
+Senior Lecturer Robert F. White, Professor Ramana Nanda, and Case Researcher Olivia Hull (Case Research & Writing Group) prepared this case.
+It was reviewed and approved before publication by a company designate. Funding for the development of this case was provided by Harvard
+Business School and not by the company. Robert F. White is an angel investor in Lovepop. HBS cases are developed solely as the basis for class
+discussion. Cases are not intended to serve as endorsements, sources of primary data, or illustrations of effective or ineffective management.
+Copyright © 2017 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800-545-7685,
+write Harvard Business School Publishing, Boston, MA 02163, or go to www.hbsp.harvard.edu. This publication may not be digitized, photocopied,
+or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School.
+
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+Founding Lovepop
+Rose and Wise met in 2005 as engineering undergraduates at New York’s Webb Institute. Rose noted:
+The school has 100 people. The only degree is naval architecture and marine
+engineering. Everyone who attends receives a full-tuition scholarship. Your freshman
+year you’re in a shipyard grinding steel and welding. Your sophomore year you’re sailing
+on a ship. I was on a chemical tanker and went across the North Atlantic. John was on a
+container ship going to Hawaii. That’s what we did. We learned how to design ships.
+After he and Rose earned degrees in naval architecture and marine engineering in 2009, Wise took
+a job designing ships in Louisiana. Following a four-year stint designing patrol boats for the U.S. Coast
+Guard and Navy, Wise decided to apply to business school with the hope of someday building his own
+company. After graduating from Webb, Rose enrolled at MIT to pursue a masters in Computation for
+Design and Optimization, and upon graduating from MIT, Rose joined McKinsey & Company,
+working mainly on oil and gas and shipping-related projects. In early 2013, Rose happened to be in
+Australia working on a consulting project when Wise called him and said he had been accepted to HBS.
+Rose recalled:
+John had looked up after four years and said, “My entire life is my work, and I have
+no ownership in what I am building. I need to learn how to do business, but I’m an
+engineer and I don’t know anything about business, so I should apply to business school.”
+So that’s how he ended up applying and getting in to HBS. When we spoke, it was after
+the first round of applications and there was still time to apply in the second round, so I
+applied as well.
+In March 2013, Rose was accepted into HBS’s second round of applications; he would join Wise’s class
+in the fall. Rose said, “We started at HBS with the thought that we’re going to start a business together.”
+In September 2013, the friends moved into an apartment in Harvard Square and began the MBA
+program. At HBS, the two continued to discuss and research various entrepreneurial opportunities.
+They considered building an industrial fish farm, and attended industry events and networked with
+people in the field. But after evaluating various business models, they decided it would not work. They
+also investigated the natural gas trucking and trading space, conducting market research and forming
+relationships with experts. But ultimately, they felt they were not knowledgeable enough in that arena
+to be successful. Rose also worked on several startups in his first year at HBS; one, BevSpot, sold
+analytics software to bars, and another built an application (app) to catalog ship inspections.
+In January of 2014, the friends traveled to Vietnam for their Field Immersion Experiences for
+Leadership Development (FIELD), a component of the HBS first-year curriculum. FIELD paired a
+group of first-year MBA students for two weeks with a business in a global location with a problem to
+solve. “Six months into our HBS experience, we coincidentally were both selected to go to Vietnam for
+FIELD. While in Vietnam, my assignment was working for an online dating company trying to make
+a dating app and John was working for an online radio company trying to make their radio app. Things
+that we were very qualified to be doing,” Rose said with irony. One evening, while wandering among
+street vendors in Ho Chi Minh City, the friends came upon a stall selling pop-up cards. It was their
+first encounter with kirigami, a form of origami that involved cutting and folding paper into small
+sculptures. In awe, the two examined the intricate shapes. “We were asking ourselves, why haven’t we
+ever seen anything like this?” Rose recalled. “We were fighting over who could use it for their own
+personal stationery because we didn’t both want the same unique stationery to write thank you notes.”
+
+2
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+In addition to the aesthetics of the cards, the naval engineers were intrigued by the underlying
+design techniques, which were similar to naval architecture. “We realized we could engineer anything
+into a pop-up card,” Rose said. 1 Before leaving Vietnam, Wise and Rose tracked down a manufacturer
+and packed a box of cards in their suitcase, with plans to sell the cards to their HBS classmates. They
+initially priced the cards at $5, but quickly raised prices to $8 and then again to $13 as they figured out
+willingness to pay. Within 30 days, they sold 150 cards. Noted Wise:
+With the initial sales success, we decided to start a business. We realized that we
+needed to design ourselves, that we needed to own the art, and that the products we had
+were really awesome on the surface but they were not tailored to the American market at
+all, and we knew that we had the skill sets to do it. So we spent spring break of our first
+year designing a holiday line.
+To do this, Wise and Rose invested in an electronic cutting machine, and began experimenting with
+design software. “Originally it was us in our basement with a Silhouette cutter, which cost about $200,
+with a mat that has sticky on it. So you put the paper on it, you stick it to the mat, and then it runs
+through the machine. There’s a little knife that just runs around and cuts it out. And you have to peel
+it off so it curls when you take it off. It’s horrible. But I designed the first card in 17 hours. I designed
+with AutoCAD, b used the Silhouette cutter, made three prototypes and we were ready to go.” The first
+original Lovepop card was a paper replica of the mid-19th century clipper ship, The Young America,
+whose architect, William H. Webb, had founded the partners’ alma mater (see Exhibit 1 for an
+illustration of the original design). After designing six cards this way, they graduated to using a laser
+cutter at Danger!Awesome, a makerspace in Cambridge’s Central Square that charged $3 per minute.
+At Danger!Awesome’s rate, it cost $100 to prototype a card, on average. The process began with a
+sketch on paper, followed by a rendering on design software. Next, the designs were programmed into
+a cutting machine or laser cutter, which sliced the paper into shapes according to the software’s
+instructions. Finally, the pieces of cut paper were assembled by hand using glue and string. Each design
+required multiple prototypes to refine appropriately.
+As summer approached, the partners began to discuss the best way to launch their product. They
+had at least four major sales channel options. They could list the products on a marketplace such as
+Etsy (an online marketplace specializing in handmade wares) or Amazon (a giant Internet retailer), sell
+cards on their own website, sell wholesale to boutiques, or sell directly to consumers offline at a small
+dedicated Lovepop shop, craft fairs, or a retail kiosk. While Amazon and Etsy would expose their
+products to a broad audience, the founders worried that listing costs and other fees would be
+prohibitively expensive. In addition, this channel was highly competitive and did not give Lovepop
+any ownership of the customer. Alternatively, they liked the idea of selling to boutiques or other
+retailers, but wondered how to build those relationships and worried that the margins might be thin.
+As for offline direct-to-consumer opportunities, the team did not feel they could stock an entire store
+with cards, but felt confident they could fill a table at a craft fair, and eventually, a small retail kiosk
+like those found in malls and other places with high pedestrian traffic.
+After some deliberation, the founders decided to start by selling directly to consumers—online and
+at local craft markets. On April 1, Lovepopcards.com launched with cards available for purchase in
+nine categories, including birthday, love, and wedding. Cards sold for $8 to $15 each. In contrast to
+traditional greeting cards, Lovepop cards were blank inside because the founders felt personal
+messages were more meaningful than printed greetings. The night before the launch, Rose and Wise
+
+b AutoCAD was a brand of computer-aided design (CAD) software.
+
+3
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+stayed up emailing everyone in their extended network about their new business to start generating
+demand. The first day saw almost $2,000 in sales on the site. The second day, sales dropped to $50.
+In addition to listing their cards on the website, the founders also began a content marketing
+campaign with the Lovepop blog. The first blog post, “Gratitude Guide: How to Write Meaningful
+Thank You Cards,” offered tips for writing thoughtful thank-you notes. “With the popularity of emails,
+text messages, tweets and social media posts, communication is becoming more streamlined and less
+personal. However, gratitude never goes out of style. Handwritten thank-you notes remain
+appropriate and expected in many situations,” the Lovepop team advised. 2
+That April, the founders also began to sell cards at the SoWa Open Market in Boston’s trendy South
+End neighborhood. Each weekend, the market drew local artisans, farmers, food trucks, and brewers.
+There, the founders were able to see customer response to their product first-hand. Wise noted:
+People loved the cards. No one had ever seen them before. It was more than just a cool
+product. Cards have value, they connect people. From the customer interviews we
+conducted, we found that people have a deep personal connection with these cards. HBS
+gets you thinking about how you can add meaning to the world; with these cards, we
+weren’t just selling something, we were connecting people.
+By the spring of their first year, the founders felt their company was beginning to take shape. But
+as first-time founders, each milestone brought a new set of questions and strategic dilemmas. Seeking
+advice, the friends sought to leverage every resource available to entrepreneurs starting new ventures
+at HBS. In mid-April 2014, they entered the school’s New Venture Competition (NVC), a pitch contest
+open to early-stage businesses, and were selected as semi-finalists by a panel of judges. “The New
+Venture Competition taught me the power of ‘just doing it,’” Wise reflected. 3 “Our first year, we did
+NVC mostly for the judging feedback, and we ended up making the semifinals! Being in the semifinals
+shortlisted us for summer incubation programs, and the summer incubation programs helped us
+understand the opportunity we were sitting on and motivated us to push. NVC was truly an early
+catalyst that kicked us off to where we are today.” 4
+As NVC semifinalists, the Lovepop founders were eligible for an interview with Founder.org, a
+California-based incubator and investor. Established in 2012 by serial entrepreneur Michael Baum, the
+non-profit group sought to support young companies founded by full-time students: “We work with
+leading colleges, universities and research institutes throughout North America and Europe to advance
+student entrepreneurship,” Baum explained. 5 “The goal is to significantly increase the number of student
+entrepreneurs by backing the brightest student founders and biggest ideas.” 6 Unlike a traditional
+incubator, the program did not offer office space but instead offered a year-long remote mentorship
+program conducted via videoconferencing—a convenient format for full-time students. Each week, a
+Founder.org mentor met with the founders of the 50 companies in the cohort on Google Hangout. c
+In June 2014, Founder.org accepted Lovepop to their year-long remote mentorship program’s second
+cohort. The program did not involve an exchange of cash for equity, but rather, provided the team with
+c Over the course of the program, the companies competed for $100,000 in prize money, which was awarded to 10 ventures per
+
+cohort. In addition, Founder.org also offered follow-on investments to some firms after they completed the yearlong program.
+By September 2014, Founder.org had supported eight participating companies with seed funding. Said Vinay Mahadik,
+cofounder of Securely, a Founder.org company, “With the FOUNDER.org investment as a catalyst, Securly was able to go from
+being a boot-strapped startup to an over-subscribed $1M+ round within a month.” (Sources: “Founder.org,” from the Revolvy
+website, https://www.revolvy.com/main/index.php?s=Founder.org; Vinay Mahadik, “Tech Startups: The FOUNDER.org
+Experience,” Entrepreneurship at Wharton, January 21, 2014, https://entrepreneurship.wharton.upenn.edu/blog/tag/techstartups/; accessed August 2017.)
+
+4
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+what they hoped would be valuable guidance. In July 2014, Wise and Rose traveled to Paris, where the
+cohort of 50 Founder.org-supported companies gathered for a conference. At the conference, the
+founders learned about Founder.org’s eight dimensions of company-building (idea, team, product,
+business planning, market development, customer development, operations, and fundraising), and
+practiced pitching their business to the other participating companies. “Every new person I met had an
+amazing story and was pumped to help each other on their journeys,” Rose wrote on the Lovepop blog. 7
+In the summer between their two years at HBS, the two founders dedicated themselves to the
+company. They were awarded a 12-week summer fellowship from HBS’s Rock Center, which included
+a weekly stipend of $600 per week for 12 weeks to offset living expenses. They also took advantage of
+the HBS i-lab, where entrepreneurs could set up their operations and use the facility on campus as a
+company headquarters. Rose adopted a rigorous weekly routine split between selling cards at Bostonarea open-air markets and managing the daily operations of the business. On Fridays, Saturdays, and
+Sundays, he would wake up at 6 a.m., load merchandise and a tablecloth into Wise’s truck, and drive to
+one of three local markets. There, he would unload the inventory before scrambling to find a parking
+spot and hurrying back—sometimes running, other times on his bicycle—to guard his gear. After selling
+cards for 10 to 12 hours, he drove home to count the proceeds and organize the inventory. Rose recalled:
+At the end of the day, after literally not eating or drinking anything because I was by
+myself just selling there, I would pack up all the gear, run to get the truck, drive back, put
+the equipment in the truck, drive home, and spend three hours counting money, counting
+inventory, and trying to organize everything that just happened. Around midnight, I
+would be exhausted and just pass out. It was like that for three days. And then the week
+would start and I could start working on like actual business things. But that revenue was
+pretty significant and at no cost, really. It only cost $100 to be at the fair.
+On Mondays, he returned to the i-lab and his general management duties. Meanwhile, Wise spent
+the summer vetting manufacturers in Vietnam.
+By this time, Lovepop sold 12 original designs, including six holiday cards. In addition to the
+Lovepop website, the team listed its products on Etsy, and had filled a few custom card orders. The
+founders had also signed a wholesale contract with The Grommet, another online retailer specializing
+in handmade and unique gifts, to produce a set of six holiday-themed cards.
+That summer, Lovepop applied to appear on Shark Tank, a U.S.-based reality television show with
+8 million viewers that filmed entrepreneurs pitching to a panel of investors. 8 With only $6,000 in sales,
+it was a long shot. After a few interviews, the founders were told they were not selected.
+As the fall semester approached, Rose and Wise began to debate whether or not they would return
+to HBS for their second year and complete their degrees. The business consumed much of their time
+after class and on weekends, leaving little time for academics and networking (not to mention a social
+life). At first, Wise advocated that they defer enrollment in the second year of the HBS program. Unlike
+Rose, who felt he could easily resume a career in consulting if Lovepop failed, Wise had concerns about
+missing HBS’s well-known recruiting season, which he had planned to use as a way to pivot from
+engineering into another field. “I said, let’s defer, see what happens with Lovepop, and still have the
+option of going back and taking advantage of the recruiting opportunities,” Wise said. “We were also
+going into debt for this degree. I wondered, why are we going to school for a lot of money when we
+are working 70 hours a week on this business? It was a high-stakes decision for us.”
+Ultimately, both decided to return to HBS for the second year, in part because they feared they
+would not otherwise complete the degree. At this point, the two considered shutting down the
+5
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+business. “Going into the EC d year was a very stressful time between us. When we decided to commit
+to staying on for a second year at HBS, I basically said ‘Let’s shut this thing down,’” recalled Wise.
+“And then we didn’t, and we kind of just kept going.” Instead of expanding their retail presence to
+mall kiosks, they decided to focus in the short-term on online sales. “We thought, naively, that the
+online business wouldn’t require much effort,” Rose said. By the end of August 2014, Lovepop’s
+revenues totaled nearly $40,000.
+That fall, the Lovepop founders began to prepare for the busy holiday season. In October, they
+launched a Kickstarter campaign to fund production of Christmas and other holiday cards. Within
+three weeks, 454 people had pledged more than $21,000 on the site; more than double the original goal. 9
+“We are so excited to help you make lasting memories this holiday season,” the team wrote on
+Kickstarter. 10 “You will make someone smile, warm their heart, and remind them of your love and
+care.” 11 By the end of 2014, Lovepop had generated $95,000 in revenues and incurred roughly $18,000
+in operating losses. “The card itself is absolutely gorgeous and very well-crafted,” wrote one Etsy
+customer. 12 “Pictures don’t do it justice.” 13
+The founders were pleased with their progress in 2014, but knew there were still many
+improvements to make. At Lovepop, the card procurement cycle consisted of four major steps: card
+design, prototyping, placing the order with the manufacturer and, roughly six weeks later, delivery of
+the shipment. According to the terms of the agreement with the contract manufacturers, Lovepop paid
+50% of the cost of a shipment upfront (at the time of the order), then 50% on delivery. However, the
+quality of shipments was often poor. Wise said,
+We bought all our inventory up front, which was very much the reality of that phase
+of the business. In addition, we were having huge quality issues. Half of the shipments
+would come with the wrong colors and poor quality. We didn’t trust that they were
+paying people or providing adequate working conditions. They would say they were
+making it one place and then actually make it somewhere else. We thought to ourselves,
+we can’t do this!
+In January 2015, Wise traveled to Vietnam to investigate. While touring the factories, he became
+convinced that the manufacturing process could be brought in-house. He felt such a move would lower
+costs, raise the quality of the products, and give Lovepop more control over delivery speeds and factory
+working conditions. In March 2015, Wise invited Ha Trinh Quoc Bao, a renowned kirigami designer
+who had designed a few cards for Lovepop, for coffee. At the meeting, Wise asked Bao, who was 22
+years old and in his final year of architecture school, if he could set up a Lovepop factory. Within two
+months, Lovepop transitioned production from contract manufacturing to their small factory in the
+coastal city of Da Nang, Vietnam. Rose and Wise gave Bao $15,000 to open the factory, which employed
+10 people, measured 80 square meters (861 square feet), and had two laser cutters. Production capacity
+was 100 cards per day.
+While Wise traveled to Vietnam, Rose began investigating offline retail opportunities beyond the
+open-air markets. “We wanted to figure out how to increase sales and reach a certain level of
+consistency,” Rose said. Online sales were seasonal—they peaked during major holidays but slumped
+other times of the year. January was particularly slow. Having heard that Boston’s South Station train
+terminal attracted a lot of foot traffic, Rose “cold-emailed” the station management to inquire about
+available retail space. The station offered Lovepop a one-month pop-up shop, and available dates
+coincided with Valentine’s Day. They asked Colin Spillane, an employee and fellow Webb alumnus, to
+d At HBS, the second year of the program is known as the elective curriculum, or “EC.”
+
+6
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+build and manage the kiosk. Spillane built the $2,000 kiosk with Home Depot plywood in his garage.
+During February 2015, cards flew off the kiosk into customers’ hands—in total, Lovepop sold $34,000
+cards at the kiosk alone during a single one-month period. For the fiscal year 2014 and the four months
+ended April 2015, the Kiosk channel was the largest sales channel, suggesting that it could be a
+profitable channel that could scale across the country.
+In the spring of 2015, Lovepop enrolled in the 10-week Venture Incubation Program (VIP), which
+helped Harvard students launch and scale companies through peer and expert mentoring, networking
+opportunities, private workshops, and educational events. Through VIP, the founders received close
+mentorship from Adrian Gill, an HBS graduate and the former vice president of Puma’s footwear
+division, who provided particularly valuable advice as the team explored go-to-market strategies and
+creative direction.
+That spring, the founders were also selected to participate in HBS’s Rock Accelerator, which
+awarded the Lovepop founders $5,500 toward their business expenses. The Rock Accelerator helped
+firms prototype and iterate on their products, validate the go-to-market plan and build a business
+model. The Rock website stated, “The chosen teams experience deep-dive coached sessions and checkins, pitch feedback and opportunities to pitch for seed funding. The goal is for teams to emerge from
+the program with a strong foundation for building or expanding a market ready product.” 14 The team
+spent the stipend on inventory.
+
+Greeting Cards in 2015
+In 2015, the greeting card publishing and related products market had estimated wholesale sales of
+$4.8 billion, of which 55% was sales of single greeting cards and 12.4% was boxed greeting card sets. 15,e
+Lovepop estimated that retail revenues for the entire industry were about $7 billion. Analysts
+considered the industry to be declining at a rate of 5% per year, due in part to increased competition
+from e-cards and the consolidation of downstream markets such as bookstores (see Exhibit 2 for
+industry trends and information about major players). 16 In recent years, the industry had also
+consolidated, resulting in a highly concentrated market dominated by two players. Hallmark Cards
+Inc.—which sold its products at more than 30,000 stores in the U.S.—had 61.9% of the industry’s market
+share. 17 The second-largest firm, American Greetings Corporation (AGC), which owned the high-end
+Papyrus brand, accounted for 22.9%. 18 Analysts expected the industry to continue to decline at a rate
+of nearly 5% between 2015 and 2020. 19 “Publishers of traditional print greeting cards are experiencing
+intense competition from Internet companies that publish greeting cards online,” one industry report
+noted. 20 “Related sources of competition include social media outlets such as Facebook and Instagram
+that allow users to share free online greetings with friends and family. In addition, consumers are
+increasingly using their own content, such as digital photos and videos, to create and send personalized
+greeting cards. 21
+Greeting card publishers sold through two main channels—wholesale and directly to consumers
+via brick-and-mortar retail and e-commerce. Wholesale accounted for the vast majority of revenue.
+Walmart alone accounted for 14% of the industry’s revenue in 2015, while Target accounted for 5%. 22
+By contrast, direct-to-consumer sales accounted for just 11% of revenue. 23 (Remaining revenue was
+driven by sales to stationery wholesalers, educational institutions, and other organizations. 24) The two
+biggest industry players, Hallmark and AGC, sold most of their inventory in big-box, drug, and grocery
+
+e The remaining product segments were consumer publishing including yearbooks, coloring books, postcards, and posters (24%),
+business, trade, and professional publications (4%), and other services including selling advertising services (5%).
+
+7
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+stores. Lovepop’s founders felt that this distribution strategy caused structural resistance to innovation
+because the manufacturing gross margins were low (estimated at 25%) and the manufacturer carried
+the risk of unsold inventory at their retail customers. The industry leaders also had sizeable retail
+footprints: Hallmark sold inventory through more than 2,000 (mostly independently-operated)
+Hallmark Crown Gold Stores, while AGC sold inventory to Schurman Fine Papers, which had acquired
+AGC’s retail segment (including American Greetings, Carlton Cards, and Papyrus stores) in 2009. 25
+Despite a decline in paper-based communication and the rise of e-cards, U.S. consumers purchased
+6.5 billion cards in 2014. 26 However, consumer needs had shifted. “The biggest change we have seen
+in the last three years is the consumers’ demand for a broader range of product,” said the president of
+the U.S. Greeting Card Association. 27 “The consumer is not a monolithic character, they are a culturally
+rich group—geographically segmented, age segmented and multi-culturally segmented.” 28 In 2012,
+greeting cards retailed for an average of $2 to $4, but Papyrus cards and other high-end offerings could
+cost as much as $10. 29 An estimated 80% of greeting card buyers were women. 30
+Though not strictly considered greeting cards, wedding invitations represented another sizeable
+stationery opportunity. E-cards were fairly popular in the wedding invitation space, with half of
+wedding guests reporting that they received only digital invitations. 31 However, couples who opted
+for paper invitations were often willing to pay a substantial sum; in 2014, the average wedding budget
+allocated $439 for invitations, according to the Knot, a wedding website. 32 (The average guest list size
+in 2015 was 136. 33) By 2015, many paper wedding invitations were purchased online.
+
+Financing Lovepop
+Lovepop’s first funding came from its founders, who each contributed $15,000 in savings
+throughout the first year of the business to build the website, purchase inventory, and buy equipment.
+As the company grew, the founders continued to invest money to ensure its survival. They also sought
+external funding.
+While modest, the initial funding Wise and Rose were able to raise kept the company above water.
+In August 2014, Rose and Wise were awarded a $10,000 convertible grant in a Founder.org pitch
+contest, which would automatically convert into equity if the company raised a financing round of at
+least $500,000. In October 2014, Dorm Room Fund Boston, a venture fund that invested in full-time
+students, said it would give the team a $20,000 convertible note. 34 Dorm Room’s Managing Partner
+Bruno Faviero said, “It’s not very often that you see a product that makes you go, ‘Wow,’ but that’s
+exactly what I heard all around the room when . . . Rose first brought a sample of LovePop’s cards to
+the Dorm Room Fund team.” 35 In addition, Rough Draft Ventures, the student-led division of General
+Catalyst, invested $12,500.
+They also received assistance from a friend, Josh Rothman, who loaned the company $30,000. In
+addition, the Rock Accelerator awarded them a $5,500 grant in the early spring of 2015, which they
+spent on inventory. But by April of 2015, Lovepop was running out of money again. With help from
+HBS classmate Sean Salas, who at the time was working on his own startup, Camino Financial, the
+team was able to secure a loan in late April from small business lender OnDeck Capital for $40,000 at
+28% annual interest. By the end of April 2015, Lovepop had achieved cumulative sales of $209,000. “In
+hindsight, there wasn’t really a good reason for them to have given us this loan, or for us to have taken
+it, but we needed the money,” Rose said. According to the founders’ estimates, the loan would last the
+company through graduation from HBS but not much further. The founders knew they would need
+additional capital to keep the company running. Lovepop’s monthly operating expenses in April were
+$64,000, and the team expected costs to rise as they expanded their staff. Furthermore, they would need
+8
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+to hire additional employees and cover start-up costs for the kiosks (estimated at $20,000 per kiosk), as
+well as operational costs. The current plan was to open kiosks in two outlet malls near Las Vegas,
+Nevada, as well three in California. They also signed a lease for May 1 for a kiosk in Washington, D.C.’s
+Union Station train terminal. (See Exhibit 3 for 2014-2015 financials.)
+During their final semester at HBS, Julia Austin, a local technology entrepreneur and HBS visiting
+professor, gave a guest presentation in Rose’s Product Management 101 elective course. After class,
+Rose introduced himself to Austin, showing her a sample Lovepop card, and describing his aspirations
+for the company. Impressed, Austin offered to introduce the team to Ty Danco, managing director of
+the Boston branch of the Techstars start-up accelerator. One company had dropped out of Techstars’
+2015 summer cohort, and Danco encouraged Lovepop to apply to fill the opening. After an initial call
+with Danco on April 17, the founders were invited to the Techstars office for an interview. Unlike the
+other companies in the cohort, Lovepop was not a traditional technology company. “Initially, there
+was debate inside as to whether they would be a good fit for Techstars, since the mission is to help
+entrepreneurs bring new technologies to the market and their product was so different from anything
+else we’ve done,” recalled Eveline Buchatskiy, a Techstars managing director. “But when we met the
+team, we just immediately fell in love.” In particular, Techstars admired the team’s response to the
+application question, “What’s your biggest accomplishment?” Instead of answering the question in
+prose, the team forwarded a link to a short video that described a project they had undertaken with
+friends to build a small steamboat-style raft for viewing the July 4 fireworks on Boston’s Charles River.
+Danco reflected:
+As soon as I saw their video about building the pirate “Miss USA” float, I knew we
+had to have them. They showed technical skill, imagination, daring, efficiency all in one
+short video, and the story behind that—breaking all the rules but then “pleading the
+fourth”—proved to me that they had the right mentality for entrepreneurship. Then when
+I saw that they were making real sales and proving demand while still students, it was an
+easy decision to take them.
+Soon after the team’s interview, on April 28, Techstars offered Lovepop a spot in their 2015 summer
+cohort. The terms were identical to those presented to the other 11 participating companies: $18,000 in
+cash in exchange for 6% equity, with an optional additional $100,000 convertible note.
+
+Incubators and Accelerators
+Start-up incubators emerged in the U.S. in the late 1950s, but earned particular fame during the
+technology boom of the 1990s. In general, these organizations offered office space and administrative
+support to new ventures for a low fee; in some cases, they also provided introductions to investors. 36
+An estimated 93% were not-for-profit organizations and 33% had ties to higher education institutions. 37
+Incubators supported entrepreneurs for up to several years. However, after the dot-com bubble burst
+in 2001, many incubators shut down their operations. “Technology incubators, which invest in and
+nurture new tech businesses . . . got a bad reputation in the bust, when firms like CMGI and
+eCompanies lost billions of dollars on countless start-up failures whose names have long been
+forgotten,” wrote Time magazine. 38 In the mid-2000s, a new type of start-up support organization
+emerged: the seed accelerator.
+The first accelerator, Y-Combinator (YC), was established in 2005 in California’s Silicon Valley as a
+sort of boot camp that provided young technology businesses with training and support in exchange
+for a small portion of equity. 39 Soon after, other accelerators emerged, adopting models that were the
+same as or similar to YC’s. In contrast to incubators, accelerators were “fixed-term, cohort-based, ‘boot
+9
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+camps’ for startups [that] offer[ed] educational and mentorship programs for startup founders,
+exposing them to wide variety of mentors, including former entrepreneurs, venture capitalists, angel
+investors, and corporate executives; and culminate in a public pitch event, or ‘demo day,’ during which
+the graduating cohort of startup companies pitch their businesses to a large group of potential
+investors.” 40 These programs, which were generally for-profit ventures, typically enrolled
+entrepreneurs for 10-12 weeks, providing office space and a small amount of seed funding. Operating
+under the theory that competition with the other cohort companies would drive performance,
+accelerators helped firms “do in four months what it would take you 12 months to do on your own,”
+said one observer. 41 In 2014, there were an estimated 215 accelerators in the U.S., up from 28 in 2009. 42
+As researchers noted:
+New programs appear nearly every month, and in many ways, accelerator
+participation has become a rite of passage for budding entrepreneurs. Yet, with the
+proliferation of programs, the newness of the phenomena, and little to no publicly
+available data on outcomes for the programs and affiliated start-ups, it is hard for
+entrepreneurs to determine which programs are most effective and, more importantly,
+which specific program would be the best fit for their particular start-up’s goals. 43
+The top selling point was exposure to investors. “Winning a place at one of New York City’s elite
+startup accelerators is like getting accepted to Harvard or Yale—and many entrepreneurs go all-out to
+secure what can be a powerful calling card,” wrote one observer. 44 This arrangement helped investors
+vet new ventures: “If a company has the TechStars or Y-Combinator stamp of approval, it is probably
+less risky than, say, a random person who emailed you with an idea,” wrote one writer. 45 Some saw
+this as a shortcut for investors: “Cynics say that mentoring is just a form of due diligence and a way of
+creating a ‘proprietary deal flow’—meaning privileged access to good deals,” an observer noted. 46
+Shortly after YC’s emergence, Techstars was founded in 2006 in Boulder, Colorado and by 2007 had
+expanded to Boston. By 2014, it had 14 active programs in various cities around the world, each of
+which provided office space, seed funding ($18,000 in cash in exchange for 6% equity), and mentorship
+to a cohort of new technology ventures. Of the 483 companies that were Techstars graduates in 2014,
+77% were still operational and 11% had been acquired. 47 In 2015 rankings of U.S. accelerators, which
+evaluated programs based on the average valuation of participating companies, the ability of those
+companies to raise money, the “exit” rate of those firms, and the survival rate, Techstars placed among
+the top programs. 48
+
+Comparing the Offers
+As their graduation from HBS approached, the two founders felt the stakes were rising for their
+fledgling company. Despite all they had accomplished, they were running out of cash (see Exhibit 4
+for a timeline of company milestones and Exhibit 5 for financing). In April 2015, Techstars Boston was
+finalizing its cohort for the summer season, and they courted Lovepop aggressively. On April 25, the
+founders received a video call from the Techstars team while out for dinner. The Techstars team
+promised to help Lovepop close a seed round of $300,000 before the accelerator program even started.
+Meanwhile, the founders were wrapping up their year-long remote mentorship program with
+Founder.org, which had also offered the team seed funding to help scale the business. That offer
+consisted of a $300,000 convertible note at a $3 million valuation cap (see Exhibit 6 for a summary of
+the two offers). Founder.org had indicated that they would want this to be an exclusive seed round of
+financing. This effectively meant that the team would need to choose between the two offers.
+
+10
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+Without a clear sense of which option they should settle on, the founders sought input from close
+friends. Wise’s girlfriend, Shan, encouraged them to join Techstars. “When she found out we were
+debating not going to Techstars, she was incredulous,” Wise recalled. “She was like, you’re just the
+most stubborn, pretentious people to think you’re going to turn down Techstars. What are you
+thinking?” At the same time, a trusted classmate and experienced investor, Niko Hrdy, felt the terms
+of the Founder.org note were favorable and encouraged them to take it. “He said the note was founderfriendly and reasonable,” Rose recalled. “He said if it was his company, he would take the money
+instead of going to Techstars.”
+Rose felt inclined to accept the Founder.org proposal, after judging it significantly less dilutive than
+the Techstars offer. To date, the founders had not given up any equity, and Rose felt they should
+continue to operate that way, especially now that they had the time to focus on scaling the retail kiosk
+operation. Wise was leaning towards Techstars based on the name recognition within the investor
+community and their offer to help raise additional funds.
+There was also a remote possibility that Lovepop might someday appear on ABC’s Shark Tank, an
+often transformative experience for early-stage ventures. In late April, Rose had received an email from
+a Shark Tank executive requesting Lovepop’s updated sales figures. The odds of admission to Shark
+Tank were low. In 2014, less than 1% of the 45,000 applicants were granted a taped meeting with the
+“sharks,” and even fewer were broadcast on the show. 49 However, for the lucky firms that were
+granted airtime, the returns were substantial. Some entrepreneurs received life-changing investments,
+and even when rejected, most saw large boosts in sales. 50 One contestant, ScreenMend, saw its sales
+jump from $4,000 to $1 million after its episode aired. 51
+During the first week of May, the founders had performed many calculations to compare the
+financial terms of the two offers. Which financing approach was appropriate for Lovepop at this stage?
+Was it worth giving 6% of their company away so early?
+Sitting in Wise’s pickup truck, they reviewed their calculations and discussed the broader strategic
+implications of the choices. They compared the size, strength, and locations of the Techstars and
+Founder.org networks. Techstars had a stronger brand name, and a larger alumni base. But as
+graduates of HBS, Founder.org, the i-lab, and the Rock Accelerator, did they really need Techstars’
+help? Did it make more sense to take Founder.org’s money and put fundraising questions on hold?
+Which deal offered the team the best value? Techstars had assured them, “We’ll easily help you raise
+$300,000, no problem,” Rose said. But he and Wise were skeptical. “We thought, ‘Who else is going to
+give us $300,000 to sell paper cards? We have $300,000 right here from Founder.org. You can’t possibly
+promise us you’re going to find $300,000 somewhere else.”
+With no clear decision emerging, Wise and Rose decided to take a break and resume their
+deliberation over a beer. They climbed out of the pickup and headed across the Fort Point Channel to
+Boston’s Seaport District.
+
+11
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+Exhibit 1
+
+Source:
+
+Lovepop Prototype
+
+Company documents.
+
+Exhibit 2a
+
+Greeting Cards and Other Publishing Industry Revenue, in billions USD
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+6.0
+
+5.8
+
+5.4
+
+5.4
+
+4.8
+
+Source:
+
+Casewriter via Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed September 2017. Current
+report available at https://www.ibisworld.com/industry-trends/market-research-reports/information/publishingindustries/greeting-cards-other-publishing.html
+
+Note:
+
+Other publishing includes business, trade, and professional publications, consumer publishing (yearbooks, coloring
+books, postcards, and posters), and other services.
+
+Exhibit 2b
+
+Greeting Card Market Segments by Sales Channel
+
+Target
+5%
+
+Educational
+Institutions
+5%
+
+Stationary
+Wholesalers
+8%
+Direct Sales
+11%
+
+Walmart
+14%
+
+Other Retailers
+57%
+
+Source:
+
+Created by casewriter via Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed September
+2017.
+Current
+report
+available
+at
+https://www.ibisworld.com/industry-trends/market-researchreports/information/publishing-industries/greeting-cards-other-publishing.html.
+
+12
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+Exhibit 2c
+Year
+
+Hallmark Cards, Inc. Industry-relevant Operations, 2010-2015
+
+Revenue ($ billion)
+
+2010
+
+4.0
+
+2011
+
+3.9
+
+2012
+
+3.7
+
+2013
+
+3.3
+
+2014
+
+3.2
+
+2015
+
+3.0
+
+Source:
+
+Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed September 2017. Current report
+available
+at
+https://www.ibisworld.com/industry-trends/market-research-reports/information/publishingindustries/greeting-cards-other-publishing.html
+
+Note:
+
+The figures include related products, including gift wrap, party goods, and stationery.
+
+Exhibit 2d
+
+American Greetings Corporation, 2010-2015
+Industry-relevant
+Revenue
+($ billion)
+
+Industry-relevant
+Operating Income
+($ million)
+
+Market
+Capitalization ($
+million)
+
+2010-11
+
+1.21
+
+137.4
+
+922.1
+
+2011-12
+
+1.21
+
+107.5
+
+516.9
+
+2012-13
+
+1.22
+
+61.4
+
+599.4
+
+2013-14
+
+1.26
+
+87.5
+
+2014-15*
+
+1.26
+
+89.0
+
+Year
+
+Source:
+
+Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld and “American Greetings Corporation,” Capital
+IQ, Inc., a division of Standard & Poor’s, both accessed September 2017. Current report available at
+https://www.ibisworld.com/industry-trends/market-research-reports/information/publishingindustries/greeting-cards-other-publishing.html
+
+Note:
+
+An asterisk has been used to indicate IBISWorld estimates. The figures include related products, such as gift wrap,
+party goods, and stationery. The market capitalizations, P/E, and PS ratios are as of the close of the fiscal year on
+February 28 or 29. In August 2013, American Greetings was taken private, therefore share price information was not
+available beyond that date.
+
+Exhibit 2e
+
+American Greetings Product Segments
+
+Product Segment
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Everyday greeting cards
+
+48%
+
+50%
+
+49%
+
+47%
+
+48%
+
+Seasonal greeting cards
+
+24%
+
+25%
+
+25%
+
+24%
+
+25%
+
+Gift packaging and party goods
+
+14%
+
+14%
+
+14%
+
+14%
+
+17%
+
+All other products
+
+14%
+
+11%
+
+12%
+
+15%
+
+10%
+
+Source:
+
+American Greetings, Annual Reports via http://corporate.americangreetings.com/IR/index.html, and
+https://www.sec.gov/edgar/searchedgar/companysearch.html, accessed September 2017. Current report available
+at
+https://www.ibisworld.com/industry-trends/market-research-reports/information/publishing-industries/
+greeting-cards-other-publishing.html
+
+Note:
+
+Everyday greeting cards included birthday, anniversary, and sympathy cards. Seasonal cards were holiday-related,
+for example Christmas and Valentine’s Day. All other products included giftware, party goods, ornaments, calendars,
+custom display fixtures, stickers, online greeting cards, and other digital products.
+
+13
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+Sales (in $ USD)
+
+Exhibit 3a
+
+Lovepop’s Sales, February 2014 to April 2015
+
+50,000
+45,000
+40,000
+35,000
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+0
+
+Month
+Source:
+
+Company documents.
+
+14
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+Exhibit 3b
+
+Lovepop’s Income Statement, Fiscal Year 2014 and 2015 Year-to-Date in USD
+Total
+2014
+
+Year to date
+April 2015
+
+E-Commerce
+
+$37,808
+
+$17,930
+
+Kiosks
+
+38,102
+
+89,404
+
+Custom Cards
+
+9,113
+
+6,208
+
+Wholesale
+
+9,999
+
+4,629
+
+Sales
+
+Shipping Income
+
+966
+
+0
+
+Less Discounts
+
+(1,264)
+
+(3,964)
+
+Net Sales
+
+94,724
+
+114,207
+
+Cost of Goods Sold
+
+48,639
+
+24,165
+
+46,085
+
+90,042
+
+Gross Profit (Loss)
+
+48.7%
+
+78.8%
+
+64,718
+
+136,883
+
+(18,633)
+
+(46,841)
+
+Other Income (Grants)
+
+5,500
+
+0
+
+E.B.I.T.
+
+(13,133)
+
+(46,841)
+
+Operating Expenses
+Operating Profit (Loss)
+
+Source:
+
+Company documents.
+
+Note:
+
+Figures have been rounded to the nearest dollar and estimated. Discounts include accounting adjustments.
+
+15
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+Exhibit 3c
+
+Lovepop’s Balance Sheets, December 2014 & April 2015, in USD
+
+Cash
+
+Dec
+2014
+
+April
+2015
+
+$40,338
+
+$72,109
+
+Accounts Receivable
+
+3,326
+
+7,072
+
+Inventory
+
+16,914
+
+31,677
+
+Prepaid Expenses
+
+0
+
+4,090
+
+Other (Deposits)
+
+0
+
+26,107
+
+Current Assets
+
+60,578
+
+141,055
+
+Total Fixed Assets
+
+961
+
+961
+
+Total Assets
+
+$61,539
+
+$142,016
+
+AP&AE (credit cards)
+
+$7,011
+
+$19,600
+
+Sales Tax Payable
+
+1,304
+
+5,304
+
+Other Current Liabilities
+
+5,374
+
+Short-Term Loans
+Current Liabilities
+
+70,000
+13,689
+
+94,904
+
+Convertible Notes
+
+30,000
+
+42,500
+
+Founder Loans & Equity
+
+30,983
+
+64,586
+
+Retained Earnings
+
+(13,133)
+
+(59,974)
+
+47,850
+
+47,112
+
+$61,539
+
+$142,016
+
+Total Liabilities & Capital
+
+Source:
+
+Company documents.
+
+Note:
+
+Figures have been rounded to the dollar and estimated. Other assets include security deposits and a loan to a production facility
+in Vietnam.
+
+16
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+Exhibit 4
+
+Milestones in Lovepop History
+
+Date
+
+Event
+
+September 2013
+
+Rose and Wise enter HBS
+
+January 2014
+
+Rose and Wise travel to Vietnam on HBS FIELD global immersion; discover kirigami
+
+March 2014
+
+September 2014
+
+Rose and Wise create first original Lovepop card
+Lovepop.com launches; cards sold at markets; Lovepop enters HBS New Venture
+Competition
+Rose and Wise complete first year at HBS
+Rose and Wise earn summer Rock fellowship; sell cards at markets; 1st
+manufacturing trip to Vietnam; locate Lovepop headquarters at Harvard’s i-lab
+Rose and Wise start second year at HBS
+
+October 2014
+
+Kickstarter holiday campaign
+
+December 2014
+
+Complete first year with $95K in cumulative sales
+
+January 2015
+
+Wise takes manufacturing trip to Vietnam; Rose opens South Station kiosk
+
+March 2015
+
+Wise asks designer to open Lovepop factory
+
+April 2015
+
+Founders meet Ty Danco (Techstars); receive offer to join summer cohort
+
+May 2015
+
+Founder.org program concludes; Founder.org offers $300K convertible note
+
+April 2014
+May 2014
+June-August 2014
+
+Source:
+
+Lovepop.
+
+17
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+Exhibit 5
+
+Lovepop’s Sources of Funds to Date, April 2015
+
+Source
+
+Amount
+
+Cumulative sales
+(Including $21,000 in
+pre-funded sales via
+Kickstarter.org)
+
+$209,000
+
+Founder contributions
+
+$30,000
+
+Awards/grants
+
+Loans
+
+HBS Rock Accelerator
+
+$5,500
+
+Josh Rothman (friend)
+
+$30,000
+
+OnDeck Capital
+
+$40,000
+$70,000
+
+Convertible notes
+Dorm Room Fund
+
+$20,000
+
+Rough Draft Ventures
+
+$12,500
+
+Founder.Org
+
+$10,000
+$42,500
+
+Total
+Source:
+
+$357,000
+Company documents.
+
+18
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+Exhibit 6a
+
+Techstars Offer Terms, May 2015
+
+Techstars Stock Purchase Offer
+Financing Amount
+
+$18,000
+
+Common Stock
+
+6%
+
+Techstars Optional Convertible Note
+Principal Amount
+Interest rate
+
+$100,000
+5% per year
+
+Duration of the note
+Conversion trigger
+Discount
+Cap Price/Valuation Cap
+
+12 months
+Qualified Financing of
+at least $250,000
+20%
+$3,000,000
+
+Board Seats
+Source:
+
+0
+
+Company documents.
+
+Exhibit 6b
+
+Founder.org Offer Terms, May 2015
+
+Founder.org Convertible Note
+Principal Amount
+Interest rate
+Duration of the note
+
+$300,000
+5% per year
+
+Discount when converting
+
+12 months
+Qualified Financing of
+at least $1,000,000
+25%
+
+Cap Price/Valuation Cap
+
+$3,000,000
+
+Conversion trigger
+
+Board Seats
+Source:
+
+0
+
+Company documents.
+
+19
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+818-015
+
+Lovepop
+
+Endnotes
+1 MBA Admissions, “Perspectives: Wombi Rose, MBA 2015,” Harvard Business School website,
+http://www.hbs.edu/mba/student-life/people/Pages/perspectives.aspx?profile=rrose, accessed August 2017.
+2 Sam May, “Gratitude Guide: How to Write Meaningful Thank You Cards,” Lovepopcards.com, April 1, 2014, via The Way
+Back Machine, https://web.archive.org/web/20151130005406/http://www.lovepopcards.com:80/blogs/news/13207837gratitude-guide-how-to-write-meaningful-thank-you-cards, accessed August 2017.
+3 “John Wise: LovePop,” Harvard Business School Newsroom, May 21, 2015,
+http://www.hbs.edu/news/articles/Pages/john-wise-2015.aspx, accessed September 2017.
+4 “John Wise: LovePop,” Harvard Business School Newsroom.
+5 Matt Asay, “Splunk Founder Now Launches Entrepreneurs, Not Startups,” Read Write, June 18, 2014,
+https://readwrite.com/2014/06/18/splunk-michael-baum-founderorg-entrepreneurs/, accessed August 2017.
+6 Matt Asay, “Splunk Founder Now Launches Entrepreneurs, Not Startups.”
+7 Wombi Rose, “LovePop Goes to Paris for Founder.org Conference,” Lovepopcards.com, July 9, 2014,
+https://www.lovepopcards.com/blogs/pop-up-cards/46871553-lovepop-goes-to-paris-for-founder-org-conference, accessed
+August 2017.
+8 Graham Winfrey, “10 Secrets You’d Never Guess About ‘Shark Tank,’” Inc.com, May 25, 2015,
+https://www.inc.com/graham-winfrey/ten-secrets-you-would-never-guess-about-shark-tank.html, accessed August 2017.
+9 “LovePop: 3D Holiday Cards That Pop Like Magic,” Kickstarter.org, October 15, 2014, https://www.kickstarter.com/
+projects/1880091852/lovepop-3d-holiday-cards-that-pop-like-magic/updates, accessed August 2017.
+10 “Thank You!! 230% funded!” Kickstarter.org, November 9, 2014, https://www.kickstarter.com/projects/1880091852/
+
+lovepop-3d-holiday-cards-that-pop-like-magic/posts/1043771, accessed August 2017.
+
+11 “Thank You!! 230% funded!” Kickstarter.org.
+12 “Lovepop Cards,” Etsy.com, April 25, 2015,
+
+https://www.etsy.com/shop/LovePopCards/reviews?ref=pagination&page=118, accessed August 2017.
+
+13 “Lovepop Cards,” Etsy.com.
+14 “Rock Accelerator,” Entrepreneurship at Harvard Business School website,
+
+https://entrepreneurship.hbs.edu/programs/mba/Pages/rock-accelerator.aspx, accessed September 2017.
+
+15 Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed July 2017.
+16 Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed July 2017.
+17 Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed July 2017.
+18 Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed July 2017.
+19 Frank Morris, “To Survive, The Greeting Card Industry Will Have to Get Creative,” NPR, July 8, 2015,
+
+http://www.npr.org/
+2015/07/08/420966617/to-survive-the-greeting-card-industry-will-have-to-get-creative, accessed September 2017.
+20 First Research, “Greeting Card Publishers,” Hoover’s, February 29, 2016, http://www.firstresearch.com/, accessed
+September 2017.
+21 First Research, “Greeting Card Publishers.”
+22 Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed July 2017.
+23 Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed July 2017.
+24 Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed July 2017.
+25 Greeting Cards & Other Publishing in the U.S., July 2015, IBISWorld, accessed July 2017.
+26 Samantha Raphelson, “A Few Facts about Greeting Cards — From All of Us at NPR,” NPR, June 21, 2015,
+
+http://www.npr.org/2015/06/19/415801900/a-few-facts-about-greeting-cards-from-all-of-us-at-npr, accessed August 2017.
+
+27 Patrick Dehahn, “Greeting Card Industry Shifts Over Millennial Taste,” Associations Now, November 30, 2015,
+
+http://associationsnow.com/2015/11/greeting-card-industry-shifts-millennial-taste/, accessed September 2017.
+
+20
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+Lovepop
+
+818-015
+
+28 Patrick Dehahn, “Greeting Card Industry Shifts Over Millennial Taste.”
+29 “About Greeting Cards – General Facts,” The Greeting Card Association, January 2012, https://www.greetingcard.org/wp-
+
+content/uploads/2016/07/About-Greeting-Cards-General-Facts.pdf, accessed August 2017.
+
+30 Kate Pullen, “Greeting Card Industry Facts and Figures: Information about the Greeting Card Market,” The Spruce.com,
+
+November 17, 2016, https://www.thespruce.com/greeting-card-industry-facts-and-figures-2905385, accessed August 2017.
+
+31 Eliana Dockterman, “With This App, I Thee Wed,” Time, June 12, 2014, http://time.com/2864800/wedding-digital-apps-
+
+technology/, accessed August 2017.
+
+32 “The Knot, The #1 Wedding Site, Releases 2014 Real Weddings Study Statistics,” from the XO Group website, Mar 12, 2015,
+
+http://www.prnewswire.com/news-releases/the-knot-the-1-wedding-site-releases-2014-real-weddings-study-statistics300049675.html, accessed August 2017.
+33 Ivy Jacobson, “Average Wedding Cost Hits National All-Time High,” The Knot, April 27, 2015,
+
+https://www.theknot.com/content/average-wedding-cost, accessed September 2017.
+
+34 Lauren Landry, “A Pair of HBS Students are Bringing More Meaning to the Average Greeting Card,” Bostinno, October 15,
+
+2014, https://www.americaninno.com/boston/lovepops-3d-handcrafted-cards-pop-up-holiday-shopping-cards/, accessed
+August 2017.
+35 Lauren Landry, “A Pair of HBS Students are Bringing More Meaning to the Average Greeting Card.”
+36 Susan Cohen, “What Do Accelerators Do?” MIT Press Journals (2013),
+http://www.mitpressjournals.org/doi/pdf/10.1162/INOV_a_00184, accessed August 2017.
+37 Susan Cohen, “What Do Accelerators Do?”
+38 Anita Hamilton, “Work like It’s 1999,” Time, March 14, 2011,
+http://content.time.com/time/printout/0,8816,2056722,00.html#, accessed September 201.7
+39 Steven Levy, “Meet Generation Y: The inside story behind Y Combinator,” Wired, June 9, 2011,
+
+http://www.wired.co.uk/article/meet-generation-y, accessed August 2017.
+
+40 Yael V. Hochberg, “Accelerating Entrepreneurs and Ecosystems: The Seed Accelerator Model,” Rice University, MIT &
+
+NBER† Conference Draft, April 3, 2015, http://yael-hochberg.com/assets/portfolio/IPEHochberg.pdf, accessed August 2017.
+
+41 Amina Elahi, “Startup Accelerators and the Questions You Should Ask before Applying,” The Chicago Tribune, February 18,
+
+2015, http://www.chicagotribune.com/bluesky/originals/chi-chicago-innovation-exchange-accelerator-panel-bsi-20150218story.html, accessed August 2017.
+
+42 Joshua Lindenstein, “Startups’ Road Crowded with New Accelerators,” BizWest, November 13, 2014, via ProQuest, accessed
+
+August 2017.
+
+43 Yael Hochberg, Susan Cohen, and Dan Fehder, “The Top 20 Start-Up Accelerators in the U.S.,” Harvard Business Review,
+
+March 31, 2015, https://hbr.org/2015/03/the-top-20-start-up-accelerators-in-the-u-s, accessed August 2017.
+
+44 Anne Field, “In search of the next Airbnb: Competition Ignites as VCs Woo the Best Startups in the City,” Crain’s New York
+
+Business, March 9, 2015, via ProQuest, accessed August 2017.
+
+45 Erin Griffith, “Dear Awesome Startups, Don’t Join an Accelerator, Unless…” Pando.com, February 16, 2013,
+
+https://pando.com/2013/02/16/dear-awesome-startups-dont-join-an-accelerator-unless-y-combinator/, accessed August
+2017.
+46 “Getting Up to Speed,” The Economist, January 16, 2014, https://www.economist.com/news/special-report/21593592-
+
+biggest-professional-training-system-you-have-never-heard-getting-up-speed, accessed August 2017.
+
+47 Joshua Lindenstein, “Startups’ Road Crowded with New Accelerators,” BizWest, November 13, 2014, via ProQuest, accessed
+
+August 2017.
+
+48 “2015 Rankings,” Seed Accelerator Rankings Project, http://www.seedrankings.com/2015-rankings.html, accessed August
+
+1, 2017.
+
+49 Graham Winfrey, “10 Secrets You’d Never Guess About ‘Shark Tank.’”
+50 Graham Winfrey, “10 Secrets You’d Never Guess About ‘Shark Tank.’”
+51 Graham Winfrey, “10 Secrets You’d Never Guess About ‘Shark Tank.’”
+
+21
+This document is authorized for use only in Beyer's Spring 2023 / GSBGEN 392 1,2 / Financial Management for Entrepreneurs at Stanford University from Mar 2023 to Sep 2023.
+
+
