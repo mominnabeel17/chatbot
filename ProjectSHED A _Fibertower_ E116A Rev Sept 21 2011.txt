@@ -1,0 +1,522 @@
+CASE#:E-116A
+DATE:01/24/2002
+(REV’D:09/21/2011)
+Research Associate Janet Feldstein prepared this case under the supervision of Professor Garth Saloner, Jeffrey S. Skoll Professor
+of Electronic Commerce, Strategic Management, and Economics, as the basis for class discussion rather than to illustrate either
+effective or ineffective handling of an administrative situation. This revision was prepared by Arar Han (MBA ’09) under the
+supervision of Lecturer Jim Ellis. The revisers gratefully acknowledge Ben Suppe (MBA ’01) for his invaluable assistance.
+Copyright © 2002 by the Board of Trustees of the Leland Stanford Junior University. All rights reserved. To order copies or
+request permission to reproduce materials, e-mail the Case Writing Office at: cwo@gsb.stanford.edu or write: Case Writing
+Office, Stanford Graduate School of Business, 518 Memorial Way, Stanford University, Stanford, CA 94305-5015. No part of
+this publication may be reproduced, stored in a retrieval system, used in a spreadsheet, or transmitted in any form or by any
+means –– electronic, mechanical, photocopying, recording, or otherwise –– without the permission of the Stanford Graduate
+School of Business.
+PROJECT SHED (A)
+Scott Brady, Dave Leeds, Harpinder "Harpi" Singh Madan, and Eric Botto met at the Stanford
+Graduate School of Business (GSB) at the height of the dot-com boom.
+Harpi and Dave first met in 1998 as first-year students in Stanford's MBA program. Both came
+from operating backgrounds: Harpi was most recently in product development at Oracle and
+Dave had come to Stanford from Lexmark, where he led strategic planning for Lexmark's most
+profitable business division.
+Scott and Eric met a year later in Stanford's year-long Sloan Fellowship program for experienced
+executives and managers. Scott had been a co-founder and CTO at two publicly traded software
+companies – Clarus and SQL Financials. Eric had undergraduate and master’s degrees from
+Stanford in Electrical Engineering and had significant experience leading large engineering
+teams at Quantum Corporation and HP Labs.
+The four came together as a team during their final quarter at the GSB in the entrepreneurship
+class “Formation of New Ventures” ( Exhibit 1 : Founder Profiles). Each of the four had arrived
+in Silicon Valley at different times, for different reasons, with different backgrounds; as they
+approached graduation, however, all were focused on a common goal of building a substantial
+and unique business.
+It was spring 2000, and the market’s appetite for entrepreneurship had changed. The NASDAQ
+had lost substantial value as the tech "bubble" burst, venture capital was drying up, and fewer
+graduates were pursuing start-up opportunities. Nonetheless, each of the founders remained
+committed to pursuing an entrepreneurial venture and focused on finding the right opportunity.
+Each had a desire, as Harpi put it, “to be part of something meaningful, something that reflected
+our values.”ProjectSHED (A) E-116A p.2
+FORMATION OF THE TEAM
+Throughout the spring quarter, the four entrepreneurs challenged one other in class and
+recognized in one other an ability to bring a distinct perspective to discussions. They gravitated
+toward each other out of interest and respect, developing their partnership through a series of
+informal breakfast meetings. Topics of conversation included various themes in leadership, team
+formation and business strategy, as well as specific ideas that each entrepreneur was considering.
+As the quarter progressed, the idea arose to join forces as the founding team of a start-up
+company. The founders saw in one other the potential for a strong alliance built on a variety of
+personalities and complementary skills. As Eric put it:
+Part of what made our partnership interesting was that everybody had a very
+different background and a different perspective. We all brought different skills to
+the table. It would have been a lot easier had we picked four people with similar
+skills. We probably could have made better progress in the beginning, but I don’t
+think we would have made it to where we are today.
+After several weeks of consideration, each person’s commitment to a combined effort grew. The
+group’s meetings became more structured and targeted toward specific goals. Dave described a
+“pivotal discussion” the team had in April 2000:
+We met for breakfast at the Peninsula Creamery for a very explicit conversation
+around a few key questions: What is it you actually want to do? Do you want to
+focus on entrepreneurship? What kind of company do you want to create? Do you
+want to create something long term, or to create something to flip it? And finally,
+is this the right team?
+The four agreed that everyone had a shared vision to build a company with a focus on long-term
+value. And so the team was born, adopting the working name ProjectSHED ( Scott, Harpi, Eric
+andDave).
+Practical Matters
+In June 2000, ProjectSHED set up its first ‘office’ in Scott’s on-campus apartment in Stanford’s
+Escondido Village. The founders committed to devoting six months to find and begin an
+entrepreneurial venture. They also agreed to an equal partnership, with a 100 percent working
+time commitment from everyone. In addition, until the company received funding, the
+entrepreneurs would work without salary.
+The lack of income had a disparate impact on the teammates. Of the four, Scott and Eric were
+married and financially secure, with no immediate need for a paycheck. Of the two MBAs, Harpi
+was married and Dave was in a committed relationship. Both had student debt and limited
+personal resources, and were mindful of the personal opportunity cost of pursuing their
+entrepreneurial dream. That said, the team ultimately felt that the experience of pursuing their
+dream was worth their time and effort. Eric explained:ProjectSHED (A) E-116A p.3
+Of course we were taking a big risk. But even if the company didn’t get off the
+ground we all felt like the six-month experience would be a great learning
+opportunity: how to organize ourselves, clarify our objectives, develop the
+business plan, sell it and ourselves effectively to the VC and investing
+community, establish valuable relationships and, most importantly, learn from
+each other. As long as we were willing to take the personal and financial risks, we
+saw this as a no-lose proposition.
+The founders made a point of documenting not only the company’s legal aspects, but also the
+cultural elements they viewed as critical to a successful venture. Scott explained:
+We had all just been in careers that weren’t exactly what we wanted. So given the
+fact that this time there would be nobody to blame but ourselves, we had the
+mandate to take the time up front to articulate what we wanted that was important
+for the company.
+The team’s objectives for the company could be broken down into “Whats” as well as “Hows”:
+What How
+Be challenged Build a High Performance Team
+Maximize learning Common goals
+Build something special: impactful, long term,
+change an industryComplementary skills and experiences
+Build unique culture Setting a high bar for the business idea
+Shared Core Values
+Working Norms
+At the outset, the team met each Friday to define and review its work plan for the week, and to
+set targets for various points along the project’s six-month timeline. Dave explained:
+During the first month we were doing broad theme analysis, so when we hit
+Friday, we could look back at the week and it wouldn’t be clear that we’d actually
+done anything. We wanted to find a way to measure progress so we wouldn’t feel
+like we were spinning our wheels. Sometimes that meant just making sure that we
+had a conference scheduled or had set up a specific conversation about an
+industry, so we could get to the end of the week and say, “Yes, we met the
+objective.” I think that really helped us make forward progress.
+Each founder also made an explicit commitment to provide and receive constant, open and
+regular feedback within the team. The inspiration came from the GSB class High Performance
+Leadership (HPL) that three of the founders had taken together. HPL was an intense ten-week
+course offering students insight into and improvement on their leadership and communication
+styles. A major component of the course was ongoing participation in a weekly discussion group
+called a Skill Development Group (SDG) in which students learned to give and take frank, direct
+feedback while executing ongoing group projects. The founders decided to replicate the SDG
+experience in their own group. According to Dave:ProjectSHED (A) E-116A p.4
+From the outset, we’ve been doing SDG-style feedback sessions. Many negatives
+as well as positives have come up in these sessions, and I think they have really
+helped us deal with potential issues that could have broken the team apart.
+Scott recalled that, as the only founder who had not taken HPL, the feedback sessions were “kind
+of a rude awakening,” but ultimately a positive experience:
+It was amazing for Eric and me, because we had been out in the business world
+for so long but had never gotten honest feedback. You know, I had an image of
+myself and of what I brought to the table; it turned out to be pretty different from
+what these guys saw. But it was a great process because these were people whom
+I trusted. Regardless of what happens with the company, we would like to get
+better at what we do and we think this is the most effective way to do it.
+SEARCHING FOR THE BUSINESS IDEA
+From known solutions to unknown problems
+The founders’ basic plan was, as Harpi put it: “to become the management team for a group of
+world-class technologists.” They started off by identifying opportunities through venture
+capitalists, computer science and electrical engineering professors, and others in their personal
+networks. Scott explained:
+We had a lot of friendly contacts with VCs, so we would have lunch with them
+and ask them questions. What made us attractive to them was that we were a team
+with the time and ability to do due diligence. They would give us a list of the
+companies they were currently evaluating and we’d work with the technologists
+and provide a fairly detailed analysis to the VC.
+As it turned out, this approach was time-consuming and bore little fruit. The team estimated that
+80 percent of its time in the first three months was consumed with due diligence, leaving little
+time for original idea generation. Furthermore, VCs were primarily interested in members of the
+team as individual executives rather than as founding partners.
+Attempting to tap universities for technologists in need of business skills proved equally
+difficult. The team soon realized that there was more myth than reality to the stereotype of the
+brainy scientist with great ideas but no management know-how. Dave explained:
+We had a vision of discovering a new technology being worked on by professors
+whom nobody had paid attention to. We expected we could find a diamond in the
+rough. But we found that good professors were extraordinarily savvy and that the
+engineering guys were already talking to VCs.
+As the team looked at existing opportunities, they found themselves increasingly frustrated that
+they were always coming “too late to the party.” Promising technological advancements always
+seemed to have existing advisors and funding.ProjectSHED (A) E-116A p.5
+The four decided that looking for cutting-edge technological solutions that could be applied to
+existing problems was not the right search plan. According to Scott:
+We realized we needed to look for untapped ideas. We had learned that looking
+for solutions and then applying them to problems wasn’t going to work because
+other teams would already be there doing the work we wanted to do. Looking for
+a well-known problem was not a good search either. By the time a problem is
+understood, there is someone already working on a solution, even if you don’t
+know they are. We needed a problem that wasn’t understood well yet. The
+problem could not be too obvious.
+Moreover, said Harpi, the team needed solutions that would be important in the future, versus the
+present:
+We concluded that any business we were looking at now would end up looking
+very different two years out. Businesses that obviously made sense already
+existed, and it wasn't clear we could develop any sustainable competitive
+advantage in those areas. What we needed to do was figure out problems that
+weren’t yet obvious so we could devise and deploy a solution a year or two out.
+From hitting the books to hitting up conferences
+Thus resolved, the team devised a list of criteria for evaluating a business opportunity (see
+Exhibit 2 ). They would use the list to vet potential ideas, and also to serve as the benchmark for
+what they expected one another to know about an opportunity before pursuing or rejecting it.
+The founders decided that with their technical aptitude and diverse backgrounds, many industries
+were within their collective reach. Of those, four looked the most promising: storage, optical
+networking, internet infrastructure, and wireless. Since they were also four people, the team
+adopted a ‘divide and conquer’ strategy; each founder would take one industry to probe in depth
+for latent problems, particularly those that could be solved with new technology. They would
+continue to convene each week to bring one other up to speed on their research findings (see
+Exhibit 3 for a visualization of the search process).
+The SHED team began their research by tapping friends in the investment analyst community for
+industry studies and by using Stanford’s library resources. Traditional research proved to have
+limited use in targeting the next generation of technology in any industry. As Scott explained:
+Anything we were reading was already so dated that we couldn’t use it as a
+barometer for what was really going to happen. The only way to get a true
+perspective on what was happening was to go straight to engineering teams in
+high-tech companies. And the only way to do that cost effectively was to catch
+them at conferences.
+The founders actively sought out “highly technical” conferences with a high density of “nuts-
+and-bolts” engineers to tap for information and inspiration. The conferences proved to be gold
+mines in both regards. As Scott recalled:ProjectSHED (A) E-116A p.6
+We would skip all of the keynotes and just spend every minute of every day on
+the floor going from booth to booth, talking to the engineers about what made
+their jobs hard, or what would make their jobs easier.
+As they became more familiar with the industries they researched, the team tried to grasp what
+the opportunities were. Their questions evolved, noted Eric: “If what you are doing is successful,
+then what is the next bottleneck? What future products and services will be required?”
+Pleased with their progress, the team decided to attend more conferences to continue
+interviewing other attendees, to kick the tires, and to sleuth around for key technology problems
+that would arise in the next several years. Ideally the team would home in on three or four ideas
+to pitch to each other, with an ultimate “bakeoff” to decide on one idea.
+SELECTING THE BUSINESS IDEA
+Over time, the SHED team identified four early-stage problems for which they could create and
+sell a technology solution:
+Eric learned by talking to his former coworkers that an increasing problem in digital
+subscriber line (DSL) network management was “crosstalk,” or the unintended transmission
+of data signals across channels. As DSL service providers pushed an ever-increasing volume
+of signals through their wires, the signals could become garbled. If SHED could create a
+“smart” DSL cable box or retrofit current equipment to tell apart real signals from crosstalk
+noise, it could potentially sell the box to DSL providers across the country.
+The expected rise in video streaming posed another problem to Harpi: managing the outflow
+from a database perspective. Most databases maintained by internet service providers and
+companies like Comcast were general purpose and inefficient at handling specialized server
+requests like video streaming. If SHED could produce a specialized video database, it could
+become the provider of choice for any internet content provider with video inventory.
+The proliferation of small electronic media devices led Dave to seriously consider the storage
+needs of such devices. There were already substitutes to floppy disks like “thumb” drives, but
+they were not robust or capable of high-volume storage, and failure rates were high. If SHED
+created an external hard drive optimized to mobile devices, it could be the first to play in the
+growing market.
+At the 2000 National Fiber Optic Engineering Conference in Denver, Scott and Dave came
+across a fourth opportunity. Scott explained:
+We started talking to a systems engineer from one of the big telecom equipment
+companies. He was explaining his work to us, and we kept pressing him on the
+key issues: “Where is it hard? Where do you have a problem? What’s the
+bottleneck? What’s the critical path for getting this done?” Finally the guy started
+talking about “backhaul” for wireless networks. He had come from the cell tower
+industry and he said the biggest problem associated with building wireless
+networks had nothing to do with the technology from a wireless perspective. It
+wasconnecting the wireless networks back into the existing wired network.ProjectSHED (A) E-116A p.7
+The pair returned to California and briefed the team on their findings. Harpi remembered, “We
+all kept pursuing our individual paths of research, but we kept coming back to that idea.”
+The Wireless “Backhaul” Problem
+When a mobile handset was in use, a wireless voice or data signal was generated. The signal was
+picked up by equipment at a nearby “cell site,” which was typically located on a freestanding
+tower or on a building rooftop. The traffic was then transmitted from the wireless carrier’s cell
+site back to its mobile switching center (MSC), where it was processed and routed toward its
+destination. For example, a voice call might be routed at the MSC to the local phone company,
+which would then route it to a telephone. Wireless data might be routed onto the Internet. The
+transport of voice and data between the cell site and the MSC was called “backhaul.”
+Backhaul was an essential and increasingly strategic component of a wireless carrier’s network.
+Multiple factors drove increased demand for backhaul services, including the expected
+implementation of third generation (3G) technology, increased usage of high-bandwidth data
+applications and voice minutes, and expansion of wireless carriers' geographic coverage.
+Major wireless carriers in the United States tended to own or control their MSCs, which were
+well connected through high-capacity fiber optic lines to other MSCs, other telecommunications
+networks, and the Internet. However, the vast majority of backhaul traffic between cell sites and
+MSCs in the United States traveled through a wired infrastructure, typically copper-based T-1
+circuits provided by local phone companies.
+There were several important problems with the dominant copper T-1 backhaul solution:
+Lack of scalability: Each T-1 line could carry only a fixed volume, so there was a limited
+amount of capacity in the bundle of copper cables running out to most cell sites. If a wireless
+carrier exhausted the existing wired capacity, the local phone companies could lay additional
+cable, but at a high fixed cost. With skyrocketing growth in demand for wireless phone
+usage,1there was no end in sight to the growth of backhaul.
+High cost: A highly competitive market for wireless carriers meant that the service plans
+offered to consumers continually offered more and more minutes of use (MOUs) to
+customers for the same monthly fee. Unfortunately, as the revenue per MOU continued to
+fall, the cost to backhaul each MOU remained constant. This presented an impending gross
+margin problem for wireless carriers.
+Unreliability: Wired backhaul was operationally the least reliable part of the network. When
+a T-1 line failed there was essentially no actionable information available to the wireless
+carriers to repair the problem.
+Deployment bottleneck: When a wireless carrier wanted to erect a new cell site or lay
+additional wire, the lead time required by local phone companies could be measured in
+months. This was often the determining factor in how quickly a carrier could turn up new cell
+sites.
+A Possible Solution
+1In addition, the relatively low penetration rate of wireless phones in the United States (compared with Asia and Europe) laid the
+expectation of significant ongoing growth in demand.ProjectSHED (A) E-116A
+The wireless industry’s issues with wired
+could potentially provide a technological solution.
+You had a really interesting set of issues happening. The growth in wireless
+subscribers was accelerating
+demand for backhaul services.
+towe r assets. The backhaul networks that were originally provisioned to the tower
+couldn’t scale to meet future demand, yet the cost of go
+problem was prohibitively high.
+The idea was that ProjectSHED
+current wired backhaul solution that the
+allow wireless carriers to convey signals
+centers, entirely bypass ing the existing wired backhaul network
+Figure A:
+Source: Company records
+In short, ProjectSHED’s solution
+scalable than the existing solution, and
+description of ProjectSHED’s services)
+Moving Forward
+The SHED team decided to join forces and focus on the backhaul opportunity.
+business plan:
+The demand for high- speed backhaul, key
+the need to build across mu
+opportunity…to build and operate a…high
+The founders’ next step was to gather
+their business. They first built a geographic database
+MSCs , tower operators, and wireless carriers
+data to produce a “density rate” th
+and deploy the envisioned wireless network.
+issues with wired backhaul amounted to a problem for which
+a technological solution. According to Scott:
+You had a really interesting set of issues happening. The growth in wireless
+subscribers was accelerating andnew technologies were driving rapid increases in
+demand for backhaul services. Anew entrant in the industry had aggregated key
+r assets. The backhaul networks that were originally provisioned to the tower
+couldn’t scale to meet future demand, yet the cost of go ing back and fixing that
+problem was prohibitively high.
+ProjectSHED would provide a wireless, microwave- based alternative to the
+backhaul solution that the local phone companies provided. This alternative
+convey signals from their cell sites directly back to their own switching
+ing the existing wired backhaul network (seeFigure A ).
+Figure A: The ProjectSHED Network
+ProjectSHED’s solution would provide backhaul capacity that was far more reliable and
+scalable than the existing solution, and at a lower price (see Exhibit 4
+description of ProjectSHED’s services) .
+The SHED team decided to join forces and focus on the backhaul opportunity. As stated in
+speed backhaul, key structural changes in the industry, and
+the need to build across mu ltiple tower portfolios all provide an attractive
+opportunity…to build and operate a…high -speed backhaul solution.
+The founders’ next step was to gather the intellectual capital that would form the foundation
+built a geographic database that included the locations and capacities of
+, tower operators, and wireless carriers across the United States. Then, they
+data to produce a “density rate” th at quantified the most economically efficient method to design
+and deploy the envisioned wireless network.
+p.8
+a problem for which SHED
+You had a really interesting set of issues happening. The growth in wireless
+new technologies were driving rapid increases in
+new entrant in the industry had aggregated key
+r assets. The backhaul networks that were originally provisioned to the tower
+ng back and fixing that
+based alternative to the
+This alternative could
+their own switching
+that was far more reliable and
+for an extended
+As stated in their
+structural changes in the industry, and
+an attractive
+form the foundation for
+the locations and capacities of
+they analyzed the
+at quantified the most economically efficient method to design
+ProjectSHED (A) E-116A p.9
+The team determined that none of the major tower companies individually had enough tower
+density to impact the backhaul problem of any one major wireless carrier. Two companies’
+towers combined, however, passed the hurdle; the combined assets of any two of the major
+players made it economically viable to construct a network across the portfolio of assets ( Exhibit
+5profiles major tower companies and wireless carriers). ProjectSHED aspired to become the
+neutral third party to lead the development of a shared backhaul infrastructure.
+Convinced that their idea was structurally viable, the team built a financial model examining the
+economics of building their backhaul network. The model established the price points, demand
+requirements, and customer deployment hurdles to be met or exceeded to justify a build. The
+team also built a detailed blueprint of the network architecture. They evaluated over a dozen
+technologies to deploy in the network before ultimately selecting an optimized combination of
+tested and proven technologies. These technologies were recognized and promoted as core
+company assets.
+SELLING THE PLAN TO THE INDUSTRY
+Though the team was convinced that they had a feasible concept, they recognized that their plan
+depended on their ability to access the real estate where carrier cell sites were located. In order to
+deploy their network equipment and connect to the carriers, ProjectSHED needed the
+cooperation of the tower operators that owned this real estate. Once achieved, these relationships
+would also form a significant barrier to entry for potential competitors.
+At the urging of their advisors, the team went to the annual Tower Summit trade show to meet
+the key players: top executives from tower operator and service firms, and analysts who served
+as industry thought leaders. Convincing the tower operators to sign on with ProjectSHED was a
+major challenge. As Scott explained:
+The CEOs in the tower industry were entrepreneurs who had built companies with
+multibillion dollar market caps in just three to four years. When we pitched to
+them, we learned that each of the companies had their own perspective on solving
+the backhaul problem. We had to do significant education about density and show
+them why an independent entity could do it better and more economically, and
+would be more favored by a carrier. In retrospect, they all liked the concept; they
+just didn’t like the idea of working with their competitors.
+The tower companies also questioned the notion that industry “outsiders” like ProjectSHED
+could get the job done. The tower industry executives told them, “You guys are really smart. But
+you’re not from the industry, so why you?”
+Even when the tower companies became convinced of the idea’s merit, they tended to want the
+SHED team to come on board as employees and develop a company-owned solution. The
+founders were firmly opposed to the idea of being absorbed into a large company. They
+continued to believe that a neutral third party was critical to building out a backhaul solution
+across networks and geographies.ProjectSHED (A) E-116A p.10
+As time wore on without a clear path to execution, self funding was draining the team’s
+emotional and financial resources. The MBAs in particular felt the anxiety of being a few months
+out of school with neither an income nor a secure career plan. Harpi explained:
+At this time, Dave and I felt like if we didn’t make at least a thousand dollars a
+month, our significant others were going to kick us out. We had been operating
+without salaries for four or five months, and we weren’t independently wealthy.
+At a crossroads, the four founders pondered their options: Should they continue with their data
+backhaul idea or search for an easier business to launch? Another idea was to have the founders
+with greater resources fund the project going forward. The team wondered for how long and at
+what price this would stay a viable option. As they discussed the forward course, a deeper, more
+unsettling question remained: Had the SHED team’s approach to entrepreneurship run its course?ProjectSHED (A) E-116A p.11
+Exhibit 1
+ProjectSHED Founder Profiles
+Scott Brady, Cofounder and CEO
+Experience
+13 years of general management and technology experience
+Clarus Corporation (NASDAQ:CLRS) : Cofounder and CTO
+SQL Financials International (NASDAQ:SQLF) : Cofounder and CTO
+Andersen Consulting : complex strategic planning and technology deployment
+Education
+Stanford Graduate School of Business: MS in Management (Sloan Fellow)
+University of Florida: BSBA in Finance (high honors)
+Eric Botto, Cofounder and VP Engineering
+Experience
+15 years of product development, engineering management, and general management
+experience
+Quantum Corporation : Engineering Program Manager, led 64 engineers and 7
+engineering managers. Responsible for $20mm budget and $500mm revenues.
+Quantum, Plus Development, and HP Labs : R&D Engineer
+Education
+Stanford Graduate School of Business: MS in Management (Sloan Fellow)
+Stanford University: MS and BS, Electrical Engineering
+David M. Leeds. Cofounder and VP Marketing
+Experience
+8 years of worldwide operations and strategic planning experience
+Lexmark International : responsible for $200mm high-end printer supplies business
+TwoLeeds : founder, operations consulting company in Southern China
+Education
+Stanford Graduate School of Business: MBA
+University of Vermont, University of Copenhagen: BSBA, International Finance (honors)
+Harpinder Madan, Cofounder and VP Business Development and Strategic Alliances
+Experience
+6 years of technical, team-building, sales, and operations experience
+Oracle Corporation and Bull-Honeywell : Product Development Lead
+Think Business Networks : cofounder and CTO
+Doll Capital Management : Venture Associate for $1bn telecom VC fund
+Education
+Stanford Graduate School of Business: MBA
+Indiana University, Bloomington: MS, Computer Science (honors)
+Institute of Technology, BHU, India: BS, Computer Science (President’s Gold Medal for
+graduating #1 in university)
+Source: Company recordsProjectSHED (A) E-116A p.12
+Exhibit 2
+Opportunity Evaluation Criteria
+Sample
+Idea
+Opportunity Rate each criterion on a scale of 1-10, with 10 being best.
+1 Year 5 revenue potential in excess of $50mm5
+2 Defensible business with solid barriers to entry8
+3 Poor availability of direct substitutes6
+4 High-growth market in excess of GDP growth8
+5 Solve a problem 2 years out; solve a durable problem9
+6 Solve an innovation problem or drive improvement (vs. being fundamental
+breakthrough) 9
+7 Exit possible in 5 years4
+8 IP, Quantitative, and/or Analysis heavy10
+9 Business aligns with either technology background or functional expertise of team5
+10 Passion for opportunity8
+Team Decide yes or no.
+1 SHED member able and willing to serve as CEOYes
+2 No single investor owns greater than 49%Yes
+3 Business we can found and build out of West CoastNo
+4 Proud parent test: happy to tell others, reputation of likely staff in industry good, ease
+of transition to next opportunity Y/N/Y
+Other Rate each criterion on a scale of 1-10, with 10 being best.
+1 Not too many externalities out of our control3
+2 Likely to be funded based on comparative deals in industry and informal consultation
+with likely funders6
+Total Sum all of the above numeric ratings.81
+Gut check Is it fun, fundable, and on the right trajectory?
+Source: Company recordsProjectSHED (A) E-116A p.13
+Exhibit 3
+Visualization of SHED Search Process
+Overview
+Industry and Idea Selection
+Source: Corey Ford of Runway at Innovation Endeavors (used with permission).
+ProjectSHED (A) E-116A p.14
+Exhibit 4
+ProjectSHED Info Sheet
+Who is ProjectSHED?
+ProjectSHED has brought together experts in wireless design and deployment, network management, and general management to
+focus specifically on improving the weaknesses in the backhaul portion of wireless networks.
+The ProjectSHED solution is a cost effective, high capacity, shared infrastructure that employs a unique combination of microwave
+and fiber to directly lower operating expenses, enhance revenue generating capability and increase overall operating efficiencies.
+From its inception, the company has worked intimately with wireless operators to clearly understand customer and quality
+requirements. The result is a well architected custom-made solution that will meet demanding carrier metrics.
+What are the weaknesses in backhaul today?
+Wireless operators express significant frustration with today's backhaul infrastructure. Greater than 25% of operating budgets are
+spent on provisioning and maintaining backhaul, provisioning times are painfully slow leading to delayed time to market, legacy
+networks are unreliable, and customer service from T1 vendors has reached an unacceptable level. Operators are no longer able to
+move forward effectively, and are uncertain how the current infrastructure will support increased capacity and data needs in the
+future.
+What does ProjectSHED do?
+ProjectSHED has designed and created a network consisting of high capacity point to point microwave, existing redundant fiber
+rings, and a robust operations and network management suite. ProjectSHED's technology is designed to support existing voice
+applications and address future data needs.
+ProjectSHED's network bypasses the existing copper local loop infrastructure by implementing a scalable wireless system. The
+company is custom engineering this network in selected markets from the ground up, incorporating local engineering requirements
+and insuring high end to end network reliability. All design and maintenance is done by ProjectSHED, minimizing response and
+repair time for customer service issues.
+What are the advantages of the ProjectSHED solution?
+Reduces total cost of backhaul through a simplified, shared backhaul infrastructure that benefits from wireless operator
+collocation
+Provides increased reliability through network designed and built with proven microwave and fiber optic technologies
+Reduces long provisioning time by providing pre-provisioned circuits
+Offers quantifiable improvements in customer service by eliminating legacy systems, simplifying processes, and implementing
+proactive customer management
+Why ProjectSHED?
+ProjectSHED believes there is a fundamental need for change in the backhaul network, The team consists of wireless industry
+experts with a proven track record of success. The ProjectSHED team has had specific experience designing, building, managing
+and maintaining cellular and PCS networks. Team members have built, operated, and maintained the largest microwave backhaul
+networks in North America. ProjectSHED is funded and advised by leading architects, industry veterans and influencers in the
+wireless industry.
+@ 2002 ProjectSHED Corporation, All Rights Reserved
+Source: Company recordsProjectSHED (A) E-116A p.15
+Exhibit 5
+Profiles of Key Partners and Customers
+Tower Operators *
+($ ‘000)American
+TowerCrown Castle SpectraSite
+Ticker AMT CCI SITE
+Towers Owned 12,846 14,435 7,550
+Stock Price $8.80 $10.89 $3.03
+Market Capitalization $1,739 $2,364 $510
+2001E Revenues $1,111 $874 $490
+* Current as of 11/30/01
+Wireless Carriers**
+($ ‘000)AT&T
+WirelessSprint PCS Nextel
+Ticker AWE PCS NXTL
+# Subscribers 18,064 13,729 8,656
+Stock Price $17.31 $20.44 $24.75
+Market Capitalization $33,856 $24,427 $8,262
+2001E Revenues $13,642 $9,751 $6,996
+** Current as of 12/21/01
+Source: Company records
