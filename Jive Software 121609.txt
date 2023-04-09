@@ -1,0 +1,610 @@
+ 
+ 
+ 
+ 
+CASE:  E-360 
+DATE:  12/16/09  
+Claire Magat Raffaelli prepared this case with the help of Mark A. Stevens and Mark Leslie, Lecturers in 
+Management, as the basis for class discussion rather than to illustrate either effective or ineffective handling of an 
+administrative situation.  
+ Copyright © 2009 by the Board of Trustees of the Leland Stanford Junior University.  All rights reserved.  To order copies or request permission to reproduce materials, e -mail the Case Writing Office at: cwo@gsb.stanford.edu or 
+write: Case Writing Office, Stanfor d Graduate School of Business, 518 Memorial Way, Stanford University, 
+Stanford, CA 94305- 5015.  No part of this publication may be reproduced, stored in a retrieval system, used in a 
+spreadsheet, or transmitted in any form or by any means –– electronic, mechanical, photocopying, recording, or 
+otherwise –– without the permission of the Stanford Graduate School of Business.  
+ 
+ 
+ 
+JIVE SOFTWARE  
+ 
+The only constant at Jive is change.  
+—Matt Tucker, Cofounder and CTO  
+INTRODUCTION  
+Dave Hersh, CEO of Jive Software, looked out at a sea of shell -shocked faces.  It was October 
+30, 2008, and Hersh had just c alled an all -hands meeting that he anticipated might be the most 
+challenging of his career.   The group gathered in the room represented those employees 
+remaining after a massive lay -off Hersh had implemented a few day s prior, when he was forced 
+to let go of 20  percent  of Jive’s workforce .  As if that ordeal w as not hard enough, Hersh now 
+faced a beleaguered team aching for some good news.  Unfortunately, he did not have any to 
+give: the economy  continued  to worsen, Jive ’s venture partner was putting on the heat, and after 
+refreshing the majority of his executive team during the previous quarters, Hersh was running 
+out of levers to pull.   The year 2008 had been a whirlwind ; a new crop of sales reps had been hired in the first quarter, 
+building on the momentum of 2007’s record revenues.  In the second quarter, however, Jive’s 
+sales teams began to miss their quotas.  B y the  end of the  third quarter it was clear that the 
+company had strayed far off course.  Hersh  had hired s everal seasoned executives to join him at 
+the hel m along with Jive’s cofounders, Matt Tucker and Bill Lynch, but even this  had failed to 
+right the ship.  Hersh now turned to his remaining 113 employees,
+1
+FOUNDING STORY   hoping that they could power 
+the company through this difficult time.   
+Matt Tucker and Bill Lynch’s friendship began in 1992, when the two first met as ninth graders at City High School in Iowa City, Iowa .  It was during those formative high school years that 
+their extracurricular activities began to overlap: debate club, jazz band, and a dabbling in 
+                                                           
+1 Jive also employed 19 contractors at this time, reduced from 24 prior to the layoffs.  Jive Software  E360  
+  p. 2 
+computer programming.  They matriculated to the University of Iowa in 1996, where they shared 
+a dorm room a nd both pursued a major in computer science.  Over the course of the next couple 
+of years, the roommates became increasingly interested in open source programming tools.  Tucker described their availability on the Internet at the time: “If you were a websi te 
+administrator with minimal programming experience, you could go onto the Internet and download open source scripts to add basic functionality —guest books or page visitor counts, for 
+example—to your site.”
+2
+   Sensing the growing popularity of such tools, the pair decided to 
+develop an open source website together, which they named CoolServlets.  After six months in the space, they recognized that there was a significant business opportunity on the horizon.  Tucker explained:  
+We saw a burgeoning applicatio n service provider (ASP) market and envisioned 
+creating a set of applications that we could sell to the ASP vendors.  We decided to start with an open source discussion forum.  We figured we could follow the open source product with a commercial version at  some point down the road.    
+ To the pair’s delight, the CoolServlets discussion forum took off like wildfire.  It developed a wide following in the open source community, making advertising on the site increasingly profitable.  With the dot.com boom  now at its height, companies were willing to pay significant 
+amounts to advertise on the Internet, even on niche websites.  For a couple of college students who had invested a mere $70 to launch the site and order a batch of business cards, the return from ad revenue alone was significant and enough to justify keeping the site open source.      
+ After graduation in 2000, Tucker and Lynch followed the dot.com mania to San Francisco, where they began working at a start -up called 4charity.  It was there that they met Dave Hersh, a 
+former management consultant who had recently transitioned to become 4charity’s interim CFO.  Hersh recalled the pair juggling both pursuits: “They would work at 4charity during the day and then would go home and work on the open source a pplication all night.  In fact, they were 
+making more money advertising on CoolServlets than they were at 4charity.”  Within a few months it had become clear that 4charity was starting to struggle, and the three disbanded:  Hersh to New Haven, Connecticut, where his wife was to attend graduate school, and Tucker and 
+Lynch back home to Iowa, where they planned to focus on CoolServlets full  time.  Tucker 
+recalled: “We weren’t exactly sure how we were going to turn it into a business, but we thought we might a s well try.”  
+A Lucky Break  
+Things turned around towards the end of that year, when Sun Microsystems approached Tucker and Lynch with an attractive proposition.  Sun was frustrated with its current discussion forum vendor and wanted to try out CoolServlets’  technology.  It was familiar with the start- up’s 
+reputation as the best Java- based discussion forum on the market, now being used by thousands 
+of websites.  Sun made a couple of requests, the first around a new set of features.  The second was that the pair form a real company —an enterprise like Sun could not add an unincorporated 
+two-man shop to its vendor database.  The young entrepreneurs knew that this was their chance 
+                                                           
+2 Interview with Matt Tucker, cofounder and CTO (October 13, 2009).   Subsequent quotations are from the author’s 
+interviews unless otherwise noted.   Jive Software  E360  
+  p. 3 
+to break into the enterprise ranks.  They began working on a new commercial version of the 
+software and incorporated in February 2001, changing the company’s name to Jive Software.  The new name played off the word Java, the programming language used to code the software.  
+The Early Years: 2001 -  2004 
+Although leaving the open source comm unity was gut -wrenching and elicited painful feedback 
+from Jive’s loyal users, Tucker and Lynch believed it was the right business decision.  They moved company operations to New York City, at which point Hersh came back into the picture.  He had the most classical business experience of the group (see Exhibit 1  for biographies), 
+which was heavily leveraged as the company matured.  In September 2001 he joined Jive full time as CEO.    Jive’s first pay product, the discussion forum application, was initially  sold for $100 per  server.  
+It was soon evident that the price was far too low for Jive’s target customer.  Tucker reflected:  
+ 
+The early part of the business was spent deciding to raise prices over and over again and trying out different feature sets to justify the higher ASP.
+3
+   We invented 
+all kinds of new product names: Jive Forums Basic, Forums Light, Forums Professional, Forums Enterprise…. We offered a silver edition, then a gold 
+edition….  I can’t even remember how many product offerings we went through 
+to get from that hundred dollar price point up to a few thousand dollars.  But even that wasn’t nearly viable for the types of companies we were trying to sell to. 
+The economic environment at the time was challenging; it was post 9/11 and dot.com colla pse.  
+Jive’s competitive set was composed of vulnerable start -ups teetering on the brink of collapse.  
+The team knew that the only way to survive as a young company in this climate was to bootstrap and remain frugal.  They worked out of a 500 -square foot a partment in West Village, the foldout 
+couch doubling as Hersh’s bed during the week.  After nine months they upgraded to an office but kept the bootstrap mentality.  Their goal was to build a solid book of business and flip it within a couple of years, aft er which they would move on to the next project.   
+ The next two years were spent growing the business.  The company had been cash flow positive since day one, allowing management to put capital back into the business as it grew.  The breadth of Hersh’s ro le had also grown: he wore whichever hat was needed at any given 
+moment, from business development, to marketing, to sales.  As for the latter department, the strategy of “high volume and low price” had led to a haphazard sales process typical of young 
+start-ups.  Sales were either made by credit card through the company website or over the phone.  
+There was no time for customer qualification and minimal coordination between product 
+development and sales strategy.  Out of bandwidth to manage the enthusiasti c response to their 
+products, the team hired a fourth individual to field incoming calls .  They also brought on a 
+developer to help Tucker and Lynch.  The lightweight sales effort proved effective in moving product, and the Jive pitch became: “Superior tec hnology at a very low price.”   
+                                                           
+3 Average selling price.  Jive Software  E360  
+  p. 4 
+Nascent Social Software  
+It was during this period that the term “Web 2.0” came into popular use.  It referred to the second 
+generation of web development and design: the move away from static web pages to dynamic and shareable content and social networking.  This new approach to the Internet was illustrated 
+by the rise of web -based communities, hosted services, web applications, wikis,
+4
+  and blogs, 
+among others.  The quickly evolving consumer web also played a significa nt role. Social  
+networking sites were particularly impactful, changing how individuals communicated over the Internet: Friendster appeared in 2002, followed by the launch of MySpace in 2003 and Facebook in 2004.  While social software was not yet being use d within the professional context, many 
+experts predicted that it would soon make the transition into the workplace.   
+Even an indiscriminate sales process could not hide the fact that Jive’s technology was gaining 
+traction.  The software had originally b een built for an external use case, helping companies 
+engage with communities outside the firewall.  (These could be developer, support, or product innovation communities, for example.)  As these external groups grew more entrenched, 
+companies responded wi th an increased willingness to invest in communicating with them.  As it 
+turned out, there was also the potential to deploy Jive’s tools within companies’ internal communities (for use by employees inside the firewall).  Enterprise use of social software w as 
+limited, but there was growing interest in opening up the channels of information flow within large organizations.  Companies were beginning to use wikis and blogs, both featuring interactive formats, in order to generate internal discussion and improve  collaboration.   
+A Turning Point  
+Jive’s early strategy of selling low -priced individual technology components was working.  In 
+fact, it caught the attention of a potential buyer.  In February 2004, Jive received an acquisition offer.  Though less than wha t the team believed the company was worth, the offer was sizeable 
+enough to warrant a conversation.  Selling Jive at this stage would offer a clean break, allowing Tucker, Lynch and Hersh to pursue new projects.  However, over the course of meetings with t he 
+interested party, they came to realize that selling Jive no longer fit their vision of the future.  They had caught of a glimpse of a major opportunity in social software on the horizon and could not pass up the chance to go for it.  It was a pivotal moment that refocused and reenergized the team.  Recognizing that Jive would need to transition beyond raw technology, the team sat down and asked themselves a series of difficult questions: “What are we doing?  What is our strategy?  
+What is the ‘next big thing’?”    One thing was clear: the team had to leave New York.  First of all, the city did not have the infrastructure in place to support the types of hires Jive would need.  The few developers there were being paid large sums by the banks, making work a t an unproven start -up less attractive.  It 
+would be next to impossible to find qualified software sales reps.  Second, it was pricey.  Hersh admitted, “While New York City was a great place to start a company, it was expensive.  We were a cash sensitive s tart-up that had to be smart.  New York was not the place to scale a 
+software company.”
+5
+                                                           
+4 A wiki is a website that uses wiki software, allowing for easy creation and editing of any number of interlinked 
+web pages, using a simplified mar kup language within the browser.    In the end the team decided to move to Portland; the city had a robust 
+5 Interview with Dave Hersh, CEO (August 25, 2009).  Subsequent quotations are from the author’s interviews 
+unless otherwise noted.   Jive Software  E360  
+  p. 5 
+network of developers, an inside sales cluster, and was not far from California’s Silicon Valle y, 
+yet affordable.  In May of 2004, the trio of Tucker, Lynch and Hersh pulled up the stakes and 
+relocated to the Northwest.   
+JIVE 2.0 
+The move to Portland signified a new beginning for Jive.  Hersh recalled, “It was like we were 
+writing software during the first couple of years [of Jive’s existence] and at some point, it made sense to scrap all the code and re- architect it.  The move to Portland was like rewriting the 
+company.”  It was time to get serious about building a legitimate company, which meant operationalizing processes and growing aggressively.  The first priority would be revisiting where the company should focus its product development.  Next would be building out the team, specifically the sales and engineering functions.  
+Where to Focus Next?  
+By now Jive’s products included a threaded discussion forum, knowledge management application, and instant messaging server.  Although these were interrelated collaboration components, the product set did not represent a comprehensive solution.  And while Jive had an attractive customer list, in reality its sales were typically for the use of an individual tool within a single isolated department.  End users were often Java engineers familiar with Jive from its popular open source days, who could customize the components to fit their needs, bypassing larger vendors whose products were not as adaptable.  Jive sales were brisk and its brand recognition was high—it was on track for $2 million  in annual sales in 2004—but the ASP 
+remained low, topping out at $10,000.  It was no wonder that Jive’s customer count hit the 1,000 mark by the end of the year.  
+ 
+Foray i nto Service 
+Prior to Portland, Hersh and his team had become interested in the customer service and support 
+market.  They believed that support was a natural extension to Jive’s current products, as customers were already engaging on the topic using the collaborative tools.  Once settled into the new company headquarters, the team decided it was time to go after this new horizontal.  They brainstormed a round how to reposition their products to fit the use case; the result was packaging 
+their existing technology —the discussion forum, knowledge base and instant message server —
+into a next generation e -service solution.  Similar to Jive’s existing products, the solution would 
+be community oriented and collaborative, but this time it would be purchased in a suite rather than as individual components.  Unfortunately, the service solution fell flat.  It was a crowded market and more business process intensive th an anticipated: customers wanted service components that integrated with the rest of 
+the solution that they had installed  already .  It was not worth installing an entire suite when the 
+customers’ developers had already found ways to make the individual pie ces function 
+independently.  The team took little time to regroup after this initial failure.  They spent time listening to their biggest customers —GM, Veritas, SAP —describe how they were using Jive in a 
+more strategic way than ever before.  This new metho d of collaboration was becoming mission-  
+critical to the enterprise.  Hersh concluded: “This was the first time that Web 2.0 started to make Jive Software  E360  
+  p. 6 
+its way into the enterprise and into the hearts and minds of technology enthusiasts around the 
+world.”  
+ Integrated Social S oftware  
+A resounding theme emerged from these critical conversations: although customers were ready to embrace social software, they sought an integrated solution.  At that time, the Web 2.0 ecosystem was made up of a set of disparate components.  No one had figured out a way to bundle them together in a functional way.  Hersh recollected this consistent refrain:  
+ 
+This is a nightmare for us.  We have a billion wikis, blog applications, and threaded discussion applications, and it’s just a mess.  Can you put this all into 
+one application?  Can you make it enterprise class, so that we can put it in place and IT is not going to kill us for it later?  Can you make it so highly usable that anybody can pick it up and start adding value  … so that it’s not j ust for 
+millennials and technology enthusiasts, but something that anybody in any department could jump in and use right away?  
+ The Jive management team sensed the opportunity for another product suite, this time in a space that they were the recognized experts in.  They decided to build the new solution from the ground up, a process that would take at least 12 months, if not longe r.  Tucker explained: “We 
+wanted to do something completely new.  We would interweave what was great about Jive forums together with Jive knowledge base to create a social software suite that had wiki style content, discussions and blogging.”  A handful of  engineers were hired to begin building the 
+product suite that was to be named Clearspace.  
+Early Sales Strategy  
+In the meanwhile, it became necessary to formalize Jive’s sales function.  Shortly after the move to Portland, Jeremy Wilson  was hired as VP o f sales.  Wilson  came with more than a decade of 
+sales leadership experience in start -up software companies.  He hired the company’s first 
+dedicated inside sales rep shortly after joining.  A year later, in early 2006, he brought on a second inside rep.  F or the first time, the company was looking ahead toward future quarters.  
+Wilson  conducted high -level overviews of the sales pipeline with Jive’s management, 
+highlighting the most active accounts and the leads most likely to close.  Tucker recalled:   
+We h ad weekly all -hands meetings during which we reviewed company finances 
+and went over the top deals of the quarter.  There wasn’t necessarily awesome forecasting or pipeline management being done, but you at least knew the big deals we were trying to get.  
+ Jive’s two sales reps, Dennis Deveny and Sarah Denman, went by the title of account manager and were responsible for meeting the company quota as a team.  Deveny recalled:  “We basically 
+split the globe in terms of what we covered.”
+6
+                                                           
+6 Interview with Dennis Deveny, field sales director (October 9, 2009).  Subsequent quota tions are from the author’s 
+interviews unless otherwise noted.     In the fall of 2006, J ive hired a third account Jive Software  E360  
+  p. 7 
+manager and its first sales engineer.  Given Jive’s stellar reputation and leading position in the 
+industry, there were plenty of incoming leads to keep the sales team busy.   
+   Jive’s primary lead driver was customer references.   Its website boasted a long list of Fortune 
+500 companies and one of the key terms negotiated in every deal was a “Powered by Jive” link on public -facing applications.  The fact that so many companies already trusted Jive was a 
+tremendous boost to the sal es pitch.  Additional lead drivers included published pricing on the 
+website, a remnant of transparency from the company’s open source days, and free application downloads.  The latter was based on the idea that customers would try out the free version for  a 
+limited period and then upload to enterprise class after a positive experience.  
+ 
+Reactive Sales  
+Jive’s brand generated enough interest in the market so that sales reps were sorting through requests for proposals (RFPs) more than they were actively selling.  The early customer 
+qualification  process did not discriminate by customer industry or size.  Deveny described the 
+process of sorting through the incoming traffic:  
+  The leads would get dumped into salesforce.com and then we would sort through them and start sending out mass e -mails.  If a lead didn’t respond after three e -mails 
+we considered them closed.  For marquee accounts, we manually went through the list and made outgoing calls.  That said, our pricing was so low we were pretty unfocused in terms of who we were selling to.  We sold to anyone who was interested; there were a lot of small and medium businesses (SMB s) on the list.   
+ 
+Wilson  conducted periodic pipeline reviews with his sales force of three.  These were relatively 
+casual conversat ions around how the reps were feeling about the opportunities in salesforce.com 
+and how they were following up leads.  Deveny recalled: “ Jeremy  would cherry pick various 
+leads and challenge us on our follow -up ability.  It was a bit of a random process, as  we each had 
+hundreds of leads.”     
+ Two of greatest challenges facing the sales teams during this period were identifying legitimate customers amongst the sea of inquiries and finding creative ways to push up the ASP.  According the Deveny, the lack of customer qualification resulted in a mixed bag of inquir ies.  
+Each rep had to spend a fair amount of time on the phone with the potential customer in order to gauge sincerity of interest.  In general, if a customer had the funding, an active project, and the authority to make the decision, they made the cut.  This resulted in a long customer and transaction list for Jive but minimal add -on sales and enterprise upgrades.  Deveny lamented:  
+ 
+We were reactive.  We had hundreds of leads coming through the system,  some of 
+which came from five -person companies in locations where they didn’t even 
+speak English.  It was hard to manage your time.  Everyone wanted a demo, so you had an hour -long consultation over the phone before you knew if the lead was 
+legitimate.  On ly at that point could you convert the lead into an opportunity and 
+track it through your pipeline until you had a quote, which was either won or lost. 
+   Jive Software  E360  
+  p. 8 
+Additionally, since there were no official Jive sales pitches developed for industry -specific use 
+cases, each customer interaction was different.  The length of the sales cycle also varied widely: 
+some customers closed within four weeks while others took six months to commit.  And 
+although some of Jive’s products had by now reached the $30,000 price point , the significant 
+number of deals in the $300- $500 range dragged down the ASP.  As the products were still being 
+sold explicitly for external use, they continued to be priced by the number of servers as opposed to individual users.  With the threaded discussion product, Jive tried to introduce further classification into tiers based on the number of users participating in a forum (500, 1,000, 5,000, etc.).  However, problems arose when customers upgraded to products priced for a higher tier and did not reco gnize a material difference in performance, resulting in hesitation to pay up.  
+   Team Quotas  
+In summer of 2007, Wilson  hired Jive’s first field sales rep.  With this addition and anticipating 
+future growth in the size of the sales organization, it became  necessary to revisit territories and 
+quotas.  Wilson  continued to organize his reps by teams, this time assigning one inside rep and 
+one field rep to a single territory.  Just like the first account managers, each pair shared a quota for their territory.  Teams met once a week to discuss how to cover their area: field reps might go 
+after the bigger deals, going on site and meeting with executives as needed, while the inside rep would typically follow up on leads and run demos.  Bonuses were distributed eve nly across the 
+team, no matter who closed which deals.  Deveny recalls:  
+ 
+The challenge with the team structure was that it was dependent on the personalities of each particular team.  It was difficult to replicate the success of one team into other territo ries.  Each team had to figure out how they wanted to 
+work together and what their division of labor was going to be.  
+   Wilson  worked with Hersh to determine appropriate quotas, which were assigned to each team 
+on a quarterly basis after management goals were set.   Quotas were loosely based on the number 
+of probable leads in the pipeline, industry dynamics , and Jive’s annual goals.  From the reps’ 
+perspective, the process appeared far from perfect.  Deveny recalled, “They would gather data 
+from the front li ne, see what was being forecasted, and build that up into the company goal.”   
+One of the greatest frustrations was that quarterly quota s penalized reps who had attractive 
+pipelines.  For example, a rep who had a quota of $300,000 in one quarter and who set up a robust pipeline of $450,000 for the subsequent quarter would likely see his or her quota go up.  The system did not instill appropriate incentives.  A sec ond frustration around the quotas was 
+that they were sometimes announced after the quarter was already under way, compressing the time that the sales teams had to hit their numbers.   
+T
+AKING OFF IN 2007  
+Clearspace  
+In February 2007, after a few false starts  and 18 long months of development, the highly 
+anticipated Clearspace product suite was launched.  According to Hersh, “Jive now had a real 
+solution with a real message to put sales people on.”  For the first time, Jive was selling a product directly appli cable to both internal and external communities.  (See Exhibit 2 for 
+product illustration.)  Although the use case, buyer, licensing and sales cycle for internal and Jive Software  E360  
+  p. 9 
+external communities were different, the core technology supporting the collaboration was the 
+same.  In fact, the team believed that the barriers between the two would eventually go away.  
+With large companies beginning to experiment with wikis and blogs, social software was making serious headway into the corporate world.  Hersh recalled, “The  whole point was to capitalize on 
+the network effects of social software: you wanted everyone to use it.  Once we reached our customer’s internal communities, the end user became anybody in the organization.”    With the Clearspace release, Jive changed it s licensing model to be priced per user within customers’ 
+internal communities ($29/user for an introductory period, increasing to $59/user).  The ASP for external communities was also increased further, now topping $50,000.   
+ Clearspace was well received  by the market, but also generated the first real competitive 
+response that Jive had ever encountered.  ( It appeared that the p revious disparate products were 
+priced low enough to avoid serious competitive threats.)  One product  named SuiteTwo, 
+developed b y SpikeSource and released by Intel, generated some buzz at the 2007 Web 2.0 
+conference.  It brought together  best-of-breed wiki and blog products with several other 
+components.  Luckily for Jive, customers slammed it as a marketing stunt and delivered sca thing 
+product reviews.  Still, it was a sign that Jive would no longer be left alone on the leaderboard.  
+CTO Tucker recalled:  
+  
+[Vendors] did start putting together a pile of products pretty quickly.  These were 
+tool vendors from different backgrounds
+—wikis, blogs, discussion forums —who 
+began to add functionality to their existing products.  It was from this intersection 
+that the competitive market evolved reasonably quickly.  
+Outside Capital  
+By the summer of 2007, Jive was operating at a $12 million  run rate  (see Exhibit 3).  Clearspace 
+was gaining traction and the market for social software was rapidly emerging.  Although the Jive team sensed a massive opportunity on the horizon, they also were feeling the pressure of getting it right, or getting le ft behind.  It was at this point that they decided the company needed an 
+infusion of capital in order to get to the next level.  Hersh explained:  
+ 
+Jive had been on its own  for a long time.   It was profitable, but it was taking too 
+long.  We didn’t have the right oversight or corporate governance, and we didn’t 
+have a foothold in the Valley , which was needed in order to scale.   We weren’t 
+able to attract  the leadership talent or partners tha t we needed.  We were at an 
+inflection point in a space that was rapidly taking off.  We were not going to cede our leadership position to up- and-comers.  We decided to take advantage of our 
+lead and get the right people on board.  We would invest in order  to stay ahead.  
+ Jive management had frequently been approached by venture capital (VC) firms since moving to Portland, but had never felt the need for outside capital.  The team was now ready to consider the possibility and conducted diligence around whic h firm might be a suitable investor.  The right 
+VC partner would bring expertise to the executive team (in the form of a formal board and new 
+management hires) as well as provide funding to turbo- charge the organization.   Ultimately, the 
+team decided to ac cept funding from Sequoia Capital.  The $15.4 million  Series A was closed in 
+August 2007, with $14.1  million  from Sequoia and $1.3 million  from individual investors.  With Jive Software  E360  
+  p. 10 
+a post -money valuation of $60 millio n, Sequoia now owned roughly 25 percent  of the c ompany.  
+Hersh reflected: “As a company, we were like raw athletic talent —we had a lot of potential 
+energy that needed to be directed to the right place.  We just wanted to win ; the more people we 
+could find to help us do that, the better.  The Sequoia move was like getting a pro coach just 
+when you needed it.”  
+“Just Add Water” 
+The financial projections presented during the fundraising round with Sequoia predicted 
+bookings of $19.7 million  in 2007 and $36.7 million  in 2008, up from $6.3 million  in 2006.  In 
+order to hit these numbers, Jive management planned to put more feet on the street.  The company’s first field sales rep had made quite an impact when he started, closing a $1.2  million  
+deal right off the bat.  This reinforced the belief that Jive should increase the size of its sales force in order to cover more territory and generate sales.  Using past performance as a predictor for the future, VP of sales Wilson  reverse engineered how many sales reps it would take to meet 
+the company goals.  The answer was to more than triple the size of the sales force, with an emphasis on building out the field team.  The sales team went from six reps pre -Sequoia to 
+twenty in t he first quarter of 2008.  Deveny recalled, “When I started it was a VP and two reps.  
+Within less than two years we had a VP, plus two inside sales managers, the entire inside sales team, field sales team and sales engineering team.”  (See Exhibit 4 for sales organization chart 
+and Exhibit 5 for growth in sales FTE.)  Hersh explained the rationale:  
+ 
+We were investing ahead of demand.   The market was taking off, we had a real product, we had money  … it led to a ‘just add water’ type of mentality.  That said, 
+we had a history of financially prudent DNA, so the alarms start ed going off as 
+we began dipping in.  
+P
+ROBLEMS AT BAY 
+At Sequoia’s request, board meetings became more regular and more structured.  This led to an adjustment period as the company became a ccustomed to greater scrutiny around its finances.  
+Jive’s VP of finance was described as a “deer in headlights” during the early meetings, struggling to nail down basic metrics such as Jive’s cash flow.  Sequoia Partner Jim Goetz was worried by the lack o f visibility and pushed Hersh to get a better handle on the finances: “ Given 
+Jive’s growth, we need far better financial reporting and business metrics out of finance.  This needed to be fixed .”   
+ Jive’s bookings continued to increase quarter after quarte r through 2007.  Given the upward 
+trajectory, Goetz exhibited some tolerance around the fuzzy numbers.  The company was going through a lot of changes; as long it hit its numbers, this was not a deal breaker.  Although Sequoia’s presence had increased the intensity at Jive, there was still the mindset of “if it isn’t broken, don’t fix it.”  Chris Morace, who was hired to be the VP of product marketing at the time of the Sequoia round, felt a little less sure: “2007 was a hallmark year in that it was an Jive Software  E360  
+  p. 11 
+unrestrained bubble in that space.  While the fish weren’t jumping into the boat, they were 
+swimming pretty damn close to it.  But in fact, there were a lot o f problems at bay.”7
+Outgrowing the Sales Strategy   
+By 2008, it was evident that Jive was struggling wi th the burgeoning sales force.  While 
+Wilson ’s “shotgun”  sales approach of 2004- 2007 had been effective in generating a large  pool of 
+customer s, it had generated minimal data around specific use cases.  This strategy had made 
+sense when it was unclear wher e to focus the sales team’s efforts.  At this stage, however, the 
+lack of understanding around target markets raised some eyebrows.  Morace commented, “Sales 
+was leading the show but it was the Wild West; they did whatever they wanted.  There was no adult supervision as far as I could tell.”   
+ Although Morace was bullish  about the market opportunity, he was concerned about the 
+haphazard sales strategy and highly distracted sales force.  Reps were selling a wide range of legacy products besides Clearspace, from low -priced instant messaging software to a collection 
+of half -baked offerings put together years prior and intended for only a handful of customers.  
+Even more concerning was that the new hires —six in January 2008 alone —were not given any 
+formal train ing or provided with enough sales enablement materials.  Given the need to hire 
+quickly, the new reps were often from outside the Jive network, extending their learning curve even further and making it tough to ensure they were going to work out.   
+ The team structure was also starting to exhibit growing pains.  Group quotas obscured visibility into the strength of individual sales reps; when a deal fell through, it was unclear who was responsible.  And vice versa ; when a deal was closed, it was unclear whi ch selling method had 
+been effectively utilized.  There was little understanding around why a given product wa s selling 
+well to a given customer .  Without these metrics, there was no accumulated knowledge for new 
+reps to learn from.  Morace commented, “Data won’t solve everything, but at least if you have numbers you can have a conversation about what is happening.  In the absence of that, it’s difficult to say what is working or not working.”  With the sales team growing so rapidly, the feedback loop between sales and product was essentially broken.  There was no system in place to share learnings from the field with the engineers building product.   
+ Lastly, the quarterly quota system was fraying nerves.  Reps were increasingly hesitant to enter all of their leads into salesforce.com, for fear that this would increase their future quotas.  Quotas lost relevance as a measurement tool as they became incr easingly abstracted from Jive’s 
+finances.  Wilson  would revise quotas upward or downward with frequency.  Without an annual 
+number to aim for, one or two poor quarters could easily send the company into a downward spiral.  In addition, when quotas were given out mid -quarter, it was too late to change rep 
+behavior; there was not enough time to turn on levers in the incentive program.   
+ 
+  
+                                                           
+7 Interview with Chris Morace, SVP of products (October 13, 2009).  Subsequent quotations are from the author’s 
+interviews unless otherwise noted.   Jive Software  E360  
+  p. 12 
+Fuzzy Finances  
+ 
+The intention of the venture funding was to allow Jive to grow to its potential.  Unfortunately, it 
+was n ot accompanied by sufficient planning around how to use or manage the funds.  Tucker 
+reflected:  
+ 
+We knew that there was this line at which we would go from profitable to not profitable.  We did want to cross over the line to accelerate, but we didn’t have the controls or practices in place to actually know how we were doing or to have good control over how far over that line we were pushing.   
+ 
+Without any real numbers coming out of finance, management was in the dark in terms of how much money Jive was spe nding, as well as how much money it was making.  It became evident 
+that the VP of finance had no visibility into the company’s finances after he received a bank 
+statement and then sent a panicked e- mail to the management team alarming them that Jive was 
+losing cash.  Although he was taking care of day -to-day finance operations, such as paychecks, 
+he did not have the leadership capacity to run the business.  Numbers were not lining up—the board plan differed from the executive plan, which differed from the operating plan —and the VP 
+of finance could not communicate why.  It was clear that Jive did not have the right finance person to help it grow to the next level, and it had been tough to find that person in Portland.  Hersh admitted, “It was definitely the c ase of not knowing what we didn’t know.  We didn’t 
+have the experience as a management team to know what we were missing.”  According to Goetz, “Candidly, some of the discipline and frugality that had been part of the culture began to disappear.  It’s the comfort that comes from raising a large round—that’s something we see all the time in young companies.”
+8
+JIVE BEGINS TO STUMBLE   
+Jive’s strategy had been to accelerate and invest ahead of the growth curve.  Unfortunately, the market was not as ready for the ir software as expected.   Although Jive’s customer list was 
+impressive, they were not signing large field sales deals.  T he sales cycle from inception to actual 
+sale was longer than expected, as was the time between in itial sale to the enterprise roll- out.  Jive 
+was not losing a lot of deals, but they were going very slowly or not at all.  Customers were signing 5,000-  or 10,000- user deals rather than deploying Jive software company -wide  and 
+although i nteresting pilots were being run, most were being extend ed rather than translated into a 
+sale.    To make matters worse, the Clearspace 2.0 release in the spring of 2008 f ailed to meet 
+expectations.  The p roduct quality was not up to par, leading to frustration among customers who 
+were tired of running into glitches.  Wilson ’s inside sales engine began to stall .  Lastly, the wider 
+economic downturn of 2008 also played a role, as companies were beginning to cut software budgets.  Said Tucker, “These were hard things to know about a market until you see how it plays out, but it was definitely part of our modeling expectations, and it got us a bit over our skis.”   It was the first time that management had insight into what was and was not working.  
+ 
+                                                           
+8 Claire Cain Miller, “Start -Up Gets Course in Survival,” The New York Times, April 8, 2009, B1.  Jive Software  E360  
+  p. 13 
+Dennis Deveny had transitioned from account manager  to field sales rep in January 2008.  From 
+his point of view, the year started off well, but rapidly deteriorated:   
+ 
+ In the first quarter my territory did really well and we got a nice bonus.  In the second quarter we just barely missed, but I noticed that a lot of the other territories were not doing well.  Actually, I don’t think anyone hit their quota in Q2.  The third quarter was the day of reckoning; the sales team came in at only 60 percent of quota.  (See Exhibit 6.)  
+ Hersh recollected:  “We hit Q1  by the skin of our teeth.  The first two quarters were when our 
+new sales reps should have been ramping up and starting to produce, but we ended up cratering in Q2 and Q3.  And then this was all followed by the economic collapse.”  
+ The grim economy forced focus and clarity within the company.  In the past, the management 
+team had been unwilling to commit to a strategic direction.  One issue that had been particularly troublesome was around whether to sell to SMB or enterprise.  Jive had wavered on whether to continue selling to SMB.  Morace reflected: “I spent a lot of time trying to get [Jive management] to focus, but they resisted, pointing to the fact that the company was hitting its quarters.  It was a classic symptom of an early executive team that was n’t scaling.”  Once the 
+economy started to worsen, management circled in on enterprise, though it still took convincing to get the sales force to drop the smaller deals.  Reps would see the bright shining object of a huge enterprise deal but then watch it continue to get further and further away.  It was proving a challenge to turn away the small customers.  Common refrains from sales reps included: “People are calling and we are leaving money on the table by not selling to them.  We have gotten too expensi ve.”  It was the first time that the reps had encountered resistance to Jive’s price point, 
+which should have signaled they were talking to the wrong customer.  Instead, it instilled a sense of panic that they were losing traction in the market.    
+In Need  of New Management  
+ 
+Jive welcomed two new advisors in February 2008: Tony Zingale, the former president and CEO 
+of Mercury Interactive, officially joined as an independent board member.  Mercury was known 
+for its aggressive and highly talented sales team; Zingale promised to bring the same rigor to 
+Jive.  Bill Lanfri, a  former operating partner at Accel Partners, began in an advisory role at the 
+behest of Sequoia .  (He would officially join the board in October. )  As much as the Jive team 
+knew that it would benefit from Zingale ’s and Lanfri’s active involvement and expertise, there 
+was some concern that Sequoia was positioning their replacements.         
+ By the time that Goetz , Zingale and Lanfri arrived at the 2008 fall board meeting , Hersh already 
+knew that something was deeply wrong.  He winced at the recollection : “It was the  most brutally 
+honest board meeting you could possibly imagine.”  This day represented a critical turning point 
+for Jive: after two quarters of plummeting sales, something had to change.  Hersh  knew that part 
+of the problem was not having the right team in place: “One issue with being in Portland was that there was no one there who had seen the game.”  Although new executive leadership had been hired to run products (Chris Morace in October 2007), services (Robert Brown in April  2008), Jive Software  E360  
+  p. 14 
+and finance (Bryan LeBlanc in August 2008) , it was obvious that Jive needed a new VP of sales.  
+Hersh  recalled:  
+ 
+We were refreshing the sales force in a big way, so it made sense to bring in new 
+leadership.  Wilson  might have scaled further, but there was the opportunity to do 
+the next quantum leap.  We were trying to be thoughtful around making changes as early as p ossible, as soon as we saw them coming.  We knew it was going to 
+come soon.  
+ 
+With the help of Zingale, Jive was able to attract the talents of John McCracken as the new VP of sales.  The former head of worldwide sales at Inovis, a custom computer programmi ng service, 
+and a colleague of Zingale’s at Mercury (along with LeBlanc, Morace and Brown),  McCracken’s 
+vast experience with enterprise sales and rich network would be key to Jive’s new sales strategy.  However, there would be significant upheaval at the c ompany before he took over the reins in 
+January 2009.
+9
+Cutting Early and Deep      
+Rather than wait for things to improve on their own or blame Jive’s challenges on the deteriorating economy , Hersh decided to be proactive in making some necessary  changes .  He 
+declared, “This was not going to happen on my watch.  We decided to do a reduction in force; we’d get the right people on board and cut everyone else.  We were going to do it preemptively, early and deep.”  The layoffs took out nearly a quarter of Jive’s  165-employee work force, 
+including Wilson , the company’s first VP of sales.  According to Goetz, Wilson  had made an 
+impressive transition from the open source days responding to incoming leads to the transactional sales to SMBs.  However, this latest shift to the enterprise custo mer was a whole 
+different beast, requiring a new leader in sales.  The sales force alone was cut by a third, dropping from 33 to 22.  Hersh reflected, “Once you get this slap in the face of what’s really going on out there, you realize you have to make changes immediately.  It was like going through a break- up—it’s tough at first and then it’s much better.”
+10
+      
+After the layoffs, Hersh swiftly called a meeting with his remaining employees.  First, he put up a slide  listing the names of the laid -off employees.  He figured this would keep people from 
+looking around the room wondering who was missing.
+11
+   Next, he detailed everything the 
+company had done wrong leading up to this moment, taking responsibility for his role  in some of 
+Jive’s past mistakes.  He explained that Jive needed to conserve cash, make deep cuts and invest based on results rather than ahead of them, as they had when they had over -hired in 2007.  Most 
+of the employees recognized the new DNA in the lead ership ranks and trusted that Hersh knew 
+what he was doing.  It was painfully obvious that parts of Jive were dysfunctional, but until then employees did not know how bad things actually were.   
+                                                           
+9 Interview with John McCracken, SVP of worldwide sales (October 15, 2009).  Subsequent quotations are from the 
+author’s interviews unless otherwise noted.   
+10 Miller, op. cit.  
+11 Ibid. Jive Software  E360  
+  p. 15 
+In a follow -up meeting a few weeks later, Hersh outlined whe re the company stood and the 
+ground it had to make up.  Brown, the new VP of c lient services, would step in to run sales until 
+McCracken arrived.  Hersh laid out the plan for getting back on track and announced the sales 
+target for the fourth quarter: $8 million .  Jaws dropped; this represented Jive’s highest quarterly 
+target ever, yet the sales team had recently been cut to 65  percent  of its original size.  After 
+missing the previous quarter’s $7 million  target, it seemed impossible that they could now hit  an 
+even larger number with a drastically smaller team.  It would take a serious effort to make the number, if not a miracle.       
+Throwing Down the Ga untlet 
+Hersh ended the meeting by telling the company just how serious he was about saving Jive.  
+First,  he told everyone the reasons to be optimistic about the future: the market was untapped, 
+Jive remained the leading contender, and there was a new all -star executive team in place and 
+ready to lead.  The buttoned- up Hersh added one serious incentive to the  list: he promised his 
+employees that he would get a tattoo if they hit their number.  Not just any tattoo, but one of the quota itself: VIII.  It was a rallying moment.  As Hersh’s challenge breathed life into the room, you could start to feel the air cle ar.  It was time to get back to work.  Jive Software  E360  
+  p. 16 
+Exhibit 1  
+Executive Biographies  
+ 
+Robert Brown, Senior Vice President of Client Services  
+As SVP of Client Services, Robert Brown is responsible for Services, Support, Education, and 
+System Integrator Alliances. Prior to joining Jive,  Brown was the Vice President of Sales for 
+Innotas, a SaaS provider in the Project Portfolio Management realm. Previously, Brown  held 
+executive positions in Professional Services with Mercury, Kintana, Oracle, Price Waterhouse; 
+and US Steel .  Brown h olds a B.A. in Accounting from West Virginia University and an M.B.A 
+in Finance from Cleveland State University. He is also a Certified Public Accountant.  
+ Jim Goetz, Board Member 
+Jim is a Partner at Sequoia Capital focusing on cloud, mobile and enterprise investments. Jim currently serves on the board of Admob, Appirio, Barracuda, Clearwell, eMeter, Jive, MetaSwitch, Nimble, Palo Alto and Widgetbox. Prior to joining Sequoia Capital  in 2004, Jim 
+served as a General Partner at Accel Partners where he led the investments in Entrisphere (ERIC), Peribit (JNPR), RGB, and Rhapsody (BRCD) and was part of the team responsible for BroadJump (MOTV), Timetra (ALA) and Topspin (CSCO). Earlier, J im was a Founder of 
+VitalSigns (LU) where he went on to serve as VP/GM of the VitalSoft division of Lucent. Prior to VitalSigns, Jim was the Vice President of Network Management for Bay Networks. Jim has a BS in Electrical and Computer Engineering from the  University of Cincinnati and an MS in 
+Electrical Engineering from Stanford University.
+ 
+ 
+Dave Hersh, Chief Executive Officer 
+As CEO of Jive Software, Dave Hersh is responsible for overseeing the company's strategic 
+direction, planning and implementation. I n seven short years, Hersh  has led Jive Software from a 
+small open source project to an Inc. 500 company with 100 percent annual growth rates.   
+Previously, Hersh held the roles of CFO and product strategist at 4charity. Prior to that, he was a 
+management consultant to Hewlett Packard, focused on HP's Worldwide Information Management Strategy.  Hersh began his career as a strategy and change management consultant 
+at VIA Inter national in Chicago and London.  Hersh holds a Bachelor's degree in Economics 
+from D ePauw University.  
+ 
+Bill Lanfri, Board Member 
+Bill Lanfri brings over 25 years of background in enterprise networking and telecommunications 
+to his role as advisor to Jive. Some of Lanfri’s  more recent experience includes Operating 
+Partner at Accel  Partners from 2000 -  2003, during which time he served as CEO of the Accel / 
+Sequoia investment Big Bear Networks from 2000 to 2001. Before joining Accel, Lanfri served 
+in 1998 and 1999 as CEO of Avanex Corporation (NASDAQ: AVNX).  Lanfri is a graduate of  
+the University of California at Davis and the MBA program at Santa Clara University.
+  
+ 
+Bryan LeBlanc, Chief Financial Officer 
+Bryan LeBlanc is responsible for all financial, accounting, IT and operational aspects of Jive's business. LeBlanc  is a seasoned finance and business professional with more than 20 years of 
+experience in public high tech and software companies. LeBlanc was a key member of Mercury 
+Interactive's executive team, where he helped drive substantial growth in both the size of the Jive Software  E360  
+  p. 17 
+business and the company's market value.  LeBlanc  also served as CFO of Webtrends, a software 
+company in the web analytics market .  LeBlanc  holds an MBA in finance and marketing from 
+Santa Clara University and a BA in biology/pre -med from Holy Cross College.  
+ 
+Bill Lynch , Vice President Product Management, co -founder   
+As the head of Product Management, Lynch  is responsible for the product roadmap and helps 
+drive product strategy. Along with Matt Tucker, Lynch  founded Jive Software in 2001 and has 
+helped build the company from two people to over a hundred.  Prior to Jive, Lynch  worked as a 
+software engineer at an internet startup in San Francisco called 4charity.   Lynch  holds a BS in 
+Computer Science from the University of Iowa.  
+ John McCracken , Senior Vice President, Worldwide Sales  
+John McCracken joined Jive as the Senior Vice President of Worldwide Sales and is responsible 
+for driving business in both new and existing markets.  Before joining Jive, McCracken  led the 
+Inovis global sales organization as Seni or Vice President, Sales and before that he served as Vice 
+President of Sales of the Americas at Mercury Interactive, where he led strategic product solutions in the areas of Application Management, IT Governance and ITIL.   He has also held 
+executive manag ement positions at American Express, Warrantech and PC ServiceSource and 
+served as an Advisory Board Member for iConclude. 
+ 
+Chris Morace, Senior Vice President of Products  
+Chris Morace joined Jive Software in October 2007 to lead its Social Business Software product strategy and oversees engineering, product management, and product marketing. He brings with him a 15 year track record for building high- growth, high- value busi nesses in the technology 
+sector. Prior to joining Jive Software, Morace held executive positions at Sindhara, an innovator 
+in next generation digital media; Awaken, a startup focused on enabling the consumer transition to digital audio; Mercury, the global  leader in business technology optimization; and Kintana, an 
+IT governance software company. Morace holds a B.S. in Biological Sciences from Stanford 
+University with Honors in Humanities.  
+ 
+Matt Tucker, Chief Technology Officer, co -founder  
+Matt Tucker, co -founder and CTO, is responsible for the long -term technical and strategic 
+direction of Jive's products. Along with Bill Lynch, Tucker  founded Jive Software in 2001 and 
+has helped build the company from two people to over a hundred. Tucker is an active memb er in 
+open standards communities including having served on the board of the XMPP Standards Foundation.   Prior to Jive, Tucker  worked as a software engineer at an internet startup in San 
+Francisco called 4charity.   Tucker  holds a BS in Computer Science fr om the University of Iowa.  
+ 
+Tony Zingale, Board Member  
+Tony Zingale has close to thirty years of experience building profitable, high growth information 
+technology companies. He currently sits on the Boards of Coverity, a privately held software quality automation company, and Jive Software.  He most recently served as President and Chief 
+Executive Officer of Mercury Interactive, the worldwide leader of Business Technology Optimization (BTO) solutions.  Zingale holds a Bachelor of Science degree in electr ical and 
+computer engineering and a Bachelor of Arts degree in business administration from the University of Cincinnati.  Jive Software  E360  
+  p. 18 
+Exhibit 2  
+ Social Business Software Product Illustration  
+ 
+  
+ 
+Source: Company Material.  
+ 
+ 
+   
+ 
+The Clearspace Solution  Jive Software  E360  
+  p. 19 
+Exhi bit 3  
+Jive Quarterly Bookings  (Q1 2005 – Q 3 2007)  
+($’s in 000’s) , Actual Calendar Year  
+ 
+   
+ 
+   
+ 
+   
+ 
+  
+ 
+ 
+ Source: Company Material.   Bookings  Q-o-Q 
+Growth  
+Q1’05  $300  
+Q2’05  $685 128%  
+Q3’05  $673 (2%)  
+Q4’05  $833 24% 
+Total 2005 $2,492  
+Q1’06  $993 19% 
+Q2’06  $1,069 8% 
+Q3’06  $1,737 62% 
+Q4’06  $2,539 46% 
+Total 2006 $6,328  
+Q1’07  $3,808 51% 
+Q2’07  $2,973 (22%)  
+Q3’07  $3,500 18% Jive Software  E360  
+  p. 20 
+Exhibit 4  
+Sales Organizational Chart ( Dec. 2007)  
+ 
+ 
+ 
+Source: Company Material.  
+ 
+ 
+Jive Software  E360  
+  p. 21 
+Exhibit 5  
+Growth in Sales FTE (Q1’07 – Q3’08)  
+ 
+  Q1 ‘07  Q2 ‘07  Q3 ‘07  Q4 ‘07  Q1 ‘08  Q2 ‘08  Q3 ‘08  
+Field 
+Territory  Northwest         
+Southwest         
+EMEA         
+Northeast         
+Southcentral         
+Southeast         
+UK        
+Northwest         
+Central         
+Total  1 1 2 3 8 8 9 
+Inside 
+Territory  Northeast         
+EMEA         
+Northwest         
+Northcentral         
+Southcentral         
+Overlay         
+Southwest         
+Overlay         
+Southeast         
+Federal         
+Southwest         
+EMEA         
+Overlay         
+Total  3 5 7 10 12 12 11 
+Sales  
+Engineers   1 1 1 1 7 8 9 
+Total  
+Sales FTE *  5 7 10 14 27 28 29 
+                           (Sequoia Investment)  
+* Does not include Sales Operations  FTEs  
+Source: Company Material.  
+ 
+Exhibit 6  
+Jive Bookings (Q 4’ 07 –  Q3 ‘08), 
+ ($ in 000,000’s)   
+ Plan Actual  
+Q4’07 $6.0 $10.0 
+Q1’08 $5.2 $6.8 
+Q2’08 $6.3 $5.8 
+Q3 ‘08 $7.8 $5.5 
+Source: Company Material.  
