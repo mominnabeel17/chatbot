@@ -1,0 +1,513 @@
+ 
+ 
+ 
+ 
+CASE:  E-402 
+DATE:  01/08/11  
+Arar Han (MBA ’09); Charles A. Holloway, Kleiner Perkins Caufield & Byers Professor of Management, Emeritus; 
+Lisa Sweeney, Associate Director of the Center for Entrepreneurial Studies; and Lecturers Steve Ciesinski, Leigh 
+Rawdon, Dennis Rohan, Howie Rosen (MBA ’87), and Russell Siegelman prepared this case as the basis for class 
+discussion rather than to illustrate  either effective or ineffective handling of an administrative situation.  
+ Copyright © 2010 by the Board of Trustees of the Leland Stanford Junior University.  All rights reserved.  To order 
+copies or request permission to reproduce materials, e -mail the C ase Writing Office at: cwo@gsb.stanford.edu or 
+write: Case Writing Office, Stanford Graduate School of Business, 518 Memorial Way, Stanford University, 
+Stanford, CA 94305- 5015.  No part of this publication may be reproduced, stored in a retrieval system, used in a 
+spreadsheet, or transmitted in any form or by any means –– electronic, mechanical, photocopying, recording, or 
+otherwise –– without the permission of the Stanford Graduate School of Business.  Every effort  has been made to 
+respect copyright and to contact copyright holders as appropriate.  If you are a copyright holder and have concerns 
+about any material appearing in this case study, please contact the Case Writing Office at cwo@gsb.stanford.edu.  
+  
+ 
+NOTE ON CREATING A VIABLE VENTURE  
+ 
+This note identifies the key issues that must be addressed in the creation of a viable venture, and 
+provides an overview of the processes and techniques available to resolve the issues discussed.  
+ New v entures typicall y start when an entrepreneur identifies a need and has an idea about how 
+the need can b e addressed. The idea itself does not constitute a viable venture. To become a 
+viable venture, the idea must become a product or service which in turn must be thoroughly  
+tested with consumers or users, matched to a market, and cleaved to a business model capable of delivering it profitably. This process is first and foremost an iterative one. Iteration drives change, allowing the entrepreneur to evolve his or her initial thoughts into a viable venture. 
+Figure 1  offers an illustration of the relationship among the parts of a viable venture.  
+ 
+Figure 1: Anatomy of New Venture Formation
+ 
+ 
+ Note on Creating a Viable Venture   E -402 
+  p. 2 
+ 
+During the iterative process of creating a viable venture, any of these parts can chang e. In many 
+cases these changes take place in the initial phases of developing a product or service.  In other 
+cases they take place after a venture has been launched. The  changes are frequent and common, 
+and often quite drastic. For example:  
+ 
+• The product o r service itself  can change : The founder of Avon started selling books door -
+to-door. To entice female customers, he offered perfume samples, which quickly became 
+more popular than the books. The result was the launch of California Perfume Company, 
+which be came Avon. More recent examples include g roup buying  service Groupon, which  
+began as a group cause message board called the Point. Twitter started as a podcast service before its founders dropped it and moved to a micro -blogging product . 
+• The customer can change : Facebook was initially an exclusive site open only to college 
+students who registered with their dot -edu email addresses. After opening its platform 
+beyond the college market, Facebook has grown to over half a billion registered users worldwide.  
+• The business model can change : Paypal’s business model changed several times from its 
+original v ision as a cryptography company  to a business enabling people to transmi t money 
+via “smart” cell phones  to a third -party online payment platform for individuals and 
+companies. Chegg was launched to provide a college -focused alternative to Craigslist; after 
+realizing 90 percent of its volume involved textbooks, the company focused on renting 
+textbooks to college students  instead . 
+• The interplay of the product or servi ce, the customer and markets,  and the business 
+model can also drive change : Starbucks began as a single retail site selling roasted coffee 
+beans and equipment to coffee connoisseurs. When the company shifted its focus to provide brewed coffee to go, it not  only expanded its revenue stream, but was able to capture a more 
+mainstream customer and rapidly increase its locations. Amazon.com started as an online bookseller, morphed into a broad line e -tailer, then vertically integrated into fulfillment and 
+hosting services. In doing so, its customer base grew from a specific consumer segment, to the entire consumer population, to businesses customers as well.  
+ 
+As these examples show, creating a viable venture is an exercise in foraging and discovering 
+what  custome rs and markets have in store for your product or service –  and vice  versa – and 
+adapting your plans. The process that you, the aspiring entrepreneur,  are embarking on requires 
+you to be open to change. To help guide you, Part I  of this note frames the majo r components of 
+venture viability analysis. Part II  provides an overview of the processes and techniques 
+available to execute this work.  
+ 
+P
+ART I: WHAT IS NEEDED FOR A VIABLE VENTURE  
+A Product or Service  
+ 
+“Wouldn’t it be great if…” is an oft -heard preamble  to an idea for a product or service. Great 
+ideas for products and services frequently spring from perceived needs, which in turn flow from observed problems. Figure 2  offers an illustration of this common path to making a product or Note on Creating a Viable Venture   E -402 
+  p. 3 
+service. When you have  a product or service and a market of customers or users in mind, you are 
+ready to work on your business model. 
+ 
+Figure 2 : A Venture Origin Path Starting with a Problem  
+ 
+ 
+ 
+ For example, the founding team of the startup social venture Embrace began their j ourney by 
+contemplating a major societal ill: high infant mortality rates in developing countries. In their travels to Nepal, they observed that infants born prematurely, especially those born in rural regions, lacked the necessary incubation to survive the  early weeks of life . Premature infants 
+needed an inexpensive and reliable way to be kept warm in places without basic infrastructure 
+like electricity. The team brainstormed a number of ideas and decided on a baby bag: a very small and very warm sleeping bag. Their product eventually became a waterproof thermal wrap offered throughout markets in developing nations. It is now also in use in modern hospitals.  The business model that delivered the Embrace product was a non- profit entity that partnered 
+with e xisting non- profit organizations to identify funding and distribution channels for the then -
+$25 product. Since its initial launch, Embrace has developed two distribution streams targeted 
+for home and clinical use, and will re -price its product below $200, or 1 percent of the cost of a 
+traditional incubator.  
+ As the example shows, you may identify a problem and perceived need by observing others. The problem could also occur at the level of institutions like businesses or government agencies, or 
+be a social or societal need. It could even be a problem or need personal to you.  
+ Understanding a problem and its attendant needs is a complex and multilayered process that itself merits close attention. Although you may be tempted to jump directly into a solution, a  
+thorough exploration of the problem and needs can pay dividends down the road. The design thinking approach discussed later in this note focuses on turning a perceived need into a well -
+defined statement  that can then serve as the basis for a solution that  becomes a viable product or 
+service.  
+ Finally, the parts of the creative process usually don’t emerge in a linear fashion as the above chart implies. Creating a business is an iterative process.  
+ That said, not all products and services trace their origins to an observed problem. Many result from the application of new technologies or the creative repurposing of existing products and services to serve new uses, new users, or new markets ( Figure 3 ). 
+   Note on Creating a Viable Venture   E -402 
+  p. 4 
+Figure 3 : A Venture Origin Path Starting with a Technol ogy 
+ 
+ 
+ 
+In the case of repurposing existing products and services, the entrepreneur’s task is to recast or revise the existing product or service to serve different needs in new markets ( Figure 4 ). 
+ 
+Figure 4:  A Venture Origin Path Starting with an Existing Product or Service  
+ 
+ 
+ Great companies can start with observed problems, new technologies, or with existing products or services. Exhibit 1  provides a sample list of questions that are helpful for you to address as 
+you d evelop your product or service, no matter which path you take.  
+ 
+The Customers and Users in Markets  
+ 
+New ventures must create a compelling value proposition and determine: Who will buy or use the product and why? How many customers are there? Where can they be found? There are three 
+broad a udiences for any product or service:  
+ 
+• An existing market : If your product or service addresses customers in an existing market, 
+there will be a wealth of information about their preferences and behaviors that you can use 
+to develop your value proposition. In addition, you will need to devise a way to reach them.  
+When entering markets with established competitors, it can be important not only to have an innovative product, but also to develop an innovative way to reach your target customers.  
+• A new market : Creatin g a new or hybrid market ( i.e. from existing ones ) often requires 
+substantial resources as well creative marketing and sales efforts. In particular you will need to understand how large the market will be. Is there a critical mass of customers and us ers 
+having similar problems, needs, preferences, behaviors? For hybrid markets you will also need to understand how existing firms across the markets can impact you.  
+• A duplicated market : You may offer an existing product or service in one market to a 
+similar set of customers or users in a different market not yet served. Many international product or service launches, particularly in developing markets, seek to duplicate successes in one market across other markets.  
+   To be a viable venture, the product or  service must deliver a compelling value proposition to 
+specific groups of customers and users in the markets  you have identified . For many consumer -Note on Creating a Viable Venture   E -402 
+  p. 5 
+focused companies, an emphasis on “delighting” the customer can help lead to a compelling 
+value proposition. Again, Exhibit 1  offers you a set of questions to help guide your thoughts on 
+developing your customers and markets.  
+ 
+The Business Model  
+ 
+Just as important, a viable venture must provide economic value to the stakeholders: founders, investors, lenders, a nd any others with an economic interest. In this note, we use the term 
+“business model” to refer to those functions required for transforming a product or service (with a customer or use r base and identified markets) into a viable venture. We have divided the 
+business model into five related components:  
+ 
+• Revenue model : The revenue model specifies how you will capt ure value from your 
+customers; in other words, how you will be paid for your product or service. To be 
+economically viable, a product or service m ust ultimately be sold at a price point that is 
+accepted by the market, is sufficient to cover the costs of the delivery system, and yields an 
+acceptable profit . 
+ The revenue model should also optimize the collection of revenue from customers. It should specify how and when  as well as how much a customer will pay for the product or service. In 
+some cases, there may be options as to what  the customer pays for and whether the offering 
+should be sold as a product or as a service.  
+ 
+• Customer or user acquisition strategy : To be successful, a venture must not only correctly 
+identify its target customers, it must also have a cost -effective customer acquisition process. 
+Even with a compelling offering, if the cost of acquiring a customer or entering a new market is too high, the overall economics of the business will not be viable. Customer acquisition is 
+done through the marketing and sales functions of a business.  
+• Production and distribution process es: Successful business models have both a production 
+and a distrib ution process which  deliver an appropriate product or service to customers at the 
+right time, at a cost yielding appropriate profits. In the early stages of a new venture, when resources are typically constrained, the venture must determine which activitie s to conduct in 
+house and which can be outsourced. Successful business models have production and distribution  processes which have costs and response times that support the marketing and 
+sales functions.  
+ 
+• Resource acquisition strategy : Acquisition of huma n and financial resources , and suppliers 
+of goods and services  is critical to a successful venture. In short, they enable the other parts 
+of a business model. The ability to hire the right team is one of the primary tasks of a venture founder, as is the ability to obtain the capital required to launch the venture. The proliferation of suppliers who perform business functions from production and distribution to back- office 
+tasks can facilitate the work of starting up a new venture. If they are used, they mus t be 
+acquired and managed appropriately.  
+ Note on Creating a Viable Venture   E -402 
+  p. 6 
+• Defensible competitive position : A viable venture needs not only a compelling value 
+proposition for its customers, but also a means of protecting itself from competitors. The 
+product or service must be developed wi th an awareness of where and how it fits in the 
+competitive landscape. Beyond the product or service itself, the venture must develop a viable economic model that will provide the profits required to build and maintain a competitive position and provide an attractive return. There are many ways to create a 
+competitive advantage, including superior execution and a large and active user base.  
+ 
+The initial focus on a defensible competitive position varies by venture. For example, a company based on intellectua l property from a technological breakthrough will have a 
+different approach from a consumer internet company in a well -defined market. In some 
+cases, entrepreneurs may even launch ventures believing they are not defensible in the longer term, but can achieve a good return on investment for a period of time. In all cases, it is useful to think about these issues and how your product or service will compete with others.  
+ The relative degree of importance of each of these parts for any business model will depend on 
+the product or service, the industry sector in which it will compete, and the dynamics of the competitive landscape. During the process of evaluating an entrepreneurial opportunity, some  
+may be handled with quick estimates and assumptions until deep analysis is needed or made 
+possible. Other ar eas may be set aside for later.  
+ For example, Facebook placed an overwhelming emphasis on customer acquisition and production, and did not have a revenue model until well into its development. The same was true  
+of Twitter . In both cases, it was plausible that once a large customer base was built,  it could be 
+monetized in multiple ways.  
+ A simplified example illustrates the choices to be evaluated on the five key components of a business model. Suppose you have c reated a breakthrough compound that treats acne better than 
+anything currently on the market , and y ou have patented the formula . What is the right business 
+model to create a viable venture around this starting point? Many variations are possible . The 
+follo wing are just four potential business models for your acne solution:  
+ 
+• The venture licenses the formulation : The customers would be manufacturers and 
+marketers of consumer skin care products. The company itself would not manufacture or 
+distribute anything. Customer acquisition would be done by a sales team able to sell to and 
+manage relationships with consumer products companies , and structure appropriate licensing 
+agreements to provide a consistent revenue stream through royalties. The company would conduct  little, if any, consumer -focused marketing. The venture would leverage the brand 
+power and distribution networks of established companies to create sales volume. The company would focus on continued research and development, and explore  new applications 
+for the product , or new formulations for other skin care concerns.  
+• The venture creates a n “anti -acne kit” sold to  skin care professionals for use in their 
+offices : The customers in this venture would be dermatologists and aestheticians. The 
+venture could ma nufacture the acne product and assemble the kits with products made by 
+other vendors (such as moisturizers or skin buffing equipment). The product could be sold by a direct sales force or through independent representatives servicing the channel of Note on Creating a Viable Venture   E -402 
+  p. 7 
+independent and chain skin care practices. Marketing efforts would be targeted at both skin 
+care professionals who “push” the products to their clientele as well as directly to consumers who “pull” the product by requesting it from their dermatologi sts or aesthet icians. Revenues 
+would be driven by transactions , i.e. based on the sale of the kits. Sales would be billed at 
+time of shipment to the skin care professional.  
+• The venture creates its own branded line of skin care  products sold through retailers : In 
+this business model, the company could manufacture the products itself or outsource some or all of the manufacturing. The customers in this model would be retailers ranging from department stores and specialty retailers (e.g. Sephora) to mass merchandisers, grocery s tores 
+and drug stores, who would be billed upon delivery of product. The company could sell to retailers directly or utilize brokers and distributors; this decision would impact the distribution system.  
+• The venture creates its own branded line of products sold directly to consumers : 
+Similar to the above scenario, the venture may or may not directly manufacture the product. It would reach and sell to end- users directly through channels like an e- commerce website, 
+shopping networks like QVC, infomercials, and advertisements inside periodicals. The 
+company would capture higher revenues (retail price versus wholesale price) in a recurring subscription model, although on smaller volume purchases. The company may incur higher costs and complexity in both the c ustomer acquisition and the distribution process 
+(fulfillment, small- lot shipping, and returns management).  
+ As this extended example shows, a change in any one component of the business model will 
+often roll through the other components, resulting in a completely different business model. I n 
+our above example, shifting the delivery of the product  from a business -to-business wholesale 
+model to a direct -to-consumer model may not change the production system, but would result in 
+a different customer base, rev enue model and distribution system, and the venture would face a 
+different competitive set.   One effective way to assess and enhance the viability of the venture is by rapid iteration through multiple business models. An aspiring entrepreneur will invaria bly start with an intuition or 
+hypotheses on the appropriate business model. Developing and testing alternative models can improve the short -term and l ong-run probability of success. By making assumptions and 
+estimates (to be tested and verified later) the se alternatives can be developed and tested quickly.  
+ By using the processes and techniques detailed in Part II , and going through many rounds of 
+iteration, your final product may bear little to no resemblanc e to the original “great” idea. Y ou 
+may decide to target a different set of customers or users, and you may pursue a vastly different 
+business model. As Pablo Picasso once said, “ An idea is a point of departure and no more. As 
+soon as you elaborate it, it becomes transformed by thought.”  
+ As discussed above, Exhibit 1  contains a list of key questions that are important to address as 
+you elaborate on your product or service, define your markets of customers and users, and build a robust business model. They are related within each category and across cat egories. Taken 
+together, they can help move you down the path toward a viable venture.  
+ Note on Creating a Viable Venture   E -402 
+  p. 8 
+PART II: PROCESSES AND TECHNIQUES FOR CREATING A VIABLE VENTURE  
+Below we describe processes and techniques for gathering information on the aspects of the 
+venture descr ibed in Part I  of this note, and the questions in Exhibit 1 . The purpose of these 
+processes and techniques is to: t est and validate or disprove your  initial assumptions and 
+estimates; increase the likelihood of your success by anticipating issues in produc t or service, 
+customer acceptance, or others early in the process; and mitigate the risk that such issues present.  
+ 
+Prototyping  
+ 
+One of the most effective ways to assess and enhance the viability of a venture is through “rapid” 
+prototyping .  Building prototypes of products during the design process has long been a tradition 
+of product designers. A prototype is a realistic representation  of a product that allows others to 
+experience and inspect its functionality. By seeing and sometimes using a product, indi viduals 
+will be able to respond to its usefulness and viability in ways not possibl e with an abstract 
+description. A prototype will have a depth and richness of information that can allow 
+entrepreneurs to discover needed improvements. A rapid iteration thr ough prototypes allows 
+products to change and evolve quickly , to clarify and better address the identified need.   
+ At its most basic level, a prototype is anything a user can interact with. The process of prototyping can be extended beyond products, to se rvices. Even business models benefit from 
+prototyping. B y describing parts of a venture in detail and making them as real as possible, 
+entrepreneurs, potential customers and experts will be able to evaluate them more completely.  
+ Since the product or servi ce and the parts of the business model are tightly integrated, being able 
+to quickly produce prototypes can be very useful in the evolution of a venture. Where there are options, creating prototypes for each part or step along the way can help you reach  the best set of 
+solutions. A complete, concrete, and reasonably detailed product and business mode l can allow 
+you to get information important to choosing an option or evolving  to another one . 
+ 
+Using Experts  
+ 
+A key part of the process of gathering information is deciding where to get the information. The general answer to this is “experts.”  
+ Experts can be potential customers who know their preferences well . They can be industry 
+insiders:  i.e. those who have an understanding of how the industry and its player s operate and 
+serve their customers, and who may be able to quickly relay their experience with market norms, including opportunities or problems within the market. Some experts may be entrepreneurs who have tried and succeeded partially or failed at  starting a similar business. A rich source of 
+industry or market wisdom is retired executives. It is surprising how often retired executives or even current executives are willing to help. Most are proud of what they know and enjoy telling entrepreneurs about t heir experience.  
+ All these people can be invaluable to you in assessing many aspects of your proposed venture. In 
+particular if you are attempting to enter an industry that is new to you, these “river guides” can 
+be a quick and cost -effective way to gather informat ion. Finally, financial, start -up, process and Note on Creating a Viable Venture   E -402 
+  p. 9 
+technology experts are useful to help thinking about aspects of the business model. For technical 
+issues, specialists can provide know -how that will inform your decisions. Remember to thank 
+each expert, specialist, or river guide you speak to for their contributions to your learning 
+process.  
+ 
+The Design Thinking A pproach  
+ 
+Figure 2  above illustrates the creation of a new venture starting with a problem, moving to a 
+perceived need, a product or service , and a set of customers. The design thinking approach, 
+which is championed by the Stanford d.school, focuses primarily on this process of creating a 
+new venture. Design thinking prescribes a set of processes and techniques leading to the discovery and deep understanding of problems, and the creation of solutions that result in 
+products and services. This approach starts by recommending entrepreneurs to assume several “mindsets” that: 
+ 
+• Focus on human values  
+• Show rather than tell: build and use prototypes  
+• Endeavor to create clarity from complexity  
+• Are experimental  
+• Are mindful of process  
+• Have a bias toward action  
+• Collaborate across boundaries  
+ 
+Design thinking is characterized by its focus on understanding the feelings of customers, discovering implicit thought ( as opposed to relying on what people say or say they do) , and using  
+“active” and innovative approaches to studying problems and discovering solutions. It defines “modes” of operating and “methods” for accomplishing the tasks  in creating a viable venture. 
+Modes include:  
+ 
+• Empathize : This is the beginning of the process . It involves observation  of users and their 
+behavior to arrive at a personal understanding of the problem they face and insights into why they behave as they do. Methods for doing the observat ion that improve your ability to 
+successfully gain these insights are an important part of the process.  
+• Define: The define mode is particularly central to design thinking. It focuses on delivering an 
+actionable problem statement that captures the essence o f the problem, is inspirational, 
+focuses efforts and can facilitate brainstorming. It can be a key to d eveloping innovative 
+solutions. For instance, “I need to reach the high shelf,” versus the more common “I need a 
+ladder” opens up a range of solutions. I n the Embrace example discussed earlier, moving 
+from “How can we reduce infant deaths?” to “How do we keep babies warm?” changes the 
+thrust of the design problem. 
+• Ideate: This is the idea generation mode. While the define mode focuses, the ideate mode 
+goes “wide” to identify creative solutions. Again, design thinking provides processes and 
+techniques that can improve brainstorming and creative problem solving.  
+• Prototype : As discussed, a prototype allows users to understand features through interaction. 
+Of course a replica of a product qualifies, but so could Post -it notes, sketches, or role -plays. Note on Creating a Viable Venture   E -402 
+  p. 10 
+The idea is to start building prototypes that a user can interact with – even when you are not 
+sure about what you should do – to get feedback, and quickly revise and repeat.  
+• Test: This is the feedback phase. Design thinking encourages putting the prototype in a users 
+hand, carefully watching and listening, then asking questions what is right or wrong with it. 
+ 
+The methods recommended include techniques to create the right mindset, do empathetic 
+interviews, reframe a design challenge into an actionable problem statement, do effective brainstorming, and make choices. For more on the design thinking approach, see the d.school 
+Bootcamp Bootleg.  
+ 
+Traditional Research
+1
+  
+Beyond interviews with experts as discussed above, you can access information pertinent to the 
+components of your business model and overall venture design by conducting traditional 
+research. Prior to delving into any research, you should know what you are searching for. Your research goals could be as specific as a list of questions, perhaps drawn from those offered in Exhibit 1 . It could be as wide as learning what popular press publications say about your target 
+market and customer base. Regardless of the level of specificity, you’re more likely to find what 
+you’re searching for if you’re clear about what it is.  
+ Broadly, market research divides into two types:  
+ 
+• Primary data: This is drawn from direct interactions with potential end users and others in 
+the value chain, including suppliers, distributors, partners, and even competitors. Primary 
+data can be exploratory, to discover insights and a broad understanding of a market, or 
+confirmatory, to test various aspects of the venture model and gain a greater degree of confidence about the viability of the venture. Primary data collection techniques include interviews, focus groups, and surveys. Interviewing industry insiders as a source of industry information is an example of primary research.  
+ 
+The data gather ed through primary research can be contradictory and incomplete, and as a 
+result, inconclusive. For interviews or focus groups, one way to manage this uncertainty is to 
+be prepared with a list of questions and a set of goals you hope to achieve through the  
+interaction. Another is to conduct a large number of interviews so you have enough volume and variety from which to draw your conclusions. For surveys, you could ask others experienced with survey analysis to review your design and make sure your survey w ill elicit 
+the feedback that you seek. To aid in survey collection, you can use a free web- based service.  
+ A significant limitation of interviews and focus groups is that, as asserted by proponents of design thinking, not everyone is a reliable self report , and few people have instant, 
+synthesized recall of their preferences or experiences within a specific industry or market. One way of encouraging preparation is sending out a preliminary list of questions or a description of your goals beforehand. It is a lso useful to ask permission to audio record or 
+videotape your conversations.  
+                                                           
+1 Alicia Sieger and Robert B. Chess. “Note on Market Research,” Stanford GSB Note E -165. June 18, 2004.  Note on Creating a Viable Venture   E -402 
+  p. 11 
+• Secondary data: These are essentially data and analysis created by others. Secondary data 
+ranges from investment analyst reports created by professional services firms, articles  from 
+news and trade journals, reports from industry organizations, and filings from public 
+companies. Competitor websites and marketing literature can also be a rich source of secondary data.  
+ 
+Secondary data usually doesn’t come in a format that directly addresses your needs. You may 
+need to sift through a considerable volume of information before you arrive at the bits and 
+pieces you need in order to answer your research questions. One way to save time in this regard is to ask your primary sources of data  (industry insiders and others) for any reliable 
+secondary sources of information. Another way is to use reports produced by reputable research organizations. These are often expensive, but may be available free of charge through a research library or through industry contacts.  Fruitful sources of secondary data are research libraries that have subscriptions to a range of analyst and industry reports, industry organizations whose interest is in researching and promoting the industry they represent, competi tor websites and literature including annual 
+reports where available, and industry consultant analysis. A good rule of thumb is to start with accessible sources of secondary data like web searches on popularly available search engines. Then, based on the high level information you gather, you can home in on a closer understanding of what you seek. It can also be helpful to seek help from experienced researchers on creative ways to access secondary data.  
+ The benefits of an iterative approach apply to market  research too. You may find that the initial 
+research goals you start with change as soon as you have a few conversations with industry insiders or begin to delve into a good secondary research report. Results of a survey may cause you to rethink your appr oach to the product or service itself. Be open to and welcoming of where 
+your research leads you, and don’t be shy about asking for help. Useful information is found in many surprising places.  Note on Creating a Viable Venture   E -402 
+  p. 12 
+Exhibit 1  
+Reference List of Basic Questions2
+  
+The Product or S ervice  
+ 
+The product or service is the key basic starting point for any new venture. It is the first step in  
+translating an idea into a viable venture. Its characteristics will shape the remainder of the  
+business. 
+ 
+• What is the unmet customer need, the pain point? Or, for many consumer companies, the 
+question is not about a pain point, but what are the latent desires of the user and what will 
+delight or entertain them?  
+• What are the features of the product or service required to satisfy this need? This is 
+some times called the “Minimum Viable Product.”  
+• How do you propose to provide these features?  What is the product/service you will provide?  
+• What is the value proposition to the customer of the product or service?  
+• What is the technology, design, and execution r isk associated with providing the 
+product/service?  
+• What development must be done to offer your product or service?  Is there an option to test a minimal viable product?  If so, what might that look like?  
+• How does your product or service integrate with othe r products or services?  
+• Do you have (or need to develop) any intellectual property?  
+• Do you need any licenses, approvals, or certifications to proceed?  
+• Is your product or service ethical and legal?  
+ 
+The Customers and Users in Market s and their Size 
+ 
+Closely  related to the product or service is the market of customers or users you will address (the 
+“addressable market”) and its size.  
+ 
+• In which industry or industries do you operate?  
+• How are these industries changing? How fast?  
+• What changes will affect the need  for your product or service?  
+• What is/are your specific target market(s)?  
+• How large is the addressable market?  
+• Does the sale of your product or service depend on the sale of another product or service?  
+• Who are your customers and are they in the identified target market(s)?  
+• Is your customer different from the end user?  If so, who influences the purchase decision 
+more?  
+• What influences the purchase decision of your target customers?  
+• Is it costly or difficult for your customer to change product or service providers?  
+                                                           
+2 Claire Magat, Dennis Rohan, and Evan Porteus. “Venture Viability Research,” Stanford GSB Note E -324. 
+December 1, 2008.  
+Deloitte & Touche. Writing an Effective Business Plan, Fourth Edition . 2003.  Note on Creating a Viable Venture   E -402 
+  p. 13 
+• What is the approximate size and geographic spread of your target market(s)?  
+• What is the approximate growth rate of your target market(s)?  
+• What is required to develop that market?  
+• Are there changes in the political or regulatory landscape, or social  values, that affect the 
+need for your product or service?  
+• How will changes in technology change your industry?  
+• What market trends/changes may affect your customers’ need for your product and ability to 
+pay for  your product or service?  
+ 
+The Business Model3
+  
+Revenue Model  
+The revenue model most commonly involve s one or more of the following : 
+ 
+• Transactions : Customers pay a fixed price per unit of the product or service, e.g., $4 for  a 
+gallon of milk at the supermarket or $3 to view a movie on demand. Transact ional  revenues 
+often incorporate fixed fees and quantity discounts. They are the most common form of 
+revenue and cut across all value -creation models . 
+• Metered : This is a variation on the transactional revenue model where the use of  services is 
+measured and  payment is based on these measurements, e.g., 2¢ per minute for a 
+telecommunications provider . 
+• Outcome -based : In this case payment is based on a measurable outcome.  It is most common 
+in B2B markets, where it is used to align the incentives of the seller and the buyers. 
+Commissions paid as a percent of a t ransaction is a common example.  
+• Subscription: Customers pay a fixed fee per unit of time, and they receive in return a fixed number of units of the product or service (e.g., one issue of a magazine monthl y, or up to 
+three DVDs out at Netflix) or unlimited, (e.g., a monthly cable TV subscription). 
+• Licensing : This revenue model is common for intellectual property or in the B2B domain. 
+The customer pays a royalty or license fee which allows it to use, sell or  copy the product 
+within a given period of time (unlimited in time if the license is perpetual), For example, the owner of a patent may license its technology to other companies in return for license fee.  
+ Businesses often receive multiple revenue streams,  where different customers pay according to 
+different formulas or revenue models, or hybrid revenue streams, where a given customer’s  
+payments combine different revenue models. For example, almost all of Walmart’s revenues are  
+transactional, but its Sam’s Club unit, a membership- based discount warehouse club (similar to 
+Costco) , collects annual membership fees. S ince Sam’s Club members also pay by the  
+transaction for products they buy at the warehouse, Sam’s Club receives hybrid revenue streams.  
+ The import ant questions here related to the revenue model include:
+ 
+ 
+• What are the options and pros and cons for the revenue model?  
+• What must be charged to make the business model successful?  
+                                                           
+3 Haim Mendelson. “Business Models: An Introduction,” Stanford GSB Note (unpublis hed). December 2010.  Note on Creating a Viable Venture   E -402 
+  p. 14 
+• What is the expected cost of delivering the product or service?  How does the gross margin 
+compare to other similar products/services?  
+• What are the price points you believe are achievable?   
+• Will it be adequate to support the business model?  
+• Is your market price sensitive? If so, where do you sit on the price curve?  
+• Would the choi ce of revenue model have an impact on the design of the product/service or 
+the market size?  
+• How does your revenue model, including credit terms, impact cash flows to the venture?  
+ 
+The Customer Acquisition Strategy  
+• How will your product/service be sold?  
+• Wha t type of marketing will be necessary to reach the target customers?  
+• What will customer acquisition costs be?  
+• How will you position your product or service?  
+• Are there sufficient early adopters to support the company?  
+• What distribution channels will you use  and what selling methods are appropriate for each 
+channel?  
+• Are there options for using existing partners or will you require a direct sales force? Dealers? 
+Representatives?  
+• What are the basic economics of selling through partners/alliances or directly?  
+• In either case, will a sales support function be required? If so who will provide it?  
+• How does the sales cycle and adoption rate affect the financial model?  
+ 
+The Pro duction and Distribution Process  
+• What is actually being produced or what service is being off ered?  
+• What must be done to develop the product or service and at what cost?  
+• What are the critical activities to produce the product or service offering?  
+• Which activities should be done in house and which can be outsourced?  
+• What are the constraining factors  (e.g. limited raw materials, specialized talent, development 
+of new technology)?   
+• What initial and ongoing production costs and capital investment assumptions should be 
+used?  
+• How will your product or service be tested?  
+• How will you maintain quality contr ol on your product or service?  
+• How will the product be distributed? If a service, how and where will it be performed?  
+• If it will require physical distribution, how will the logistics be handled and who will be 
+responsible for the inventory?  
+• Have you identi fied business risks and developed a risk management strategy to address 
+them?  
+• Will your production or distribution of product or service require special licensing, 
+approvals, or certification?  
+ 
+Resource Acquisition Strategy  
+• What are the critical activities  for the company to perform? How will those be staffed and 
+financed?  Note on Creating a Viable Venture   E -402 
+  p. 15 
+• How will you attract the founding team?  
+• How will you compensate the founding team? Early employees or contractors?  
+• What are the key milestones in creating a viable venture for your produc t or service?   
+• How will you fund the company and with which milestones as the goal?  
+• If you will be raising funds, how much will you need?  Can fundraising be accomplished in 
+stages?  
+• What are the economics of the venture?  How will they affect both the amount of money needed and your ability to attract it?  
+• Do you have a detailed and realistic timetable and set of benchmarks by which to measure progress?  
+• Which sources will you approach?   
+• How and when might the investors get a return on their investment?  
+• Will you need to have supply partners and if so how will you attract and compensate them?  
+ 
+A Defensible Competitive P osition  
+• Is there a need compared to current and expected alternatives?  
+• How are the unmet customer needs currently being addressed?  
+• How will y ou position your product/service in the market?  
+• What are the strengths and weakness of your offering?  
+• Which companies and which types of companies make up your competition?  
+• What are the strengths and weakness of your competitors?  
+• What are the barriers that you must overcome or that will allow you to win?  
+• What are the barriers to entry for your competition?  
+• Is your product or service vulnerable to substitution?  
+• How is your product or service differentiated from the competition’s?  
+• Build a financial model tha t illustrates the economics of the venture over time.  
+• Are there opportunities for extension that can be exploited in the future?  
