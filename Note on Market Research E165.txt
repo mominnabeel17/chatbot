@@ -1,0 +1,396 @@
+ 
+ 
+ 
+ 
+CASE: E-165 
+DATE:  6/18/04 
+Alicia Seiger prepared this case under the supervision of Robert Chess as the basis for class discussion rather than to illustr ate 
+either effective or ineffective handling of an administrative situation. 
+Copyright © 2003 by the Board of Trustees of the Leland Stanford Junior University.  All rights reserved.  To order copies or 
+request permission to reproduce materials, e-mail the Case Writing Office at: cwo@gsb.stanford.edu  or write: Case Writing 
+Office, Stanford Graduate School of Business, 518 Memorial Way, Stanford University, Stanford, CA 94305-5015.  No part of this publication may be reproduced, stored in a retrieval system , used in a spreadsheet, or tran smitted in any form or by any 
+means –– electronic, mechanical, photocopying, recording, or otherwise –– without the permission of the Stanford Graduate 
+School of Business. 
+  
+ 
+NOTE ON MARKET RESEARCH  
+ 
+ I
+NTRODUCTION AND OVERVIEW  
+ 
+Market research often is considered a tool used  only by big brand-based companies.  While it can 
+be a key to success for large firms that devot e extensive resources towards fine-tuning the 
+slightest variations of a single product – from the combination of colors on the label to the position of the product on a grocery store shelf – market research also can drive success for entrepreneurs.  Entrepreneurs can use market res earch to gain insights on issues such as the 
+market size, market growth, and customer need for a product or service, and answer fundamental 
+questions on the viability of their business concept and business model.   While market research for early stage companies is limited by the reality of time and money constraints, the value gained through improved in sights into the market and customers should not 
+be underestimated.  The goal of this note is to provide entrepreneurs with an understanding of 
+how to use market research and market information to test the validity of a business concept and to refine a business plan.  It will introduce the key questions entrepreneurs should consider, the 
+techniques entrepreneurs could use to gather in formation to address those questions, and the 
+practical considerations for collecting and interpreting data.  
+Key questions 
+ 
+At the initial stage of starting a new business, en trepreneurs need to gain a rapid understanding 
+of the market size, market dynamics, and customer  need for the product or service they plan to 
+offer.  Even start-up teams with many years of industry experience should not rely solely on their 
+collective experience and intuition to develop a vi ewpoint on these fundamental issues.  The best 
+way to test market assumptions and to develop insight into customer needs is through market research.  Analysis of market research data can  provide important insigh ts, which increase the 
+odds that the company will be meeting a valued cu stomer need and that the initial strategy will 
+be successful.  Note on Market Research E-165    
+ p. 2 
+There are three overarching questions that an entrepreneur should seek to answer with any 
+market research plan.  They are:  
+(1) Is the business concept viable from a market and technical perspective?  (2) What are the major risks and information holes in this venture and what information is 
+needed to characterize and minimize these risks?   
+(3) Is our strategy and business model likely to succeed?  
+ For example, an entrepreneur might be consider ing starting a business to provide landlords with 
+eviction, credit, and work record information to en able them to evaluate the credit-worthiness of 
+potential renters.  Before going forward with this  business concept, an entrepreneur would want 
+to develop enough understanding to feel c onfident answering questions such as:   
+ 
+/G131/G3Is there a real need for this service? If so, is the market large enough to justify starting the 
+business and to intere st investors?   
+/G131/G3Is the value proposition compelling enough fo r landlords to buy a new service from a 
+new company?   
+/G131/G3Will the sales cycle be so long that building the business may not be practical?  
+/G131/G3Can the service be sold at a price that will enable profitably of the venture?   
+ A well-conceived market research  program done before investing significant time and resources 
+in the business should be able to help answer these questions. 
+ 
+Process 
+ 
+The market research process for entrepreneurs is different than the process for established 
+companies.  The questions are much broader and more fundamental, the available resources are fewer, and the time urgency is usually greater .  In addition, entrepreneurs often have an 
+incomplete understanding of the market for their product and limited direct experience with 
+potential customers.  The recommended process fo r conducting entrepreneurial market research 
+reflects these differences by including: (1) pr ototyping of business designs to focus market 
+research work, (2) an emphasis on expert interv iews to help identify information needs and 
+jump-start market understanding, (3) greater use of exploratory (broad-based, open-ended) tools, 
+and (4) multiple iterations of da ta gathering to enable honing of the business concept based on 
+market research inputs.  Entrepreneurs can em ploy the seven-step process outlined below to 
+pursue the answers to market research questions:  
+Step 1:  Prioritize information needs based on using prototype business designs to 
+identify key assumptions, and unknowns upon which the success of the business concept hinges. 
+Step 2:    Conduct expert interviews in orde r to identify and verify information 
+needs and gather market, customer, and business insights. 
+Step 3:  Develop a secondary and primary research data-gathering plan. 
+Step 4:  Conduct secondary data review and initial prima ry research. 
+Step 5:  Revise assumptions and the data-gathering plan based on initial learning. 
+Step 6:  Conduct further expert interviews, prima ry research and review additional 
+secondary data. You may need to ite rate Steps 5 and 6 several times. Note on Market Research E-165    
+ p. 3
+Step 7:  Review and revise business assumptions and initial strategy, and assess 
+viability of the business concept based on interpretation of the data. 
+ 
+STEP 1: P RIORITIZE INFORMATION NEEDS BASED ON PROTOTYPE BUSINESS DESIGNS  
+ 
+Step 1a – Develop Prototypes for Business Designs 
+The initial step for an entrepreneur who wants to test a business concept is deciding what 
+questions to ask and what research data to gather.  It is generally not efficient to broadly research 
+a market area without first clearly identifyi ng the key assumptions and unknowns upon which 
+success of the business concept hinges.  Early focus is needed since resources and time are limited.  But there is often a chicken and egg problem in developing your list of market research needs.  In order to identify the key assumptions  and unknowns, you need to define the basics of 
+the business such as the sales channel, product or  service offering, and target market.  On the 
+other hand, it is difficult to design a business model without the market research data.   
+ One way out of this conundrum is to develop a sm all number (one to three)  of prototype business 
+designs.  Similar to using rapid product prototyping to refine product ideas and test consumer acceptance, you can use business design prototypes to quickly explore, through economic modeling and market research data, which types of business models are most promising and which, if any, are viable.  The prototypes should be  different enough to highlight key choices.   
+ For example, you might be considering starting a business based on a chemical that, when added to toothpaste, whitens teeth better than anything  currently available.  Rather than broadly 
+researching toothpaste distribution, market si ze, need, competitive space, consumer needs, 
+development costs, product pricing, you can focus your market research on a few potential 
+business designs.  One business design could be  to develop a new toothpaste that would be 
+marketed directly to consumers, positioned at th e high end, detailed to de ntists, and distributed 
+through drug stores and high end grocery stores .  At the other end of the spectrum, another 
+design would be to license the use of the chemical to multiple current toothpaste manufactures, build an R&D capability to develop improved ch emicals to license, and to look for other 
+whitening applications of the chemicals.   The economics, business model, key assumptions and success factors for these two business designs will be very different.  Researching the market potential, risks, viability, and key issues for each design will focus your market research and lead to understanding that will enable you to  develop an optimal business model.   
+ 
+Step 1b – Prioritize needs based on prototype business designs. 
+Once you have developed prototypes for your busine ss designs, the next step is to prioritize your 
+information needs.  In developing your information priorities, factor in the importance of the information to your business success, whether this information will significantly reduce risk, and the difficulty of gathering the information.  Belo w are lists of key questions on various topics 
+about which market research can help you gain greater insight.  The key assumptions for your 
+business will likely include one or more of the following:    On the market opportunity and competitive environment: 
+o Is the market big enough and at what rate is it growing or shrinking? Note on Market Research E-165    
+ p. 4
+o Is there a need compared to current and expected alternatives? 
+o Is the value proposition compelling enough to buy from a new player? 
+o How does our offering compare to what competitors are doing now 
+and expect to be doing?  
+  
+On the business model and strategy: 
+o Are pricing assumptions realistic? 
+o How would the market react to  different business models? 
+o What are the economics of the value chain and where can I 
+realistically enter? 
+o Does the segmentation and entry strategy match market realities? 
+o Which segments are most attractive?  Which are easiest to enter? 
+ On the sales and distribution channels: 
+o What is the purchasing unit and is there a cost effective way of 
+reaching it? 
+o How does the sales cycle and adoption rate affect the financial model? 
+o Are there sufficient early adopters to support the company?  
+ On using benchmarking to develop and vet assumptions: 
+o What are realistic R&D development times and costs?  
+o What production costs and capital i nvestment assumptions should be 
+used?  
+ 
+Entrepreneurs invariably are operating on limite d budgets and condensed time lines; therefore 
+prioritization is critical to every step of the process.  Market research demands constant evaluation of the attractiveness of different prot otype designs.  As you collect more data, you 
+will need to eliminate or modify prototypes.  Keep your research focused and discard less than optimal ideas quickly. 
+  
+S
+TEP 2: C ONDUCT EXPERT INTERVIEWS  
+ 
+An excellent way to jump-start your market re search program is through early use of industry 
+experts.  Industry experts are people with in  depth understanding of markets and customers 
+relevant to your new business. They typicall y have a broader perspective than individual 
+customers.  Experts can (1) give you initial “reality checks” on market and customer assumptions, the value proposition for your produc t or service concept, and how your product 
+compares to competitive offerings,  (2) provide ideas on how to refine your business concept and strategy to increase your chances of success,  (3) raise additional questions that should be 
+addressed during your market research and help re fine your prioritization of information needs, 
+and (4) help locate sources of secondary data a nd primary interview subj ects.  Experts can be 
+current or retired executives or professionals in  the field, consultants, industry stock analysts, 
+investors, or industry association staff.  Expert s can be identified throu gh networking (alumni, 
+friends, mentors, professional cont acts, professors, stock analysts ), industry news stories, and 
+industry associations.  Note on Market Research E-165    
+ p. 5
+Since experts will have different perspectives  and knowledge bases, you should try to conduct 
+early interviews with at least 3-5 industry experts.   The value of the data gathered from expert 
+interviews in accelerating a market research program can be enormous.  It can allow you to identify the key issues and to modify prototype bu siness designs months ear lier than if you relied 
+only on secondary and primary customer research. 
+ 
+S
+TEP 3: D EVELOP A DATA GATHERING PLAN  
+ 
+Once you have prioritized your information needs, and reviewed and modified them based on 
+industry expert interviews, the next step is to  develop a plan to identify tools, sources and 
+methods for gathering market.  The two main cat egories of information gathering techniques are 
+primary research (includes data gathered directly from potential customers using interviews, focus groups, surveys, choice modeling, and concep t testing) and secondary research (any data 
+gathered collected by one party and then put to  use by a second party).  Any market research 
+plan will include a mix of generating primary da ta and reviewing secondary research.      
+ 
+Secondary data  
+ 
+Secondary data – data devel oped by others – provides gene ral background information and 
+broad-brush market size and comp etitive information.  Since it is typically faster and easier to 
+use data generated by others than to develop the data yourself, secondary research is usually the 
+first step in collecting market information.  There are a number of sources for collecting 
+secondary data including: 
+ 
+/G131/G3Market reports (source: market research fi rms, stock analysts, census and government 
+data) 
+/G131/G3News/Trade Journal/Research/Magazine articles 
+/G131/G3Competitor literature and websites 
+/G131/G3Industry organizations 
+ 
+There are several considerations  to take into account when surveying secondary data.  The 
+source may have segmented the data in a way that  does not match your needs (i.e. the computer 
+printer market may be $10 billion, but that does not tell you the market for a high quality, high throughput color printers), the data you find may be few years old, or it may be biased (stock 
+analysts and market researchers often are not objective), and in some cases, the quality of the work is unknown.  Despite these concerns, a thor ough review of the secondary data will allow 
+you to learn of key industry trends, gather mu ch of the aggregate customer and market data 
+needed to develop market size and growth estimates, perform initial competitive intelligence, and identify where to focus your primary data generation work.  
+  
+Primary Data 
+ 
+There is no substitute for direct interviews and feedback with potential customers when it comes to understanding whether a proposed product or se rvice meets customer needs, determining how 
+the offering should be modified to increase the odds of success, and for gaining an appreciation 
+of the sales cycle and value proposition.  While the data from primary research is sometimes Note on Market Research E-165    
+ p. 6
+messy, contradictory, and inconc lusive, the insights and market intuition gained from direct 
+interaction with potential customers can be invaluable.    There are two categories of primary data collec tion – exploratory and confirmatory.  Exploratory 
+data collection tools are used to gain broad- based understandings and insights from a single 
+market research interaction.  Exploratory data  collection techniques in clude interviews with 
+potential customers, expert advisors, and so metimes focus groups.  Exploratory techniques 
+typically yield a wide range of valuable cust omer insights, but imprecise data.  Business 
+viability, however, rarely rests on small differences and exact answers at the initial stages of venture formation.  Usually entrepreneurs are seeking “ball park” estimates to test their 
+assumptions  - i.e. do 10,000 or 100,000 people need  high-end microscopes?  Will the sales cycle 
+take three months or 18 months?  Can th is product be priced for $20,000 or $200,000?   
+ 
+Tools for confirmatory data collection include: focus groups, surveys, choice modeling and 
+concept testing.  Entrepreneurs do not tend to employ these tools until the market is well understood and the company’s challenges have been clearly identified.  This is typically after a 
+business plan is developed and financing is se cured.  Confirmatory data collection should be 
+used earlier if there is an important issue for which having a more precise, higher confidence answer is key to the viability of the business concept.     
+ 
+   Primary Data Gathering Techniques  
+/G120/G3Interviews  – Interviews with potential users, distri butors, and buyers should be part of 
+nearly every market research plan.  They are often the best source of information for 
+testing assumptions with regard to the value proposition, segmentation, buying unit, and 
+sales cycle and for gaining an intuitive feel for customer requirements and needs.  Once the data needs are prioritized and initia l expert interviews  are held, conducting 
+exploratory customer interviews should be one of the next steps in your market research Expert Interviews
+Customer Interviews
+Focus Groups
+SurveysChoice
+ModelingExploratory
+ConfirmatoryNote on Market Research E-165    
+ p. 7
+program.  Typically, ten to twenty interviews per market segment will elicit the vast 
+majority of customer needs.1   
+ 
+/G120/G3Focus groups  – Focus groups consist of a collection of potential customers (usually from 
+5 to 10), and are typically moderated by a pr ofessional.  They are most effective when 
+exploring specific issues and testing reactions , but they can also be helpful in assessing 
+the basic need for a product or service, and for generating ideas on segmentation.  As 
+with interviews, focus groups can run the risk  of not being representative.  To mitigate 
+this risk, focus groups should not be your so le source of information, rather they should 
+be used as a form of validation and gaining in sight into other ways of looking at issues 
+and customer segments/needs.  Remember, participants will expect to get paid (or otherwise compensated) for their time.  Focus groups can cost between $5,000 and 
+$50,000, and take time to assemble .  Because of the costs and the time they take to 
+assemble, focus groups are not frequently used  at the business concept and business plan 
+development stage.  
+ 
+/G120/G3Surveys  – Surveys are mostly used for validation of need and market characteristics.  It is 
+difficult to know which issues to address in  a survey until you have conducted enough 
+research to have some understanding of your customers and your market.  When 
+conducting surveys, it is important to identif y the right list of questions to ask, to 
+understand the representativeness of your response s, and the effect of your response rate.  
+Web-based surveys can be easier and cheaper than mail or telephone, but be prepared to 
+spend time and money on any survey.  Surveys typically are not used at the concept or business plan stage unless there is an issue where precision is critical to answering a question fundamental to the viability of the bus iness or significantly strengthens the story 
+to potential investors.  
+ 
+/G120/G3Choice modeling and concept testing  -- Two other sources of primary data, choice 
+modeling and concept testing, tend to be less useful for entrepreneurs at the early stage of 
+developing a business strategy because of their narrow applicability.  Entrepreneurs can use these sources for confirmatory work on a critical issue.  These market research 
+techniques are targeted towards answerin g specific questions  on product design, 
+marketing campaigns, pricing, etc. Choice modeling attempts to answer the question of what product or service attri butes drive the purchase deci sion.  An example of choice 
+modeling would be to ask subjects to rank order different permutations of product 
+attributes shown on cards or computer screen s, with the primary goal of defining the 
+optimal product conf iguration.  Conjoint analysis
+2 and direct attribute weighting3 are two 
+among several possible methods of utilizing choi ce modeling.    Concept testing is used 
+to determine which among a sm all number of variables stimula tes the greatest response.  
+A typical use of concept testing would be to  collect data on response rates to different 
+                                                 
+1 Griffin, Abbie and Hauser, John R.  “The Voice of the Customer.”  Marketing Science .  Winter, 1993. pp. 1-27.  
+2 Conjoint analysis is a confirmatory process used to determine the best optimal combination among many 
+combinations of feasible or plausible features. 
+3 Direct attribute weighting has more exploratory potential than  conjoint analysis and is used to address situations in 
+which attributes of an existing product are weighed to find those that are most likely to favorably influence 
+customers’ decision process.   Note on Market Research E-165    
+ p. 8
+product promotions to enable better modeling of the costs of a marketing campaign and 
+anticipated revenue gains.     
+ 
+Study Design 
+ 
+Once you have selected your market research tool s, the next step is to design your studies.  
+Elements of a design include study objectives, research methods, sample sizes, and subject 
+selection criteria.  In entrepreneurial market research, you often will not have the time and resources to gather data that meets strict defi nitions of statistical significance.  You should 
+design your studies to facilitate  rapid learning that will enable  you to make judgments about 
+your market and business.  Some cons iderations for study design include: 
+ 
+/G131/G3Focus your research on learning about customer  needs, not just reaction to your specific 
+concept.  A deeper understanding of the customer can lead to ideas on how to better design your product or service co ncept and your business model. 
+  /G131/G3For most industrial and many consumer pr oducts or services, the inter-relationships 
+between the buying unit, those who influence the buying unit, and the product or service users can be subtle and complex.  Motiv ations can vary markedly depending on a 
+person’s role in the purchase decision and whethe r they expect to be a user.  Your market 
+research study should be designed to identify the various buying, influencing, and usage players and their roles, and to highlight their concerns and needs.  
+ 
+/G131/G3Your sample size will need to balance your time and resources with the need to gather 
+sufficient data to make critical business judgments.  While the size for surveys can be calculated based on the acceptable level of confidence of the results, there is no such formulaic method for determining the optimal number of interview subjects.  It is 
+important to make your sample large enough to ensure you will not have to make business judgments based on individual or a ve ry few number of data points.  Also, be 
+sure to collect data from different customer segments, including customers that are at varying points on a potential adoption curve. Samp le size can be an iterative process – if 
+you find a lot of consistency in responses earl y on, and there is sufficient variation in the 
+type of subjects, you can stop your research on that issue and move on.  Similarly, if there 
+is a scatter of input, the sample size may need to be increased or additional market 
+research tools used. 
+ 
+Order of research 
+ 
+Your plan for primary data collection should enab le you to reduce uncertainty, within your cost 
+and time constraints.  The order of your research is important because what you learn initially 
+might change the research you conduct later on.  It is best to start with exploratory tools to build 
+a broad base of understanding and then use confir matory tools to gather more exact data on key 
+issues.  Starting with secondary research, wh ich consumes less time and resources, will allow 
+you to avoid gathering data that others have collected for you and enable you to identify your remaining needs.  Also, starting with secondary data will facilita te narrowing the scope of the 
+information you need to collect from primary sources.   Note on Market Research E-165    
+ p. 9
+ 
+Once you start primary research data gathering, it is usually best to conduct some interviews 
+first, modify your plan based on your learning, and then proceed with additional interviews and 
+other primary research studies.  Often the lear ning from initial work enables you to pinpoint 
+critical questions where more work is needed an d identify new information needs that were not 
+originally anticipated.  Creatin g time lines, budget and resource re quirements will help manage 
+these inevitable mid-course adjustments.    
+ 
+STEP 4: C ONDUCT SECONDARY DATA REVIEW AND INITIAL PRIMARY RESEARCH  
+ 
+The two most common components of entreprene urial market research are secondary data 
+reviews and customer interviews.  As MBA st udents, you should be familiar with conducting 
+secondary research.  You may have less experien ce with market research interviews.  What 
+follows are some recommendations for how to gather your secondary and primary interview 
+data. 
+ 
+Secondary Data Gathering   
+ 
+Conducting a secondary data review is the most effective way to begin your research.  The 
+difficult part often is gaining access to expensive industry reports and data generated by analysts 
+that is not widely distributed.  Ways to access secondary sources on a limited budget include:    
+ 
+/G131/G3Utilizing a library that has analyst and industry reports.  
+/G131/G3Making calls to industry organizations. 
+/G131/G3Conducting competitor website searches and getting copies of competitor literature. 
+/G131/G3Finding industry consultant data references  in their own press releases, marketing 
+literature and websites as well as in magazine articles. 
+/G131/G3Having an industry expert provide you access to reports.  
+ 
+Primary Data Interviews  
+ 
+While conducting a secondary data review is generally straightfo rward, primary research is by 
+nature far more difficult.  Customer interviews can be hard to set-up and are time consuming to conduct.  It is easy to introduce biases into your questions and your interpretation of your 
+subject’s answers.  There are several practical  considerations that are critical to conducting 
+efficient and effective interviews that yield quality results:     
+/G131/G3Spend time in advance to develop interview guides so that you are sure to cover key 
+issues.  Be willing to deviate from your guide if a key insight can come from it.   
+/G131/G3Keep questions simple and focused on criti cal questions – do not overburden subjects 
+with overly long or complex interviews.  Ask open-ended questions that encourage subjects to talk.  If you have only yes and no and multiple choice questions, it is difficult for you to gain insights that you did not anticipate when you developed the interview guide. 
+/G131/G3Be considerate of subjects’ time.  Few will want to spend more than 30-40 minutes.  Note on Market Research E-165    
+ p. 10
+/G131/G3If possible, have multiple people particip ate and observe multiple subject groups.  
+Different people hear different things in interviews.  
+/G131/G3Be careful not to sell the concept during in terviews.  Try to get an honest reaction.  
+/G131/G3Start with in-person, local interviews an d test assumptions later with a more 
+geographically diverse sample.   
+/G131/G3Telephone interviews can sa ve time, but subjects are typically less open on the phone 
+than in person.  If you have limited time fo r in-person interviews, do the in-person 
+interviews early in your process to gather  broad-based information and then use the 
+telephone interviews fo r additional data gath ering and confirmation.  
+/G131/G3Develop a standard methodology for evaluating interview responses.  
+/G131/G3When reviewing data collected from interviews, identify representative interview 
+subjects, and assess biases and experience base  for relevance.  Be aware that thought 
+leaders are often earlier on the adoption cu rve and may not be representative of the 
+broader customer population.  
+ 
+Additional Practical Considerati ons for Conducting Research 
+ 
+Getting access to potential customers and research subjects, and their agreement to participate, 
+can be difficult.  You can induce subjects by re minding them that participating will give them 
+several unique opportunities including : learning about a new product or service that may be of 
+use, having the ability to influence developmen t of that product or service, and exposure to 
+general market intelligence.  Some subjects welcome the change from their normal routine and the opportunity to think more broadly.  You may al so offer to share a summary of the results of 
+your research, though be careful not to supply an y individual replies or other info that can be 
+traced to specific interview subject s.  Be prepared for many rejections and have a list large pool 
+of potential interview candidates.  Wherever possible, use prototypes and visual aids during your research.  Prototypes are particularly important for new concepts and products where the interview subjects will not have an accurate mental picture of what the company would be offering.  It is much easier for people to react to a concept if they see a model or example.  Rapid prototype development can be very helpful for refining your product or service concep t.  Prototypes can also facilitate insights on 
+how to change the product in order to expand your  market opportunity.  Exam ples of visual aids 
+include screen shots for software products, fl ow chart showing service offering, and plastic 
+models of a product. 
+ 
+S
+TEPS 5-7: I NTERPRETATION , FURTHER RESEARCH , AND BUSINESS CONCEPT REVISION  
+ 
+Market research data is not a quantitative science for entrepreneur s; rather it provides inputs to 
+allow you to make better judgment s.  Tabulation and quan tification is the first step of analysis, 
+but for entrepreneurs this is usually only the first step. You will need to apply judgment on what data is representative, how to interpret the data, and in some cases, whether to pay attention to the data at all.  For important issues where the data is unclear, try to “triangulate” by using data gathered from multiple market research sources and by multiple techniques.  Also, try to go back to the understanding you gained from learning about your customer.    Note on Market Research E-165    
+ p. 11
+Keep in mind that you need to match your results to your segmentation.  Be sure not to 
+generalize to entire markets if your results are only applicable to a specific customer subset.  You may need to readjust your segmentation if dictated by the data.  One difficult conflict that can arise is when data from “visionaries” does match data from the broader base of potential customers.  Look at many different differentiatio n and segmentation cuts to glean the most from 
+the data.  One of the goals of performing market research  is to develop an understanding of customer 
+needs and market dynamics so you can make informed judgments on issues where an analysis of the raw data itself does lead to clear conclusions.  For revolutionary ideas where it is difficult for the market research subjects to fully appr eciate the product value or application, data 
+interpretation can be especially difficult.  In these situations, you may need to rely principally on judgments based on your market research- info rmed intuition on likely customer reaction once 
+the product is introduced. 
+ 
+Be Willing to Iterate and Modify Your Plans  
+The purpose of market research is not to complete the research plan, but to identify ways to 
+increase your odds of success, expand your poten tial market, improve yo ur value equation, and 
+mitigate risks.  During the course of conducting market research and when it is complete, ask 
+yourself what you have learned about the customer need, the fit of your service or product to that 
+need, the buying process, the competitive environment, and the market size and projected growth.  Be sure to question your original assumptions in light of the data collected, test the overall viability of the business concept, and modify your offering and strategy in light on the market research results.  Be open to unexpected insights and new directions which will force you to repeat research phases and more importantly, to  change your business direction and plans.  If 
+you identify a key insight late in the process that is fundamental to your business, don’t be afraid 
+to go back to early participants to validate it. Look for modifications to your business and product concept that would vastly increase your value equation and market size.   
+ Market research can be a never-ending process,  but if you begin early you can improve your 
+chances of raising capital on more favorable terms by eliminating risk and fine-tuning your business strategy.  Market research is a valuable  tool entrepreneurs can employ to manage the 
+allocation of limited time and money towards the pursuit of an increasingly viable strategy.   
